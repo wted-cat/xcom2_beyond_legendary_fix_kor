@@ -2,7 +2,7 @@
 
 XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 AI와 **Totally Reasonable Definitely Not Psychotic Tedjam Plugin**의 병력·스토리 임무·최종 요새 수정을 함께 적용하는 LWOTC용 모드입니다.
 
-**플레이용 버전은 rev005입니다.** 전설에서 That Perilous Yearning(TPY)을 켜면 Bashar 뮤톤이 장착한 장비와 사격 가능 여부를 첫 행동에 반영합니다. 선택받은 자의 특수 능력, 카드 강화 효과, 임무별 병력 편성에는 rev004까지의 수정도 함께 적용됩니다. [rev005 모드](rev005/CoarseEnemyAIAndEncounters/) · [전체 변경 이력](CHANGELOG.md)
+**플레이용 버전은 rev005입니다.** 
 
 ## 설치 및 실행 방법
 
