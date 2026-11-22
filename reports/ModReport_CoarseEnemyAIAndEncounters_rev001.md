@@ -1,9 +1,9 @@
 # LWOTC Coarse 적 AI와 Tedjam 임무 통합 · rev001
 
-적이 행동을 건너뛰거나 유효한 표적을 놓치는 분기를 고쳤다. 나이트메어는 일반 근접 표적도 끝까지 평가하고, 어벤저 방어전에서는 자신의 잠복 해제 능력을 사용한다. Tedjam 플러그인 수정에서 정한 일반 병력 교대, 스토리 임무 편성, 최종 요새 포털의 강화·명단 복원·후반 Requiem 추가 추첨을 로컬 모드 하나에 담았다.
+악몽이 어벤저 방어전에서 잠복을 풀고, 일반 근접 표적을 고를 수 있도록 행동 순서를 연결했다. 스토리 임무에서는 원본 Tedjam의 ZERO SANITY 선택에 따라 병력이 달라지고, 최종 요새의 지정 포털 세 곳에는 레퀴엠 병력 한 기가 추가된다. rev001에서 확인한 범위는 설정·코드와 SDK 시험이다. 이후 같은 배포 파일로 게임 시작 오류가 재현됐고 rev002에서 수정했다. [시작 오류의 실게임 대조 기록](ModReport_CoarseEnemyAIAndEncounters_rev002.md#rev001control)
 
 - 모드 이름은 **LWOTC Coarse - Enemy AI and Encounters**, 런처 식별자는 `CoarseEnemyAIAndEncounters`다. [배포 폴더](../rev001/CoarseEnemyAIAndEncounters/)
-- 기준은 Windows WotC, 설치된 LWOTC Experimental 및 Ted Jam, Workshop의 **Requiem Legion: Coarse Edition** 배포본 `3555944655`다. 과거 수정본과 현재 원본을 별도로 읽고 마지막에 대조했다. 이전 Golden Path 오버라이드 AI 설정 268개 행을 모두 포함하며, 이번 점검으로 33개 행을 추가했다. 행 수에는 UE3 배열의 삭제·추가 연산이 포함된다.
+- 기준은 Windows WotC, 설치된 LWOTC Experimental 및 Ted Jam, Workshop의 **Requiem Legion: Coarse Edition** 배포본 `3555944655`다. 과거 수정본과 현재 원본을 별도로 읽고 마지막에 대조했다. 이전 Golden Path 모드의 AI 설정 268개 행을 모두 포함하며, 이번 점검으로 33개 행을 추가했다. 행 수에는 UE3 배열의 삭제·추가 연산이 포함된다.
 - 수정한 파일은 `.XComMod` 1개, `Config`의 INI 10개, `Src`의 UnrealScript 4개, `Script`의 컴파일 패키지 1개다. Workshop이나 게임 원본에 덮어쓸 파일은 없다.
 
 ## 적용 방법
@@ -17,24 +17,24 @@
 
 | 대상 | 플레이 중 동작과 실패 시 처리 | 확인 위치 |
 |---|---|---|
-| Coarse 나이트메어 | 기본판·LW 어벤저 방어전의 잠복 해제 분기를 실제 캐릭터 루트에 연결했다. 일반 교전에서 기존 민간인 우선순위를 유지한다. 그다음 근접 후보 전부를 평가하며 경계·제압은 점수 보너스로 작동한다. 공격 가능한 대상이 없으면 기존 추적·이동 분기로 진행한다. | `Config/XComAI.ini`의 `AHWChryssalidMagna::CharacterRoot`, `NightmareRedAbilitySelector`, `SelectBestTargetForNightmareMelee` |
-| 헌터·워록·Frost·공통 행동 | 헌터의 중복된 자식 번호·무기별 표적 선택, 워록의 자기 호출, Frost 계열의 누락 참조, Fan Fire 대소문자 중복, 공포·선택받은 자 경계 재등록, VIP 루트 괄호를 정리했다. 선택 플러그인의 이름과 우선순위를 적용한 최종 행동 트리에서 확인했다. | `Config/XComAI.ini`의 `TPYChosenWarlockFlush`, `UpdateChosenOverwatchEffectVar`, `VIPRoot` 및 LW `OverrideBehaviors` |
-| ADVENT Medic·Praetorian·Frost Adder·Cryo Priest | 의무병은 앞에 체력 60%를 넘는 후보가 있어도 뒤의 치료 대상을 검사한다. Praetorian은 명령 실행 분기로 이어지고, Frost Adder는 결박 유지, Cryo Priest는 냉기 수류탄 최소 2표적 기준을 사용한다. 스나이퍼·Raptor 전용 사격과 Blood Tide 반응 순서도 포함한다. | `Config/XComAI.ini`의 `EvaluateTargetsAdventMedikit`, `AHWPraetorianLieutenantsOrders`, `FrostAdder_RedAbilitySelector`, `CryoPriestGrenadeProfile`, `ARFMDE_BloodTideReaction` |
-| Coarse 특수 적 | Andromelid의 엄폐 행동, Taipan 권총의 측면 표적, Niven·Seraph·Mechapede의 표적 평가를 포함했다. Altar Desolate와 Cyberdisc Death Blossom은 원본 효과 정의로 인해 유효한 범위 후보가 잘못 탈락하는 검사를 해제했다. 일반 Desolate·Death Blossom은 최소 1표적, 테러용 Desolate는 최소 4표적이다. | `Config/XComAI.ini`의 `TaipanHuntPistol`, `MechapedeTargetEvaluations`, `AHWAltarDesolateProfile`, `AHWAltarDesolateTerrorProfile`, `AHWDeathBlossomProfile` |
-| Calendarium 및 ARFM 장비 | 장비가 요구하는 Highlander, Sectoid Launcher Fuse, Avatar Power가 없을 때 원본 생성 함수 `CreateARFMTPY_JANHighlander`, `CreateARFMPYP_SectoidLauncherFuse`, `CreateARFMDESW_AvatarPower`로 등록한다. Wall은 MegaTank, WholeHearted는 MassFire를 지급한다. 원본의 잘못된 이름으로 객체를 다시 생성하면 기존 능력까지 바뀌는 현상을 SDK에서 재현했다. Wall과 MassFire는 처음부터 전용 객체 이름을 사용한다. MassFire는 원본의 원뿔, 탄약, 재사용 대기시간, 환경 피해 설정을 사용하며 기존 MassBombard도 보존한다. | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseEnemyEquipment.uc`의 `RepairTemplates`, `RegisterMassFire` |
-| 보호막과 Spectral Bug | 원본이 같은 Kinetic Plating 객체를 두 번 넣은 경우에만 두 번째 자리를 보호막 피해 감소로 바꾼다. 현재 보호막이 양수일 때 남은 피해와 설정값 중 작은 만큼 감소한다. Spectral Bug 근접 무기 12종에서는 실제 `ARFMBugFeedback`가 없고 유효한 `ARFMSpectralSlash`가 있을 때만 끊어진 지급을 제거한다. 폭발형의 자폭과 다른 모드가 공급하는 실제 Feedback을 유지한다. | `CoarseEnemyEquipment.uc`의 `RepairShieldEffect`, `RemoveMissingFeedback` 및 같은 소스 폴더의 `X2Effect_CoarseBasharShield.uc` |
+| Coarse 악몽 | 기본판·LW 어벤저 방어전의 잠복 해제 분기를 실제 캐릭터 루트에 연결했다. 일반 교전에서 기존 민간인 우선순위를 유지한다. 그다음 근접 후보 전부를 평가하며 경계·제압은 점수 보너스로 작동한다. 공격 가능한 대상이 없으면 기존 추적·이동 분기로 진행한다. | `Config/XComAI.ini`의 `AHWChryssalidMagna::CharacterRoot`, `NightmareRedAbilitySelector`, `SelectBestTargetForNightmareMelee` |
+| 헌터·워록·서리·공통 행동 | 헌터의 중복된 자식 번호·무기별 표적 선택, 워록의 자기 호출, 서리 계열의 누락 참조, 트리플 샷 행동 이름의 대소문자 중복, 공포·선택받은 자 경계 재등록, VIP 루트 괄호를 정리했다. 선택 플러그인의 이름과 우선순위를 적용한 최종 행동 트리에서 확인했다. | `Config/XComAI.ini`의 `TPYChosenWarlockFlush`, `UpdateChosenOverwatchEffectVar`, `VIPRoot` 및 LW `OverrideBehaviors` |
+| 어드밴트 의무병·프라이토리안·서리 군단 살무사·어드밴트 서리 사제 | 의무병은 앞에 체력 60%를 넘는 후보가 있어도 뒤의 치료 대상을 검사한다. 프라이토리안은 명령 실행 분기로 이어지고, 서리 군단 살무사는 결박 유지, 어드밴트 서리 사제는 표적이 두 명 이상일 때 냉기 수류탄을 평가한다. 저격수·습격자 특공대 전용 사격과 피의 조류 반응 순서도 포함한다. | `Config/XComAI.ini`의 `EvaluateTargetsAdventMedikit`, `AHWPraetorianLieutenantsOrders`, `FrostAdder_RedAbilitySelector`, `CryoPriestGrenadeProfile`, `ARFMDE_BloodTideReaction` |
+| Coarse 특수 적 | 안드로멜리드의 엄폐 행동, 타이판 권총의 측면 표적, 니벤·레퀴엠 아르콘 계열·메카피드의 표적 평가를 포함했다. 새벽 파괴자의 의식과 사이버디스크 죽음의 꽃은 원본 효과 정의로 인해 유효한 범위 후보가 잘못 탈락하는 검사를 해제했다. 일반 임무의 두 능력은 표적 한 명 이상, 보복 임무의 의식은 네 명 이상을 요구한다. | `Config/XComAI.ini`의 `TaipanHuntPistol`, `MechapedeTargetEvaluations`, `AHWAltarDesolateProfile`, `AHWAltarDesolateTerrorProfile`, `AHWDeathBlossomProfile` |
+| Calendarium 및 ARFM 장비 | 장비가 요구하는 Highlander, `Sectoid` Launcher Fuse, Avatar Power가 없을 때 원본 생성 함수 `CreateARFMTPY_JANHighlander`, `CreateARFMPYP_SectoidLauncherFuse`, `CreateARFMDESW_AvatarPower`로 등록한다. `Wall`은 `MegaTank`, `WholeHearted`는 `MassFire`를 지급한다. 원본의 잘못된 이름으로 객체를 다시 생성하면 기존 능력까지 바뀌는 현상을 SDK에서 재현했다. `Wall`과 `MassFire`는 처음부터 전용 객체 이름을 사용한다. `MassFire`는 원본의 원뿔, 탄약, 재사용 대기시간, 환경 피해 설정을 사용하며 기존 `MassBombard`도 보존한다. | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseEnemyEquipment.uc`의 `RepairTemplates`, `RegisterMassFire` |
+| 보호막과 영혼 벌레 | 원본이 같은 Kinetic Plating 객체를 두 번 넣은 경우에만 두 번째 자리를 보호막이 있을 때의 피해 감소로 바꾼다. 현재 보호막이 양수일 때 남은 피해와 설정값 중 작은 만큼 감소한다. 영혼 벌레 근접 무기 12종에서는 실제 `ARFMBugFeedback`가 없고 유효한 `ARFMSpectralSlash`가 있을 때만 끊어진 지급을 제거한다. 폭발형의 자폭과 다른 모드가 공급하는 실제 `Feedback`을 유지한다. | `CoarseEnemyEquipment.uc`의 `RepairShieldEffect`, `RemoveMissingFeedback` 및 같은 소스 폴더의 `X2Effect_CoarseBasharShield.uc` |
 
 ## Tedjam의 병력 교대와 스토리 임무
 
 - 일반 병력은 적 전력 수준(FL)에 따라 교대한다. `DefaultFollowers_LW`와 `AdventFollowers_LW`에서 드론 M1은 FL 7, 트루퍼 M2는 11, 척탄병 M2는 12, 로켓병 M2는 13까지 양수 가중치를 가진다. 다음 단계부터 각 하위형이 빠진다. 보호 대상 임무와 전용 편성은 각각의 출현표를 사용한다. `Config/XComEncounterLists.ini`, `XComEncounters.ini`, `XComSchedules.ini`, `XComMissionDefs.ini`가 이 경로를 연결한다.
-- Berserker Omega Bridge가 실제로 공급한 `BerserkerOmega`는 테러·일반·ADVENT 지휘관의 보호 목록 세 곳에도 원본과 같은 FL·가중치로 한 번 들어간다. 확인한 브리지 값은 FL 16부터, 가중치 1이다. 캐릭터나 해당 원본 항목이 빠진 조합은 그대로 둔다. `X2DLCInfo_CoarseEncounters.uc`의 `IncludeOmegaInProtectedList`에서 처리한다.
-- 블랙사이트·포지·사이오닉 게이트·방송탑의 `GoldenPath1_LW`~`GoldenPath4_LW`에 이전 수정의 강화 조합을 적용한다. ZERO SANITY는 원본 옵션을 따른다. 포지의 `WithTerror`가 일반 `OPN`보다 먼저 평가되고, 방송탑 보호 코덱스는 원래 전용 편성을 쓴다. 방송탑 단독 드론은 옵션과 관계없이 Cyberdisc로 바뀐다.
-- 포지 **Extreme 전용 보스**는 ZERO SANITY를 꺼도 Mechapede 1기와 Cyberdisc 2기를 배치한다. 옵션을 켜면 Grandmaster 1기와 Exalted Custodian 2기를 더한다. 같은 일정의 **일반 보스**는 원본 Tedjam이 설정한 Mechapede 1기와 Gunship 2기를 쓴다. 전용 보스는 FL 0~7, 8~15, 16~99에서 각각 유효한 변형이 한 개다. 내부 ID `FL1_7`의 최소 제한은 0이다.
+- Berserker Omega Bridge가 실제로 공급한 `BerserkerOmega`는 테러·일반·어드밴트 지휘관의 보호 목록 세 곳에도 원본과 같은 FL·가중치로 한 번 들어간다. 확인한 브리지 값은 FL 16부터, 가중치 1이다. 캐릭터나 해당 원본 항목이 빠진 조합은 그대로 둔다. `X2DLCInfo_CoarseEncounters.uc`의 `IncludeOmegaInProtectedList`에서 처리한다.
+- 블랙사이트·포지·사이오닉 게이트·방송탑의 `GoldenPath1_LW`~`GoldenPath4_LW`에 이전 수정의 강화 조합을 적용한다. ZERO SANITY는 원본 옵션을 따른다. 포지의 `WithTerror`가 일반 `OPN`보다 먼저 평가되고, 방송탑 보호 코덱스는 원래 전용 편성을 쓴다. 방송탑 단독 드론은 옵션과 관계없이 사이버디스크로 바뀐다.
+- 포지 **Extreme 전용 보스**는 ZERO SANITY를 꺼도 메카피드 1기와 사이버디스크 2기를 배치한다. 옵션을 켜면 어드밴트 고위 커스토디안 그랜드마스터 1기와 어드밴트 고위 커스토디안 2기를 더한다. 같은 일정의 **일반 보스**는 원본 Tedjam이 설정한 메카피드 1기와 Gunship 2기를 쓴다. 전용 보스는 FL 0~7, 8~15, 16~99에서 각각 유효한 변형이 한 개다. 내부 ID `FL1_7`의 최소 제한은 0이다.
 - `Config/XComGame.ini`와 `X2DLCInfo_CoarseEncounters.uc`의 `PostEncounterCreation`이 원본 Tedjam 처리 후 해당 슬롯을 교체한다. 다른 임무·조우는 넘어온 명단을 그대로 사용한다. 원본 플러그인의 다른 스토리·선택받은 자 요새 처리도 계속 실행된다. [Community Highlander의 DLC 실행 순서](https://x2communitycore.github.io/X2WOTCCommunityHighlander/misc/DLCRunOrder/)
 
 ## 최종 요새 포털 증원
 
-대상은 `GP_FortressShowdown_LW`에서 맵 스크립트가 부르는 아래 여섯 목록이다. 선택된 명단은 스포너별로 담았다가 후순위 훅에서 한 번 복원한다. 동시에 걸린 다른 스포너의 명단, 전투 시작 배치, 별도 선택받은 자 증원에는 개입하지 않는다. Perilous Yearning 등 중간 훅이 대상 포털의 명단을 바꿔도 원래 추첨 결과를 복원한다. `X2DLCInfo_CoarsePortalCapture.uc`의 `PostReinforcementCreation`과 `RestoreRoster`에서 확인할 수 있다.
+대상은 `GP_FortressShowdown_LW`에서 맵 스크립트가 부르는 아래 여섯 목록이다. 선택된 명단은 스포너별로 담았다가 후순위 훅에서 한 번 복원한다. 동시에 걸린 다른 스포너의 명단, 전투 시작 배치, 별도 선택받은 자 증원에는 개입하지 않는다. 위태로운 갈망 등 중간 훅이 대상 포털의 명단을 바꿔도 원래 추첨 결과를 복원한다. `X2DLCInfo_CoarsePortalCapture.uc`의 `PostReinforcementCreation`과 `RestoreRoster`에서 확인할 수 있다.
 
 | 포털 | 기본 고유 편성 | 추가 슬롯 적용 전 추첨 항목 | 최종 포털 인원 |
 |---|---:|---:|---:|
@@ -51,19 +51,21 @@
 
 ## 검증
 
-현재 설치 자료에서 WotC의 AI 설정·DLC 설정 3개와 Workshop 43개 모드의 AI 설정 70개를 읽었다. 프로젝트에서 비활성으로 지정한 배포본을 제외하고 Coarse를 명시적으로 포함했다. 동일 항목은 Workshop 폴더 번호순과 로컬 후순위로 병합하고, LWOTC의 `UIScreenListener_Shell.UpdateAIBehaviors`가 수행하는 삭제·추가·조건부 교체 우선순위를 적용했다. 아래의 행동 트리 수치는 이 구성에 대한 정적 결과다.
+WotC의 AI·DLC 설정 3개와 창작마당 43개 모드의 AI 설정 70개를 비교했다. Coarse Edition을 포함하고 기본 비활성 배포본을 제외했다. 이때는 창작마당 폴더 번호순과 로컬 모드 후순위를 **가정**하고 병합한 뒤, LWOTC의 `UIScreenListener_Shell.UpdateAIBehaviors`가 적용하는 삭제·추가·교체 순서를 코드에서 재현했다. 아래 수치는 이 가정에 대한 정적 결과다. 실제 게임이 설정을 읽은 순서는 rev002의 격리 프로필에서 확인했다. [실제 병합 순서](ModReport_CoarseEnemyAIAndEncounters_rev002.md)
 
 | 검증 방식 | 재현 조건·절차 | 기대 결과 | 관찰한 결과 | 상태 |
 |---|---|---|---|---|
-| 정적 AI 병합 | 통합본 적용 전후의 FName, 자식 참조, 번호, 구문, 재귀를 대조. Ted Jam Requiem Plugin 및 Reshi를 각각 켜고 끈 네 조합으로 반복 | 최종 이름이 하나씩이고 유효한 분기로 연결 | 기본 점검 구성에서 중복 이름 24→0, 미해결 자식 참조 발생 57→0, 번호 오류 7→0, 구문 오류 1→0, 순환 1→0. 네 조합 모두 최종 행동 6,006개에서 이 다섯 항목 0건 | 통과 |
+| 정적 AI 병합 | 통합본 적용 전후의 `FName`, 자식 참조, 번호, 구문, 재귀를 대조. Ted Jam Requiem Plugin 및 Reshi를 각각 켜고 끈 네 조합으로 반복 | 최종 이름이 하나씩이고 유효한 분기로 연결 | 기본 점검 구성에서 중복 이름 24→0, 미해결 자식 참조 발생 57→0, 번호 오류 7→0, 구문 오류 1→0, 순환 1→0. 네 조합 모두 최종 행동 6,006개에서 이 다섯 항목 0건 | 통과 |
 | 표적 선택 모의 검사 | 게임의 후보 초기화·양수 점수 채택을 따라 일반 후보만, 일반 뒤 제압, 경계 뒤 일반, 혼합, 빈 목록을 순회 | 일반 후보를 채택하고 더 높은 보너스를 우선. 빈 목록은 표적 없음 | 5/5 일치. 원본은 일반 후보가 앞에 있는 두 후보 사례에서 유효 후보를 놓침 | 통과 |
 | 정적 출현표 | 두 일반 부하 목록에서 네 병종의 교대 직전부터 FL 99까지 양수 가중치를 확인. 각 설정 내 `ETP_` 참조 교차 검사 | 네 경계 일치, 조우·일정·목록 연결 | 경계 8건 일치. `ETP_` 조우 224개, 버킷 93개, 일정 28개, 출현 목록 9개에서 신규 미해결 참조 0건 | 통과 |
 | 스토리 분기 모의 검사 | 최종 스크립트를 읽어 4개 임무군·포지 원본 및 변형·보호 코덱스·임무 미지정에 ZERO SANITY 켬/끔을 적용. 포지 일반 보스는 원본 플러그인과 대조 | 전용 보스·추가 병력·우선순위·예외 슬롯 일치 | 44/44 일치. FL 0~99 각 값에서 포지 Extreme 변형 1개. 이전 Golden Path 수정본과 스토리 함수 일치 | 통과 |
 | 정적 요새 추첨 | LWOTC가 마지막 `ReplacementEncounterBuckets`를 적용한 뒤 각 항목의 편성·고정 인원·아바타를 확인 | 기본 고유 편성 40개. 후반 세 포털에서 인원만 1 증가 | 여섯 목록의 항목 수 14/16/8/2/10/7. 후반 세 목록에서 기존 아바타 0/1/2기 보존 | 통과 |
-| WotC SDK 빌드·패키지 | 격리 WotC SDK에서 실제 `ARFMDarkEvents.u`로 컴파일. 출력 파일을 다시 열어 내장 소스·기본값 및 외부 참조 대조 | 클래스 4개가 소스와 일치하고 참조 해석 | 최종 모드 컴파일 오류 0, 경고 0. 패키지 845/120, 내장 소스 4개와 보호막 효과 기본값 일치. import 207개, export 148개. 참조 공급 패키지 Core·Engine·XComGame·ARFMDarkEvents 확인 | 통과 |
-| WotC SDK 실행 | 최종 바이너리를 로드. 포털 6종·중첩 스포너·명단 한 번 소비·대상 밖, 여섯 후보와 가중치·중복 실행·누락 편성, 방송탑과 Omega, 장비 등록·보호막을 실제 WotC 객체로 검사 | 로스터와 원래 가중치 보존, 누락 시 원복, 선택 장비 보존. 감소량 6에서 보호막 있으면 피해 10→4·3→0, 보호막 없으면 10→10 | `COARSE-QA 54 checks 0 failures`. 원본과 같은 잘못된 UObject 이름을 사용한 중간판에서 Wall과 WholeHearted 검사가 실패했고 최종판에서 통과. 다른 모드의 MassBombard와 기존 보너스 능력도 보존 | 통과 |
-| 인게임 전술 AI | Coarse와 필수 모드를 켠 시험 캠페인에서 일반 표적과 경계·제압 표적을 함께 둔 나이트메어, 부상 아군을 둔 Medic, 헌터·워록 행동, Altar·Cyberdisc 범위 공격 관찰 | AI가 유효한 조건에서 행동하고 대상이 없으면 다음 분기로 진행 | 해당 구성의 실제 전술 턴 미관찰 | 미실행 |
-| 인게임 임무·세이브 | 임무 생성 전 전략 세이브를 두 사본으로 나누어 ZERO SANITY 켬/끔으로 포지와 방송탑 생성. 최종 요새에서 일반·정화·아바타 포털 발동 후 전술 저장·불러오기 | 표와 같은 편성·아바타 수. 재진입 후 추가 슬롯 누적 없음 | 실제 캠페인·저장 재진입 미실행. 현재 런처 선택 파일에는 Coarse ID가 빠져 있음 | 미실행 |
+| WotC SDK 빌드·패키지 | 격리 WotC SDK에서 실제 `ARFMDarkEvents.u`로 컴파일. 출력 파일을 다시 열어 내장 소스·기본값 및 외부 참조 대조 | 클래스 4개가 소스와 일치하고 참조 해석 | 최종 모드 컴파일 오류 0, 경고 0. 패키지 845/120, 내장 소스 4개와 보호막 효과 기본값 일치. import 207개, export 148개. 참조 공급 패키지 Core·Engine·`XComGame`·`ARFMDarkEvents` 확인 | 통과 |
+| WotC SDK 실행 | 최종 바이너리를 로드. 포털 6종·중첩 스포너·명단 한 번 소비·대상 밖, 여섯 후보와 가중치·중복 실행·누락 편성, 방송탑과 Omega, 장비 등록·보호막을 실제 WotC 객체로 검사 | 로스터와 원래 가중치 보존, 누락 시 원복, 선택 장비 보존. 감소량 6에서 보호막 있으면 피해 10→4·3→0, 보호막 없으면 10→10 | `COARSE-QA 54 checks 0 failures`. 원본과 같은 잘못된 `UObject` 이름을 사용한 중간판에서 `Wall`과 `WholeHearted` 검사가 실패했고 최종판에서 통과. 다른 모드의 `MassBombard`와 기존 보너스 능력도 보존 | 통과 |
+| 인게임 전술 AI | Coarse와 필수 모드를 켠 시험 캠페인에서 일반 표적과 경계·제압 표적을 함께 둔 악몽, 부상 아군을 둔 Medic, 헌터·워록 행동, 제단·사이버디스크 범위 공격 관찰 | AI가 유효한 조건에서 행동하고 대상이 없으면 다음 분기로 진행 | 해당 구성의 실제 전술 턴 미관찰 | 미실행 |
+| 인게임 임무·세이브 | 임무 생성 전 전략 세이브를 두 사본으로 나누어 ZERO SANITY 켬/끔으로 포지와 방송탑 생성. 최종 요새에서 일반·정화·아바타 포털 발동 후 전술 저장·불러오기 | 표와 같은 편성·아바타 수. 재진입 후 추가 슬롯 누적 없음 | 실제 캠페인·저장 재진입 미실행. 당시 런처 선택 파일에는 Coarse ID가 빠져 있음 | 미실행 |
+
+일반 적 턴과 캠페인 저장 재진입은 이 버전에서 미실행이다. 당시 설정으로 예상한 보복 임무 제단의 최소 인원과 실제 발동 여부는 별개의 결과다. rev006에서 민간인 네 명을 배치해 실제 의식과 사망을 확인했다. [rev006 전술 결과](ModReport_CoarseEnemyAIAndEncounters_rev006.md)
 
 배포 패키지 `Script/CoarseEnemyAIAndEncounters.u`는 72,487바이트이며 SHA-256은 `df88e5b908351665f02a6b8afbf7756e46fe14c89575c707cc37a0b94c119e91`이다. 최종 배포 파일 16개를 모두 다시 읽었다.
 
