@@ -8,11 +8,15 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 1. Long War of the Chosen, Ted Jam+ Collection Meta Mod, Requiem Legion: Coarse Edition,  A Requiem For Man: Gameplay Mutators, A Requiem For Man: ADVENT Pack, Totally Reasonable Definitely Not Psychotic Tedjam Plugin, Tedster's Requiem Legion Tweaks Coarse Edition 과 관련된 모드가 구독된 상태여야 합니다. 런처에서 쓰는 정확한 필수·충돌 모드 ID는 설정 파일에 있습니다. [의존성 목록](rev005/CoarseEnemyAIAndEncounters/Config/XComGame.ini)
 
-2. release에 있는 rev005.zip 파일을 받습니다. 압축을 푼 다음, AML을 실행 후, Options > Settings에 해당 경로를 추가합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
+2. release의 fix_release_rev005을 클릭한 다음, AI_Encounter_Fixes_rev005.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
 
-3. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
+3. zip 파일의 압축을 풀면 'CoarseEnemyAIAndEncounters' 디렉터리가 생성됩니다. 필요한 경우 적절한 경로로 이동합니다.
 
-4. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**을 선택합니다.
+4. AML을 실행 후, Options > Settings에 압축을 푼 CoarseEnemyAIAndEncounters 디렉터리 경로를 추가합니다.
+
+5. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
+
+6. 게임을 실행한 후, 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**을 선택합니다.
 
 ## 버전별 보고서 (세부 보고서 내용는 AI로 작성되어 있습니다.)
 
