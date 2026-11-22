@@ -22,7 +22,7 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 - [Totally Reasonable Definitely Not Psychotic Tedjam Plugin](https://steamcommunity.com/sharedfiles/filedetails/?id=3835619377)
 
-- 이 모드 자체에서 요구하는 정확한 필수, 충돌 모드 ID는 설정 파일에 있습니다. 현재 의존성 모드에 +IncompatibleMods(충돌 모드) 로 등록된 항목은 현재 모드를 생성하기 전 테스트에 사용한 모드들의 리스트로, 일반적인 경우 문제가 없습니다.
+- 이 모드 자체에서 요구하는 정확한 필수, 충돌 모드 ID는 설정 파일에 있습니다. 설정 파일에 +IncompatibleMods(충돌 모드) 로 등록된 항목은 이 모드를 생성하기 전 테스트에 사용한 모드들의 리스트로, 일반적인 경우 무시해도 됩니다.
 
 2. release의 fix_release_rev005을 클릭한 다음, AI_Encounter_Fixes_rev005.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
 
@@ -32,7 +32,7 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 5. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
 
-6. 게임을 실행한 후, 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**을 선택합니다.
+6. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**이 반드시 선택된 상태여야 합니다.
 
 ## 버전별 보고서 (세부 보고서 내용는 AI로 작성되어 있습니다.)
 
