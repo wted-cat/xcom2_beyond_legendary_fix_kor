@@ -1,0 +1,86 @@
+rev004 / Intervals05.log / 검증 로그 발췌
+
+Init: Version: 8917
+[0114.73] ScriptLog: R4|SHELL|5|False
+[0115.82] ScriptLog: R4|NEWGAME|3|True
+[0137.57] ScriptLog: R4|STRATEGY|5|0|True|3|True
+[0137.97] ScriptLog: R4|WAITMAP|1|UIYearningWarningBox
+[0138.97] ScriptLog: R4|WAITMAP|2|UIAlert
+[0139.98] ScriptLog: R4|INTERVAL|1|False|True|False|True|March 1, 2035
+[0140.79] ScriptLog: R4|CLICK|5|YMMutonEnhancement|3|1|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0141.20] ScriptLog: R4|INTERVAL|2|False|True|True|True|April 1, 2035
+[0142.02] ScriptLog: R4|CLICK|5|YMShieldbearerMindLink|3|2|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0142.80] ScriptLog: R4|WAITMAP|1|UIAlert
+[0143.81] ScriptLog: R4|INTERVAL|3|False|True|True|True|May 1, 2035
+[0144.62] ScriptLog: R4|CLICK|5|YMStunlancerEnhancement|2|3|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0145.36] ScriptLog: R4|WAITMAP|1|UIAlert
+[0146.43] ScriptLog: R4|WAITMAP|2|UIAlert
+[0147.44] ScriptLog: R4|INTERVAL|4|False|True|True|True|June 1, 2035
+[0148.25] ScriptLog: R4|CLICK|5|YMStunlancerGrenades|2|4|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0149.00] ScriptLog: R4|WAITMAP|1|UIAlert
+[0150.08] ScriptLog: R4|WAITMAP|2|UIAlert
+[0151.11] ScriptLog: R4|INTERVAL|5|False|True|True|True|July 1, 2035
+[0151.91] ScriptLog: R4|CLICK|5|YMTrooperGrenades|1|5|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0152.69] ScriptLog: R4|WAITMAP|1|UIAlert
+[0153.71] ScriptLog: R4|WAITMAP|2|UITutorialBox
+[0154.72] ScriptLog: R4|WAITMAP|3|UIAlert
+[0155.74] ScriptLog: R4|WAITMAP|4|UIChosenEncountered
+[0156.76] ScriptLog: R4|WAITMAP|5|UIChosenEncountered
+[0157.76] ScriptLog: R4|WAITMAP|6|UIChosenEncountered
+[0158.78] ScriptLog: R4|INTERVAL|6|False|True|True|True|August 1, 2035
+[0159.59] ScriptLog: R4|CLICK|5|YMTriParteThirtyThree|3|6|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0160.56] ScriptLog: R4|WAITMAP|1|UIAlert
+[0161.62] ScriptLog: R4|INTERVAL|7|False|True|True|True|September 1, 2035
+[0162.45] ScriptLog: R4|CLICK|5|YMTriParteFour|3|7|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0163.24] ScriptLog: R4|WAITMAP|1|UIAlert
+[0164.31] ScriptLog: R4|WAITMAP|2|UIAlert
+[0165.33] ScriptLog: R4|INTERVAL|8|False|True|True|True|October 1, 2035
+[0166.14] ScriptLog: R4|CLICK|5|YMTriParteTwentySeven|3|8|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0167.01] ScriptLog: R4|WAITMAP|1|UIAlert
+[0168.09] ScriptLog: R4|INTERVAL|9|False|True|True|True|November 1, 2035
+[0168.92] ScriptLog: R4|CLICK|5|YMTriParteThirty|3|9|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0170.39] ScriptLog: R4|SAVED|True|15
+[0172.88] ScriptLog: R4|LOADED|True
+[0201.98] ScriptLog: R4|STRATEGY|5|9|True|3|True
+[0202.39] ScriptLog: R4|WAITMAP|1|UIFacilityGrid
+[0203.92] ScriptLog: R4|WAITMAP|2|UIAlert
+[0204.95] ScriptLog: R4|WAITMAP|3|UIAlert
+[0205.95] ScriptLog: R4|WAITMAP|4|UIAlert
+[0206.98] ScriptLog: R4|INTERVAL|10|False|True|True|True|December 1, 2035
+[0207.80] ScriptLog: R4|CLICK|5|YMTriParteThirtyFour|2|10|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0208.60] ScriptLog: R4|WAITMAP|1|UIAlert
+[0209.64] ScriptLog: R4|INTERVAL|11|False|True|True|True|January 1, 2036
+[0210.44] ScriptLog: R4|CLICK|5|YMTriParteNineteen|2|11|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0210.85] ScriptLog: R4|WAITMAP|1|UIAlert
+[0212.24] ScriptLog: R4|WAITMAP|2|UIAlert
+[0213.25] ScriptLog: R4|WAITMAP|3|UIAlert
+[0214.28] ScriptLog: R4|INTERVAL|12|False|True|True|True|February 1, 2036
+[0215.09] ScriptLog: R4|CLICK|5|YMTriParteThree|1|12|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0215.90] ScriptLog: R4|WAITMAP|1|UIAlert
+[0216.96] ScriptLog: R4|INTERVAL|13|False|True|True|True|March 1, 2036
+[0217.77] ScriptLog: R4|CLICK|5|YMTriParteEighteen|3|13|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0218.17] ScriptLog: R4|WAITMAP|1|UIAlert
+[0219.61] ScriptLog: R4|WAITMAP|2|UIAlert
+[0220.62] ScriptLog: R4|WAITMAP|3|UIAlert
+[0221.66] ScriptLog: R4|INTERVAL|14|False|True|True|True|April 1, 2036
+[0222.47] ScriptLog: R4|CLICK|5|YMTriParteTwentyThree|1|14|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0223.32] ScriptLog: R4|WAITMAP|1|UIAlert
+[0224.34] ScriptLog: R4|INTERVAL|15|False|True|True|True|May 1, 2036
+[0225.15] ScriptLog: R4|CLICK|5|YMTriParteThirtySix|3|15|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0225.55] ScriptLog: R4|WAITMAP|1|UIAlert
+[0226.97] ScriptLog: R4|WAITMAP|2|UIAlert
+[0227.99] ScriptLog: R4|WAITMAP|3|UIAlert
+[0229.01] ScriptLog: R4|INTERVAL|16|False|True|True|True|June 1, 2036
+[0229.81] ScriptLog: R4|CLICK|5|YMTriParteThirtyFive|1|16|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0230.64] ScriptLog: R4|WAITMAP|1|UIAlert
+[0231.71] ScriptLog: R4|INTERVAL|17|False|True|True|True|July 1, 2036
+[0232.52] ScriptLog: R4|CLICK|5|YMTriParteTwelve|1|17|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0232.94] ScriptLog: R4|WAITMAP|1|UIAlert
+[0234.34] ScriptLog: R4|WAITMAP|2|UIAlert
+[0235.35] ScriptLog: R4|WAITMAP|3|UIAlert
+[0236.36] ScriptLog: R4|INTERVAL|18|False|True|True|True|August 1, 2036
+[0237.17] ScriptLog: R4|CLICK|5|YMTriParteTwentyEight|2|18|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0239.25] ScriptLog: R4|SAVED|True|16
+[0242.07] ScriptLog: R4|LOADED|True
+[0272.05] ScriptLog: R4|STRATEGY|5|18|True|3|True
+[0272.05] ScriptLog: R4|FINISHED|natural intervals|18

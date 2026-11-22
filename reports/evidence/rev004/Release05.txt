@@ -1,0 +1,8 @@
+rev004 / Release05.log / 검증 로그 발췌
+
+Init: Version: 8917
+[0000.60] Warning: Failed to bind listen socket in FDebugServer::Init
+[0005.50] Heading: --------------------CoarseEnemyAIAndEncounters - Release--------------------
+[0005.50] Log: Loading global macros for CoarseEnemyAIAndEncounters
+[0005.91] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)
+[0005.91] Warning: Skipping saving the shader cache as another instance of the game is running.

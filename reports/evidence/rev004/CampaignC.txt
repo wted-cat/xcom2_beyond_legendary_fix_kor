@@ -1,0 +1,82 @@
+rev004 / CampaignC.log / 검증 로그 발췌
+
+Init: Version: 8917
+[0114.61] ScriptLog: R4|SHELL|3|False
+[0115.72] ScriptLog: R4|NEWGAME|3|True
+[0137.17] ScriptLog: R4|STRATEGY|3|0|True|3|True
+[0138.34] ScriptLog: R4|CLICK|3|YMMutonEnhancement|1|1|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0139.36] ScriptLog: R4|CLICK|3|YMOfficerEnhancement|3|2|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0140.37] ScriptLog: R4|CLICK|3|YMSectoidEnhancement|2|3|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0141.37] ScriptLog: R4|CLICK|3|YMStunlancerEnhancement|3|4|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0142.39] ScriptLog: R4|CLICK|3|YMPurifierEnhancement|1|5|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0143.40] ScriptLog: R4|CLICK|3|YMTrooperEnhancement|1|6|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0144.42] ScriptLog: R4|CLICK|3|YMTrooperMindLink|2|7|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0145.43] ScriptLog: R4|CLICK|3|YMLancerMindLink|2|8|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0146.45] ScriptLog: R4|CLICK|3|YMOfficerMindLink|1|9|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0147.46] ScriptLog: R4|CLICK|3|YMPriestEnhancement|2|10|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0148.47] ScriptLog: R4|CLICK|3|YMPriestMindLink|3|11|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0149.48] ScriptLog: R4|CLICK|3|YMShieldbearerMindLink|1|12|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0150.49] ScriptLog: R4|CLICK|3|YMMECEnhancement|3|13|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0150.70] ScriptLog: R4|MONTH|1|13|True
+[0150.86] ScriptLog: R4|MONTH|2|13|True
+[0151.81] ScriptLog: R4|CLICK|3|YMTrooperGrenades|2|14|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0152.83] ScriptLog: R4|CLICK|3|YMStunlancerGrenades|3|15|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0153.85] ScriptLog: R4|CLICK|3|YMTriParteTwentyFive|3|16|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0154.86] ScriptLog: R4|CLICK|3|YMTriParteTwentyThree|2|17|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0155.07] ScriptLog: R4|MONTH|3|17|True
+[0156.02] ScriptLog: R4|CLICK|3|YMTriParteThirtyTwo|2|18|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0157.03] ScriptLog: R4|CLICK|3|YMTriParteTwentySeven|1|19|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0158.04] ScriptLog: R4|CLICK|3|YMTriParteEleven|3|20|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0159.05] ScriptLog: R4|CLICK|3|YMTriParteEighteen|1|21|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0160.06] ScriptLog: R4|CLICK|3|YMTriParteNineteen|3|22|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0161.07] ScriptLog: R4|CLICK|3|YMTriParteThirtyThree|1|23|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0162.09] ScriptLog: R4|CLICK|3|YMTriParteThirty|1|24|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0163.10] ScriptLog: R4|CLICK|3|YMTriParteThirtySix|1|25|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0164.11] ScriptLog: R4|CLICK|3|YMTriParteThirtyOne|3|26|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0165.12] ScriptLog: R4|CLICK|3|YMTriParteThirtyFive|2|27|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0165.33] ScriptLog: R4|MONTH|4|27|True
+[0166.29] ScriptLog: R4|CLICK|3|YMTriParteTwentyNine|2|28|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0167.47] ScriptLog: R4|SAVED|True|7
+[0169.70] ScriptLog: R4|LOADED|True
+[0197.80] ScriptLog: R4|STRATEGY|3|28|True|3|True
+[0198.98] ScriptLog: R4|CLICK|3|YMTriParteTwo|3|29|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0199.99] ScriptLog: R4|CLICK|3|YMTriParteFour|1|30|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0201.00] ScriptLog: R4|CLICK|3|YMTriParteTwentyOne|1|31|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0202.01] ScriptLog: R4|CLICK|3|YMTriParteThree|2|32|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0203.02] ScriptLog: R4|CLICK|3|YMTriParteTwentyEight|3|33|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0204.04] ScriptLog: R4|CLICK|3|YMTriParteSeventeen|2|34|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0205.05] ScriptLog: R4|CLICK|3|YMTriParteOne|1|35|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0206.06] ScriptLog: R4|CLICK|3|YMTriParteThirteen|1|36|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0207.06] ScriptLog: R4|CLICK|3|YMTriParteThirtyFour|3|37|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0207.25] ScriptLog: R4|MONTH|5|37|True
+[0208.23] ScriptLog: R4|CLICK|3|YMSpectreEmpowerment|2|38|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0209.24] ScriptLog: R4|CLICK|3|YMAndromedonEmpowerment|3|39|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0210.25] ScriptLog: R4|CLICK|3|YMTriParteFifteen|2|40|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0211.27] ScriptLog: R4|CLICK|3|YMTriParteEight|3|41|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0212.28] ScriptLog: R4|CLICK|3|YMTriParteSixteen|3|42|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0213.29] ScriptLog: R4|CLICK|3|YMPurifierEmpowerment|1|43|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0214.31] ScriptLog: R4|CLICK|3|YMTriParteSeven|1|44|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0215.31] ScriptLog: R4|CLICK|3|YMTriParteTwentyFour|1|45|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0216.33] ScriptLog: R4|CLICK|3|YMTriParteFive|3|46|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0217.34] ScriptLog: R4|CLICK|3|YMTriParteSix|2|47|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0218.36] ScriptLog: R4|CLICK|3|YMTriParteTen|1|48|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0218.54] ScriptLog: R4|MONTH|6|48|True
+[0219.50] ScriptLog: R4|ART|YMTriParteThirtySeven|ARFMDE_UILibrary.PYP_Alert
+[0219.98] ScriptLog: R4|CLICK|3|YMTriParteThirtySeven|3|49|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0220.99] ScriptLog: R4|CLICK|3|YMSectopodEmpowerment|1|50|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0222.00] ScriptLog: R4|CLICK|3|YMTriParteTwentyTwo|3|51|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0223.01] ScriptLog: R4|CLICK|3|YMTriParteTwenty|2|52|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0223.20] ScriptLog: R4|MONTH|7|52|True
+[0224.18] ScriptLog: R4|CLICK|3|YMTriParteFourteen|3|53|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0225.19] ScriptLog: R4|CLICK|3|YMTriParteTwelve|2|54|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0226.20] ScriptLog: R4|CLICK|3|YMTriParteNine|2|55|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0226.39] ScriptLog: R4|MONTH|8|55|True
+[0226.54] ScriptLog: R4|MONTH|9|55|True
+[0226.70] ScriptLog: R4|MONTH|10|55|True
+[0226.85] ScriptLog: R4|MONTH|11|55|True
+[0227.01] ScriptLog: R4|MONTH|12|55|True
+[0227.99] ScriptLog: R4|CLICK|3|YMTriParteTwentySix|2|56|True|img:///ARFMDE_UILibrary.PYP_Alert|PICK YOUR POISON
+[0229.14] ScriptLog: R4|SAVED|True|8
+[0231.40] ScriptLog: R4|LOADED|True
+[0259.58] ScriptLog: R4|STRATEGY|3|56|True|3|True
+[0259.58] ScriptLog: R4|FINISHED|campaign|3
