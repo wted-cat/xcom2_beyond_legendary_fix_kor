@@ -8,13 +8,19 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 1. 다음 모드와 관련된 모드들이 구독된 상태여야만 합니다. 일반적인 Beyond Legendary 환경인 경우, 누락된 모드가 있는지만 확인하면 됩니다.
 
-[Long War of the Chosen](https://steamcommunity.com/sharedfiles/filedetails/?id=2663990965)
-[Ted Jam+ Collection Meta Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3310018472)
-[Requiem Legion: Coarse Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3555944655)
-[A Requiem For Man: Gameplay Mutators](https://steamcommunity.com/sharedfiles/filedetails/?id=2795578857)
-[A Requiem For Man: ADVENT Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3512490242)
-[Tedster's Requiem Legion Tweaks Coarse Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3744810123)
-[Totally Reasonable Definitely Not Psychotic Tedjam Plugin](https://steamcommunity.com/sharedfiles/filedetails/?id=3835619377)
+- [Long War of the Chosen](https://steamcommunity.com/sharedfiles/filedetails/?id=2663990965)
+
+- [Ted Jam+ Collection Meta Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3310018472)
+
+- [Requiem Legion: Coarse Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3555944655)
+
+- [A Requiem For Man: Gameplay Mutators](https://steamcommunity.com/sharedfiles/filedetails/?id=2795578857)
+
+- [A Requiem For Man: ADVENT Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3512490242)
+
+- [Tedster's Requiem Legion Tweaks Coarse Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=3744810123)
+
+- [Totally Reasonable Definitely Not Psychotic Tedjam Plugin](https://steamcommunity.com/sharedfiles/filedetails/?id=3835619377)
 
 이 모드 자체에서 요구하는 정확한 필수, 충돌 모드 ID는 설정 파일에 있습니다. [의존성 목록](rev005/CoarseEnemyAIAndEncounters/Config/XComGame.ini)
 현재 의존성 모드에 +IncompatibleMods(충돌 모드) 로 등록된 항목은 현재 모드를 생성하기 전 테스트에 사용한 모드들의 리스트로, 일반적인 경우 문제가 없습니다.
