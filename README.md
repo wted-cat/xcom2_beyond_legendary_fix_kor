@@ -1,17 +1,20 @@
-# LWOTC Coarse - Enemy AI and Encounters
+# Beyond legendary fix for korea user
 
 XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 AI와 **Totally Reasonable Definitely Not Psychotic Tedjam Plugin**의 병력·스토리 임무·최종 요새 수정을 함께 적용하는 LWOTC용 모드입니다.
 
 **플레이용 버전은 rev005입니다.** 전설에서 That Perilous Yearning(TPY)을 켜면 Bashar 뮤톤이 장착한 장비와 사격 가능 여부를 첫 행동에 반영합니다. 선택받은 자의 특수 능력, 카드 강화 효과, 임무별 병력 편성에는 rev004까지의 수정도 함께 적용됩니다. [rev005 모드](rev005/CoarseEnemyAIAndEncounters/) · [전체 변경 이력](CHANGELOG.md)
 
-## 설치
+## 설치 및 실행 방법
 
-1. rev001부터 rev005까지 들어 있는 압축 파일을 풀거나 저장소를 내려받습니다. 런처의 로컬 모드 검색 경로에 **rev005** 폴더를 Workshop 경로 다음으로 추가합니다. 그 안에 `CoarseEnemyAIAndEncounters/CoarseEnemyAIAndEncounters.XComMod`가 있습니다.
-2. 다섯 버전의 런처 식별자는 모두 `CoarseEnemyAIAndEncounters`입니다. 이전 버전 경로를 빼고 목록을 새로 고친 뒤 **LWOTC Coarse - Enemy AI and Encounters**의 위치가 rev005인지 확인합니다.
-3. WotC Community Highlander, LWOTC, Ted Mod Jam for LWOTC, Requiem Legion: Coarse Edition(3555944655), ARFMDarkEvents(2795578857), ARFMAdventPack, 원본 Tedjam 플러그인(3835619377)을 함께 켭니다. 이전에 독립 AI·요새 패치를 썼다면 중복 항목을 끕니다. 런처에서 쓰는 정확한 필수·충돌 모드 ID는 설정 파일에 있습니다. [의존성 목록](rev005/CoarseEnemyAIAndEncounters/Config/XComGame.ini)
-4. 게임을 다시 시작합니다. rev005의 TPY 검증 조건을 재현하려면 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**을 선택합니다. Tedjam의 스토리 편성은 해당 임무를 생성하기 전 전략 저장에서 확인할 수 있습니다.
+1. Long War of the Chosen, Ted Jam+ Collection Meta Mod, Requiem Legion: Coarse Edition,  A Requiem For Man: Gameplay Mutators, A Requiem For Man: ADVENT Pack, Totally Reasonable Definitely Not Psychotic Tedjam Plugin, Tedster's Requiem Legion Tweaks Coarse Edition 과 관련된 모드가 구독된 상태여야 합니다. 런처에서 쓰는 정확한 필수·충돌 모드 ID는 설정 파일에 있습니다. [의존성 목록](rev005/CoarseEnemyAIAndEncounters/Config/XComGame.ini)
 
-## 버전별 보고서
+2. release에 있는 rev005.zip 파일을 받습니다. 압축을 푼 다음, AML을 실행 후, Options > Settings에 해당 경로를 추가합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
+
+3. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
+
+4. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**을 선택합니다.
+
+## 버전별 보고서 (세부 보고서 내용는 AI로 작성되어 있습니다.)
 
 | 버전 | 주요 내용 | 검증 기록 |
 |---|---|---|
