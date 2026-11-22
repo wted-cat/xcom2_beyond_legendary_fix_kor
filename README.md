@@ -32,7 +32,7 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 5. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
 
-6. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**이 반드시 선택된 상태여야 합니다.
+6. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**이 반드시 선택된 상태여야 합니다. **ZERO SANITY**는 반드시 킬 필요는 없으나 키는걸 권장합니다.
 
 ## 버전별 보고서 (세부 보고서 내용는 AI로 작성되어 있습니다.)
 
