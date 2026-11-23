@@ -2,6 +2,8 @@
 
 XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psychotic Tedjam Plugin 환경에서 적 AI, 병력 편성, 임무 스케줄 수정을 한번에 적용하는 모드입니다.
 
+버전별 세부 보고서는 reports 디렉터리를 참조하기 바랍니다. 세부 보고서 내용는 AI로 작성되어 있습니다.
+
 **현재 최신 플레이용 버전은 rev006입니다.** 
 
 ## 설치 및 실행 방법
@@ -33,9 +35,3 @@ XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psycho
 5. 모드의 런쳐 내부 식별자는 'CoarseEnemyAIAndEncounters' 입니다. AML에서 경로를 등록해도 인식하지 않는 경우, Refresh를 클릭하거나 재시작을 합니다.
 
 6. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**이 반드시 선택된 상태여야 합니다. **ZERO SANITY**는 반드시 킬 필요는 없으나 키는걸 권장합니다.
-
-## 버전별 보고서는 reports 디렉터리를 참조하기 바랍니다 (세부 보고서 내용는 AI로 작성되어 있습니다.)
-
-rev001은 초기 구현을 비교할 수 있도록 보관한 버전입니다. 당시 SDK 검사 54건은 통과했으나 같은 바이너리는 후속 실게임 시험에서 시작 중 종료됐습니다. rev002에서 원인을 수정하고 전술 전투 진입을 확인했습니다.
-
-각 버전 폴더에는 해당 시점의 설정, UnrealScript 소스, 컴파일 패키지가 들어 있습니다. 보고서는 검증 당시 수행한 정적 검토, SDK 검사, 실제 게임 관찰과 미실행 사례를 구분합니다. [GitHub 배포 파일 검증](reports/ModReport_rev001-rev005_GitHub.md)
