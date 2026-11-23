@@ -1,0 +1,103 @@
+{
+ "schedule_declarations": 850,
+ "matched_with_placement": 850,
+ "slot_count": 8208,
+ "compared_explicit_slot_fields": 30593,
+ "schedule_differences": [],
+ "detailed_encounter_differences": [],
+ "conditional_appends": [
+  [
+   0,
+   "OPNx2_Standard",
+   "ARFMSecurityEnhancement",
+   850
+  ],
+  [
+   1,
+   "OPNx2_Standard",
+   "ARFMSecurityEnhancement2",
+   850
+  ],
+  [
+   2,
+   "OPNx3_Standard",
+   "ARFMSecurityEnhancement3",
+   850
+  ],
+  [
+   3,
+   "OPNx3_Standard",
+   "ARFMSecurityEnhancement4",
+   850
+  ],
+  [
+   4,
+   "OPNx4_Standard",
+   "ARFMSecurityEnhancement5",
+   850
+  ],
+  [
+   5,
+   "ARFM_OverwhelmDoctrine",
+   "ARFMDESW_CHAOverwhelmDoctrine",
+   850
+  ]
+ ],
+ "etp_grid": 10044,
+ "eligible_draws": 8544,
+ "no_eligible_draws": 1500,
+ "illegal_grid": [],
+ "base_inside_variant_absent": {},
+ "story_hook_calls": 40,
+ "story_specific_errors": [],
+ "portal_hook_calls": 60,
+ "portal_restore_errors": [],
+ "portal_orders": {
+  "0": [
+   "x2dlcinfo_coarseportalcapture",
+   "x2downloadablecontentinfo_longwarofthechosen",
+   "x2dlcinfo_chooseyouraliens",
+   "x2downloadablecontentinfo_aharderwarabsurdaliens",
+   "x2downloadablecontentinfo_arfmdarkevents",
+   "optc_cursedentourage",
+   "x2downloadablecontentinfo_totallynotpsychogoldenpath",
+   "x2dlcinfo_coarseencounters"
+  ],
+  "1": [
+   "x2dlcinfo_coarseportalcapture",
+   "x2downloadablecontentinfo_longwarofthechosen",
+   "x2dlcinfo_chooseyouraliens",
+   "x2downloadablecontentinfo_aharderwarabsurdaliens",
+   "x2downloadablecontentinfo_arfmdarkevents",
+   "optc_cursedentourage",
+   "x2downloadablecontentinfo_totallynotpsychogoldenpath",
+   "x2dlcinfo_coarseencounters"
+  ]
+ },
+ "story_option_restored": [
+  "False",
+  "False"
+ ],
+ "story_environment": [
+  [
+   "3",
+   "True",
+   "False"
+  ]
+ ],
+ "story_hook_order_errors": [],
+ "independent_mod_changes": [
+  [
+   "GoldenPath1_LW",
+   "ADVx4_Standard",
+   "X2DownloadableContentInfo_LongWarOfTheChosen",
+   2
+  ],
+  [
+   "GoldenPath2_LW",
+   "ADVx4_Standard",
+   "X2DownloadableContentInfo_LongWarOfTheChosen",
+   2
+  ]
+ ]
+}

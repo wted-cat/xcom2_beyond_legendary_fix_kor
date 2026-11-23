@@ -1,0 +1,234 @@
+{
+ "game_counts": [
+  "1370",
+  "204",
+  "5078",
+  "1229",
+  "144"
+ ],
+ "declared": {
+  "ENC": [
+   275,
+   275
+  ],
+  "BUCKET": [
+   114,
+   114
+  ],
+  "LIST": [
+   2308,
+   92
+  ],
+  "SCHED": [
+   850,
+   835
+  ]
+ },
+ "matches": {
+  "ENC": 275,
+  "BUCKET": 114,
+  "LIST": 2308,
+  "SCHED": 850
+ },
+ "omega_source_protected": {
+  "etp_original_terrorleaders": [
+   {
+    "berserkeromega:16:16:1:2.0000": 1,
+    "berserkeromega:17:17:1:2.0000": 1,
+    "berserkeromega:18:18:1:2.0000": 1,
+    "berserkeromega:19:19:1:3.0000": 1,
+    "berserkeromega:20:99:1:3.0000": 1,
+    "berserkeromega:16:99:1:1.0000": 1
+   },
+   {
+    "berserkeromega:16:16:1:2.0000": 1,
+    "berserkeromega:17:17:1:2.0000": 1,
+    "berserkeromega:18:18:1:2.0000": 1,
+    "berserkeromega:19:19:1:3.0000": 1,
+    "berserkeromega:20:99:1:3.0000": 1,
+    "berserkeromega:16:99:1:1.0000": 1
+   },
+   true
+  ],
+  "etp_original_defaultleaders_lw": [
+   {
+    "berserkeromega:16:16:1:2.0000": 1,
+    "berserkeromega:17:17:1:2.0000": 1,
+    "berserkeromega:18:18:1:2.0000": 1,
+    "berserkeromega:19:19:1:3.0000": 1,
+    "berserkeromega:20:99:1:3.0000": 1,
+    "berserkeromega:16:99:1:1.0000": 1
+   },
+   {
+    "berserkeromega:16:99:1:1.0000": 1,
+    "berserkeromega:16:16:1:2.0000": 1,
+    "berserkeromega:17:17:1:2.0000": 1,
+    "berserkeromega:18:18:1:2.0000": 1,
+    "berserkeromega:19:19:1:3.0000": 1,
+    "berserkeromega:20:99:1:3.0000": 1
+   },
+   true
+  ],
+  "etp_original_adventleaders_lw": [
+   {
+    "berserkeromega:16:99:1:1.0000": 1
+   },
+   {
+    "berserkeromega:16:99:1:1.0000": 1
+   },
+   true
+  ]
+ },
+ "slots": {
+  "ENC": 1075,
+  "BUCKET": 414,
+  "LIST": 13679,
+  "SCHED": 8208
+ },
+ "mismatches": {},
+ "bounds_checked": 5845,
+ "failed_bounds": [],
+ "directly_referenced": 711,
+ "schedule_dangling": [],
+ "mission_dangling": [],
+ "native_draws": 1696,
+ "draw_buckets": 99,
+ "native_draws_blank": {
+  "ETP_DLC2_LG_VPRx2x2_Select": {
+   "None": 16
+  },
+  "ETP_ADVx4_Weak_Patrol_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx4_Standard_Patrol_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx4_Weak_Fireteam_LW_PROTECTED_Select": {
+   "None": 16
+  },
+  "ETP_ADVx4_Standard_Fireteam_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx3_Early_RPGTeam_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx3_Mid_RPGTeam_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx6_Weak_Rocketteam_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx6_Standard_Rocketteam_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx8_Early_Squad_LW_Select": {
+   "None": 16
+  },
+  "ETP_ADVx8_Mid_Squad_LW_Select": {
+   "None": 16
+  },
+  "ETP_Muton_Warband_Early_PROTECTED_Select": {
+   "None": 16
+  },
+  "ETP_Muton_Warband_Mid_PROTECTED_Select": {
+   "None": 16
+  },
+  "ETP_ALNx6_TroopManeuvers_AlienPodMidLate_Select": {
+   "None": 16
+  },
+  "ETP_Small_Supply_Command_Pod_MidLate_PROTECTED_Select": {
+   "None": 16
+  },
+  "ETP_VerySmall_Supply_Command_Pod_MidLate_PROTECTED_Select": {
+   "None": 16
+  },
+  "ETP_LONE_DRONEM1_Select": {
+   "None": 16
+  }
+ },
+ "portal_draws": {
+  "LIST_FinalShowdown_DualAvatarTeam": {
+   "FSLR_GP_Fortress_DualAvatarTeam_E_FinalTier_AHWCyberdiscT4": 2,
+   "FSLR_GP_Fortress_DualAvatarTeam_E_FinalTier_AHWHeavyMechtoidT4": 2,
+   "FSLR_GP_Fortress_DualAvatarTeam_D_FinalTier_AHWMechapede": 1,
+   "FSLR_GP_Fortress_DualAvatarTeam_D_FinalTier_AHWLegate": 2,
+   "FSLR_GP_Fortress_DualAvatarTeam_F_FinalTier_AHWHeavyMechtoidT4": 1,
+   "FSLR_GP_Fortress_DualAvatarTeam_G_FinalTier_AHWLegate": 2,
+   "FSLR_GP_Fortress_DualAvatarTeam_A_FinalTier_AHWIncubatorMagnaT4": 2,
+   "FSLR_GP_Fortress_DualAvatarTeam_B_FinalTier_AHWCyberdiscT4": 1,
+   "FSLR_GP_Fortress_DualAvatarTeam_F_FinalTier_AHWMechapede": 1,
+   "FSLR_GP_Fortress_DualAvatarTeam_F_FinalTier_AHWLegate": 1,
+   "FSLR_GP_Fortress_DualAvatarTeam_F_FinalTier_AHWIncubatorMagnaT4": 1
+  },
+  "LIST_FinalShowdown_AvatarTeam": {
+   "FSLR_GP_Fortress_AvatarTeam_C_LW_TJ_FinalTier_AHWMechapede": 2,
+   "FSLR_GP_Fortress_AvatarTeam_A_LW_TJ_AHWBerserkerMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_G_LW_FinalTier_AHWIncubatorMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_G_LW_FinalTier_AHWMechapede": 1,
+   "FSLR_GP_Fortress_AvatarTeam_E_LW_TJ_AHWBerserkerMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_C_LW_TJ_FinalTier_ExtraRoll_AHWBerserkerMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_D_LW_TJ_AHWMechapede": 1,
+   "FSLR_GP_Fortress_AvatarTeam_A_LW_TJ_AHWIncubatorMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_E_LW_TJ_AHWIncubatorMagnaT4": 2,
+   "FSLR_GP_Fortress_AvatarTeam_C_LW_TJ_FinalTier_ExtraRoll_AHWHeavyMechtoidT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_G_LW_FinalTier_AHWLegate": 1,
+   "FSLR_GP_Fortress_AvatarTeam_D_LW_TJ_AHWLegate": 1,
+   "FSLR_GP_Fortress_AvatarTeam_G_LW_FinalTier_AHWBerserkerMagnaT4": 1,
+   "FSLR_GP_Fortress_AvatarTeam_G_LW_FinalTier_AHWCyberdiscT4": 1
+  },
+  "LIST_FinalShowdown_PurgeTeam": {
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWBerserkerMagnaT4": 1,
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWCyberdiscT4": 4,
+   "FSLR_Showdown_Purge_Gatekeepers_LW_TJ_AHWHeavyMechtoidT4": 2,
+   "FSLR_Showdown_Purge_Gatekeepers_LW_TJ_AHWCyberdiscT4": 3,
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWIncubatorMagnaT4": 1,
+   "FSLR_Showdown_Purge_Gatekeepers_LW_TJ_AHWBerserkerMagnaT4": 2,
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWHeavyMechtoidT4": 1,
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWMechapede": 1,
+   "FSLR_Showdown_Purge_Sectopods_LW_TJ_AHWLegate": 1
+  },
+  "LIST_FinalShowdown_T3RNF": {
+   "Showdown_T3RNF_GatekeeperSetC_LW_TJ": 4,
+   "Showdown_T3RNF_SectopodSetC_LW_TJ_FinalTier": 7,
+   "Showdown_T3RNF_GatekeeperSetB_LW_TJ": 2,
+   "Showdown_T3RNF_SectopodSetB_LW_TJ": 8,
+   "Showdown_T3RNF_SectopodSetA_LW_TJ": 5,
+   "Showdown_T3RNF_SectopodSetC_LW_TJ_FinalTier_ExtraRoll": 3,
+   "Showdown_T3RNF_GatekeeperSetA_LW_TJ_FinalTier": 2,
+   "Showdown_T3RNF_GatekeeperSetA_LW_TJ_FinalTier_ExtraRoll": 1
+  },
+  "LIST_FinalShowdown_T2RNF": {
+   "Showdown_T2RNF_BerserkerSwarm_LW_TJ_FinalTier": 9,
+   "Showdown_T2RNF_AndromedonSwarm_LW_TJ": 4,
+   "Showdown_T2RNF_PriestSwarm_LW_FinalTier_ExtraRoll": 6,
+   "Showdown_T2RNF_MectoidSwarm_LW_TJ_Req_FinalTier_ExtraRoll": 3,
+   "Showdown_T2RNF_AndromelidSwarm_LW_TJ_Req_FinalTier_ExtraRoll": 3,
+   "Showdown_T2RNF_ArchonSwarm_LW_TJ_Req_FinalTier_ExtraRoll": 6,
+   "Showdown_T2RNF_AndromelidSwarm_LW_TJ_Req_FinalTier": 8,
+   "Showdown_T2RNF_PriestSwarm_LW_FinalTier": 6,
+   "Showdown_T2RNF_BigMutonSwarm_LW_TJ": 4,
+   "Showdown_T2RNF_BerserkerSwarm_LW_TJ_FinalTier_ExtraRoll": 6,
+   "Showdown_T2RNF_ArchonSwarm_LW_TJ_Req_FinalTier": 5,
+   "Showdown_T2RNF_SpectreSwarm_LW_FinalTier_ExtraRoll": 8,
+   "Showdown_T2RNF_ShieldTroopers_LW_TJ": 2,
+   "Showdown_T2RNF_MECSwarm_LW_TJ": 6,
+   "Showdown_T2RNF_MectoidSwarm_LW_TJ_Req_FinalTier": 3,
+   "Showdown_T2RNF_SpectreSwarm_LW_FinalTier": 1
+  },
+  "LIST_FinalShowdown_T1RNF": {
+   "Showdown_T1RNF_ViperSwarm_LW_TJ": 1,
+   "Showdown_T1RNF_SectoidSwarm_LW_TJ_FinalTier_ExtraRoll": 5,
+   "Showdown_T1RNF_MutonSwarm_LW_TJ_FinalTier_ExtraRoll": 4,
+   "Showdown_T1RNF_ChryssalidSwarm_LW_TJ_Req_FinalTier": 4,
+   "Showdown_T1RNF_SectoidSwarm_LW_TJ_FinalTier": 8,
+   "Showdown_T1RNF_ShieldTroopers_LW_TJ_FinalTier_ExtraRoll": 2,
+   "Showdown_T1RNF_TaipanSwarm_LW_TJ_Req_FinalTier": 6,
+   "Showdown_T1RNF_TaipanSwarm_LW_TJ_Req_FinalTier_ExtraRoll": 2,
+   "Showdown_T1RNF_CodexSwarm_LW_TJ_Req_FinalTier_ExtraRoll": 4,
+   "Showdown_T1RNF_ShieldTroopers_LW_TJ_FinalTier": 3,
+   "Showdown_T1RNF_CodexSwarm_LW_TJ_Req_FinalTier": 3,
+   "Showdown_T1RNF_AdvSwarm_LW": 2,
+   "Showdown_T1RNF_MutonSwarm_LW_TJ_FinalTier": 4
+  }
+ }
+}

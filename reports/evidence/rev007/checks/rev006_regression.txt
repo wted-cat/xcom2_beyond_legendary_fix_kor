@@ -1,0 +1,41 @@
+OK archive integrity
+OK Altar03 Legend and That Perilous Yearning
+OK BeforeAltar Legend and That Perilous Yearning
+OK FocusedAltar Legend and That Perilous Yearning
+OK Support04 Legend and That Perilous Yearning
+OK SupportGaps Legend and That Perilous Yearning
+OK OtherGaps Legend and That Perilous Yearning
+OK PostRevision Legend and That Perilous Yearning
+OK FocusedSight Legend and That Perilous Yearning
+OK FinalDefense Legend and That Perilous Yearning
+OK FinalAltar Legend and That Perilous Yearning
+OK FinalBlood Legend and That Perilous Yearning
+OK FinalSingleBind Legend and That Perilous Yearning
+OK FocusedAltar original/repaired radius with civilian and allied targets
+OK BeforeAltar original/repaired radius with civilian and allied targets
+OK terror last action used the charged altar and killed four civilians
+OK terror-specific AI attack branch completed
+OK two actual radial attacks with two injured soldiers each
+OK both shooter and non-shooter tiles actually used
+OK AHWNiven restored wounded unit at 8 HP to 20 HP
+OK AHWNivenT3 restored wounded unit at 8 HP to 20 HP
+OK M4 Mercy selected and killed the designated BleedingOut target
+OK M4 Mercy selected and killed the designated Dazed target
+OK M4 Mercy selected and killed the designated Unconscious target
+OK healthy control in melee range
+OK healthy control rejected by both abilities, actual replacement action
+OK medic healed the selected wounded soldier
+OK officer order and subsequent ally shot
+OK two flanked alert units with a charge were rejected before the repair
+OK Blood Tide honors alert levels 0, 1, and 2
+OK two separate reaction charges spent exactly once
+OK reaction granted an action point during the XCOM turn
+OK same unit used the granted point and injured a soldier
+OK reaction granted an action point during the XCOM turn
+OK same unit used the granted point and injured a soldier
+OK bound fixture used an actual, legal binding action
+OK same unit remained bound and took six crush damage on three actual alien turns
+OK CommanderVIP completed two stationary neutral turns
+OK StasisSuitVIP completed two stationary neutral turns
+OK native Adder bound and crushed a single soldier without a fixture activation
+OK Warlock displaced in reaction to a successful XCOM Flush

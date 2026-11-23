@@ -1,0 +1,61 @@
+{
+ "etp_total": 10044,
+ "valid_nonempty": 8544,
+ "valid_empty": 1500,
+ "portal_grid": 648,
+ "portal_grid_blank": 0,
+ "grid_differences": [],
+ "current_tags": [],
+ "holes_in_original": {},
+ "tag_trials": 432,
+ "tag_buckets": {
+  "ETP_Original_LIST_BOSSx4_Expanded": 36,
+  "ETP_Original_LIST_BOSSx3_Expanded": 36,
+  "ETP_Original_LIST_BOSSx2_Expanded": 36,
+  "ETP_Original_LIST_RULER_Viper": 36,
+  "ETP_Original_LIST_RULER_Berserker": 36,
+  "ETP_Original_LIST_RULER_Archon": 36,
+  "ETP_Original_LIST_BOSSx4_Standard": 36,
+  "ETP_Original_LIST_BOSSx3_Standard": 36,
+  "ETP_Original_LIST_BOSSx2_Standard": 36,
+  "ETP_Original_LIST_OPNx2_Special": 36,
+  "ETP_Original_LIST_OPNx3_Special": 36,
+  "ETP_Original_LIST_OPNx4_Special": 36
+ },
+ "tag_errors": [],
+ "cycles": [],
+ "replacements": {
+  "list_finalshowdown_t3rnf": 8,
+  "list_finalshowdown_t2rnf": 16,
+  "list_finalshowdown_t1rnf": 14,
+  "list_finalshowdown_avatarteam": 60,
+  "list_finalshowdown_dualavatarteam": 42
+ },
+ "fixed_variants": 114,
+ "late_base_pods": 19,
+ "variant_order_errors": [],
+ "variant_errors": [],
+ "schedule_repair": {
+  "supplyextraction_lw": [
+   true,
+   true,
+   1
+  ],
+  "bigsupplyextraction_lw": [
+   true,
+   true,
+   1
+  ],
+  "smashngrab_lw": [
+   true,
+   true,
+   1
+  ],
+  "gathersurvivors": [
+   true,
+   true,
+   1
+  ]
+ },
+ "betrayal_schedules": 28
+}

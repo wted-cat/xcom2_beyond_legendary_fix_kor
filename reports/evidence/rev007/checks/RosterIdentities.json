@@ -1,0 +1,836 @@
+{
+ "AdventSniperM3": [
+  [
+   "AdventSniper_WoTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "KirukasDarkEventsLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "SectoidAbjurerLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Cryo Priest Standalone/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Duelist/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Medic/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Psi Ops/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Sniper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Warlock/XComAI.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Bio Division 2.0/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Custodian Pack/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Flame Viper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Destroyer/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Harriers/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Pathfinders/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Purge Priests/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/The Drome Dome/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "AdventDuelistM3": [
+  [
+   "AdventDuelist_WoTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "KirukasDarkEventsLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "SectoidAbjurerLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Cryo Priest Standalone/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Duelist/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Medic/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Psi Ops/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Sniper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Warlock/XComAI.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Bio Division 2.0/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Custodian Pack/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Flame Viper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Destroyer/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Harriers/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Pathfinders/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Purge Priests/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/The Drome Dome/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "AdvWraithM3": [
+  [
+   "AdventCommandos",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "KirukasDarkEventsLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "SectoidAbjurerLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGame.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Cryo Priest Standalone/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Duelist/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Medic/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Psi Ops/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Advent Sniper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Bio Division 2.0/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Custodian Pack/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Flame Viper/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Destroyer/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Muton Harriers/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Pathfinders/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Purge Priests/XcomGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/The Drome Dome/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "FrostTech_M3": [
+  [
+   "KirukasDarkEventsLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/XComGameData.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/AddFollowersToABA/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/AddFollowersToClaus/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/AddFollowersToCX/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/AddFollowersToHectorzx/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "SectoidAbjurerLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToABA/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToAshlynne/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToClaus/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToCX/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToLeaderEnemyBoss/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Knights/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Kriegsmarines/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Outriders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Runners/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Stingers/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "ARFMAdventPack",
+   "Config/Torchers/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Andromelids/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/AndromelidsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/AndromelidsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/AndromelidsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Compat/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Cyberdiscs/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/CyberdiscsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/CyberdiscsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/CyberdiscsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Fantassins/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FantassinsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FantassinsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FantassinsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Floaters/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FloatersT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FloatersT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/FloatersT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Gunships/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/GunshipsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/GunshipsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/GunshipsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HeavyFloaters/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HeavyFloatersT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HeavyFloatersT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HeavyFloatersT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HeavyMechtoid/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Hinters/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HintersT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HintersT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HintersT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Hives/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HivesT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HivesT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HivesT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/HulksT1/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Legates/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Mechtoids/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/MechtoidsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/MechtoidsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/MechtoidsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Navigators/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NavigatorsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NavigatorsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NavigatorsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Nightmares/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NightmaresT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NightmaresT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NightmaresT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Nivens/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NivensT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NivensT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/NivensT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Seekers/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeekersT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeekersT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeekersT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Seraphs/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeraphsT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeraphsT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/SeraphsT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Servitors/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Taipans/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TaipansT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TaipansT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TaipansT4/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Titans/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TitansT2/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TitansT3/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/TitansT4/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "FrostCobra": [
+  [
+   "FrostDivision",
+   "Config/XComAI.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "FrostHitman_M3": [
+  [
+   "FrostDivision",
+   "Config/XComGame.ini"
+  ],
+  [
+   "FrostDivision",
+   "Config/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/XComGame.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToABA/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToAshlynne/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToCX/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToLeaderEnemyBoss/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "FrostHardliner_M3": [
+  [
+   "FrostDivision",
+   "Config/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "SectoidAbjurerLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameCore.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToABA/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToAshlynne/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToClaus/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToCX/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/AddFollowersToLeaderEnemyBoss/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Leaders/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Advent/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Alien/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TedModJamForLWOTC",
+   "Config/Frost Legion/Followers/Robotic/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "AHWOutsiderMagna": [
+  [
+   "TedJamRequiemLegionPlugin",
+   "Config/Requiem Legion/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "TheEthereals",
+   "Config/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/XComAI.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Compat/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Hinters/XComGameData_CharacterStats.ini"
+  ],
+  [
+   "AHarderWarAbsurdAliens",
+   "Config/Legates/XComGameData_CharacterStats.ini"
+  ]
+ ],
+ "ARFMAdvOutriderM3": [
+  [
+   "ARFMAdventPack",
+   "Config/Outriders/XComGameData_CharacterStats.ini"
+  ]
+ ]
+}

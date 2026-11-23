@@ -1,0 +1,1562 @@
+[
+ {
+  "mod": "robojumperSquadSelect_WotC",
+  "workshop": "1122974240"
+ },
+ {
+  "mod": "Missing_FX_Package_Resource",
+  "workshop": "1124064427"
+ },
+ {
+  "mod": "WotC_ColorCodedBonds",
+  "workshop": "1124175584"
+ },
+ {
+  "mod": "WotCEnhancedAoEPreview",
+  "workshop": "1124333578"
+ },
+ {
+  "mod": "InstantAvengerMenus",
+  "workshop": "1124410215"
+ },
+ {
+  "mod": "AlliesUnknownEvacZoneFix",
+  "workshop": "1124713229"
+ },
+ {
+  "mod": "UpcomingEvents",
+  "workshop": "1125698656"
+ },
+ {
+  "mod": "HoursInsteadofDaysWOTC",
+  "workshop": "1125973633"
+ },
+ {
+  "mod": "EvacAll_WotC",
+  "workshop": "1126395106"
+ },
+ {
+  "mod": "AdventSniper_WoTC",
+  "workshop": "1126501968"
+ },
+ {
+  "mod": "EmptyWOTCDecoSlotsforXCOMSoldiers",
+  "workshop": "1127014384"
+ },
+ {
+  "mod": "WOTCRevertOverwatchRules",
+  "workshop": "1127539414"
+ },
+ {
+  "mod": "EWMecsWOTC",
+  "workshop": "1128232679"
+ },
+ {
+  "mod": "SensibleMissionPenalties_WOTC",
+  "workshop": "1130972839"
+ },
+ {
+  "mod": "OverwatchAllWotC",
+  "workshop": "1133368143"
+ },
+ {
+  "mod": "FaceoffAmmoFixWOTC",
+  "workshop": "1136729138"
+ },
+ {
+  "mod": "ExplosivesDestroyCorpses",
+  "workshop": "1137938720"
+ },
+ {
+  "mod": "MercenaryPlasmaWeapons",
+  "workshop": "1139260682"
+ },
+ {
+  "mod": "AdventDuelist_WoTC",
+  "workshop": "1139726548"
+ },
+ {
+  "mod": "FasterReloadAnimationsWOTC",
+  "workshop": "1140240051"
+ },
+ {
+  "mod": "WotC_AshlynneAdvWarlock",
+  "workshop": "1144417938"
+ },
+ {
+  "mod": "BetterSecondWaveSupport",
+  "workshop": "1149493976"
+ },
+ {
+  "mod": "PauseHealWOTC",
+  "workshop": "1154579172"
+ },
+ {
+  "mod": "WotC_AshlynneFlameViper",
+  "workshop": "1160638944"
+ },
+ {
+  "mod": "SPARKLaunchersRedux",
+  "workshop": "1161324428"
+ },
+ {
+  "mod": "WotCTacticalX4",
+  "workshop": "1172230920"
+ },
+ {
+  "mod": "BondmatesSpawnFix",
+  "workshop": "1176368634"
+ },
+ {
+  "mod": "WOTCAdventMedic",
+  "workshop": "1177720393"
+ },
+ {
+  "mod": "CelatidAlien",
+  "workshop": "1184533147"
+ },
+ {
+  "mod": "ZombiesFix",
+  "workshop": "1199306212"
+ },
+ {
+  "mod": "WoTCPathfinderCosmetics",
+  "workshop": "1206700188"
+ },
+ {
+  "mod": "WoTCPathfinders",
+  "workshop": "1229048071"
+ },
+ {
+  "mod": "ScoutingProtocolWOTC",
+  "workshop": "1254143639"
+ },
+ {
+  "mod": "ZombiesDontCountWOTC",
+  "workshop": "1256370393"
+ },
+ {
+  "mod": "LEBPortrait",
+  "workshop": "1273848330"
+ },
+ {
+  "mod": "OverwatchLockupFix",
+  "workshop": "1276342555"
+ },
+ {
+  "mod": "CombatProtocolCamera",
+  "workshop": "1278585557"
+ },
+ {
+  "mod": "PlayableTitanArmor",
+  "workshop": "1281296244"
+ },
+ {
+  "mod": "WOTC_CostBasedAbilityColors",
+  "workshop": "1289686596"
+ },
+ {
+  "mod": "PostProcessStatusEffects",
+  "workshop": "1290331416"
+ },
+ {
+  "mod": "AdventCommandos",
+  "workshop": "1309465679"
+ },
+ {
+  "mod": "WOTC_SoldierConsoleCommands",
+  "workshop": "1370543410"
+ },
+ {
+  "mod": "WOTC_CorrosiveRounds",
+  "workshop": "1371440275"
+ },
+ {
+  "mod": "UnlimitedAbilityIconsWOTC",
+  "workshop": "1374808007"
+ },
+ {
+  "mod": "WotC_StabilizeMe",
+  "workshop": "1380625450"
+ },
+ {
+  "mod": "WOTCNewTargetIcons",
+  "workshop": "1384631824"
+ },
+ {
+  "mod": "WotCBallisticShields",
+  "workshop": "1416242202"
+ },
+ {
+  "mod": "TowerDetectionFixWOTC",
+  "workshop": "1437605946"
+ },
+ {
+  "mod": "DualWieldMelee",
+  "workshop": "1439279281"
+ },
+ {
+  "mod": "WOTCInstantLoot",
+  "workshop": "1440233515"
+ },
+ {
+  "mod": "MoveEndInterruptFix",
+  "workshop": "1440562199"
+ },
+ {
+  "mod": "WotC_ArmoryCameraTweak",
+  "workshop": "1452844473"
+ },
+ {
+  "mod": "NoMorePsiAmps",
+  "workshop": "1467502437"
+ },
+ {
+  "mod": "WOTC_ChooseMyClass",
+  "workshop": "1467643380"
+ },
+ {
+  "mod": "GrappleFix",
+  "workshop": "1486607466"
+ },
+ {
+  "mod": "DualWieldedPistols",
+  "workshop": "1494099360"
+ },
+ {
+  "mod": "AkimboClass",
+  "workshop": "1494158555"
+ },
+ {
+  "mod": "WOTCSystemInfiltration",
+  "workshop": "1503786591"
+ },
+ {
+  "mod": "WOTC_SpartsSawedSA",
+  "workshop": "1510447127"
+ },
+ {
+  "mod": "EUPsiArmor",
+  "workshop": "1511763111"
+ },
+ {
+  "mod": "WOTCAutopistolRebalance",
+  "workshop": "1513282047"
+ },
+ {
+  "mod": "zzzWeaponSkinReplacer",
+  "workshop": "1517938486"
+ },
+ {
+  "mod": "ShadowOpsPerkPack",
+  "workshop": "1519841231"
+ },
+ {
+  "mod": "firebornshiv",
+  "workshop": "1527642618"
+ },
+ {
+  "mod": "WOTCOpenWeaponRestrictions",
+  "workshop": "1533060800"
+ },
+ {
+  "mod": "PoweredArmorRebalance",
+  "workshop": "1533457608"
+ },
+ {
+  "mod": "TLP_UnlockEverything",
+  "workshop": "1535023259"
+ },
+ {
+  "mod": "WardenClass",
+  "workshop": "1537495115"
+ },
+ {
+  "mod": "WOTCUnderbarrelAttachments",
+  "workshop": "1539942755"
+ },
+ {
+  "mod": "WOTCBayonets",
+  "workshop": "1547940651"
+ },
+ {
+  "mod": "Ketaros2DResources",
+  "workshop": "1557951815"
+ },
+ {
+  "mod": "MitzrutiPerkPack",
+  "workshop": "1561030099"
+ },
+ {
+  "mod": "CryoPriest",
+  "workshop": "1561740813"
+ },
+ {
+  "mod": "WOTCRagingBall",
+  "workshop": "1591475709"
+ },
+ {
+  "mod": "AlienArmorCustomization",
+  "workshop": "1595591864"
+ },
+ {
+  "mod": "IridarsPsiOverhaul",
+  "workshop": "1662114279"
+ },
+ {
+  "mod": "NewShotgunAnimations",
+  "workshop": "1701209115"
+ },
+ {
+  "mod": "MercPlasmaHeroWeapons",
+  "workshop": "1701830636"
+ },
+ {
+  "mod": "zzzWeaponSkinReplacerConfig",
+  "workshop": "1709345052"
+ },
+ {
+  "mod": "NewPromotionStats",
+  "workshop": "1716973380"
+ },
+ {
+  "mod": "WOTC_TLP_V_Weapons",
+  "workshop": "1726550197"
+ },
+ {
+  "mod": "BioDivision",
+  "workshop": "1731235406"
+ },
+ {
+  "mod": "WepUpgradeFix",
+  "workshop": "1737532501"
+ },
+ {
+  "mod": "SlagAndMelta",
+  "workshop": "1745325917"
+ },
+ {
+  "mod": "WOTC_TLP_3_Weapons",
+  "workshop": "1750855914"
+ },
+ {
+  "mod": "CXBerserkerRevamped",
+  "workshop": "1755625552"
+ },
+ {
+  "mod": "MZAmmoMod",
+  "workshop": "1757248681"
+ },
+ {
+  "mod": "WOTCRocketLaunchers",
+  "workshop": "1775963384"
+ },
+ {
+  "mod": "ConfigurableImmunities",
+  "workshop": "1779260037"
+ },
+ {
+  "mod": "ChooseYourAliens",
+  "workshop": "1782917748"
+ },
+ {
+  "mod": "AbilityEditor",
+  "workshop": "1789085465"
+ },
+ {
+  "mod": "RepurposeAbilities",
+  "workshop": "1792964849"
+ },
+ {
+  "mod": "X2WOTCCommunityHighlander",
+  "workshop": "1796402257"
+ },
+ {
+  "mod": "EnemyReskinnerRedux",
+  "workshop": "1805997042"
+ },
+ {
+  "mod": "WOTC_Plasma_Ghost",
+  "workshop": "1853474399"
+ },
+ {
+  "mod": "WotC_Gameplay_GeneModding",
+  "workshop": "1877861493"
+ },
+ {
+  "mod": "MZFrostRounds",
+  "workshop": "1891339003"
+ },
+ {
+  "mod": "ImmolatorChemthrower",
+  "workshop": "1918448514"
+ },
+ {
+  "mod": "PurgePriests",
+  "workshop": "1927497195"
+ },
+ {
+  "mod": "ABBPerkPack",
+  "workshop": "1993868715"
+ },
+ {
+  "mod": "WOTC_2020TargetIcons",
+  "workshop": "2010827399"
+ },
+ {
+  "mod": "WOTCStormriderClass",
+  "workshop": "2042813766"
+ },
+ {
+  "mod": "WOTC_RustyWeaponUpgradeUI",
+  "workshop": "2042829719"
+ },
+ {
+  "mod": "WOTCLootPostMover",
+  "workshop": "2043070900"
+ },
+ {
+  "mod": "WOTC_TLP_V_2_Weapons",
+  "workshop": "2058741060"
+ },
+ {
+  "mod": "WOTC_PIstol_Attachments",
+  "workshop": "2060073001"
+ },
+ {
+  "mod": "CryoPerkPack",
+  "workshop": "2066389408"
+ },
+ {
+  "mod": "NormalizeLoot",
+  "workshop": "2067447380"
+ },
+ {
+  "mod": "WOTC_ReliableEverVigilant",
+  "workshop": "2071833199"
+ },
+ {
+  "mod": "MZVestMod",
+  "workshop": "2092390254"
+ },
+ {
+  "mod": "ChimeraSquadAbilityIcons",
+  "workshop": "2094355561"
+ },
+ {
+  "mod": "CustodianPack",
+  "workshop": "2094672450"
+ },
+ {
+  "mod": "NoDropDownListsForControllers",
+  "workshop": "2098062078"
+ },
+ {
+  "mod": "BstarsPerkPack",
+  "workshop": "2115077818"
+ },
+ {
+  "mod": "WOTCMoreSparkWeapons",
+  "workshop": "2127166233"
+ },
+ {
+  "mod": "AbilityToSlotReassignment",
+  "workshop": "2133397762"
+ },
+ {
+  "mod": "TruePrimarySecondaries",
+  "workshop": "2133399183"
+ },
+ {
+  "mod": "WOTC_MoreEngineeringRepairSlots",
+  "workshop": "2165999454"
+ },
+ {
+  "mod": "WOTCCoreCollection",
+  "workshop": "2166295671"
+ },
+ {
+  "mod": "WOTCPassiveIcons_CC",
+  "workshop": "2170324254"
+ },
+ {
+  "mod": "MutonHunter",
+  "workshop": "2182049731"
+ },
+ {
+  "mod": "WOTCRescueDenmother",
+  "workshop": "2189770689"
+ },
+ {
+  "mod": "AdventTrooperArmor",
+  "workshop": "2192407850"
+ },
+ {
+  "mod": "ADVENTGear",
+  "workshop": "2201956436"
+ },
+ {
+  "mod": "AdventCaptainArmor",
+  "workshop": "2201956611"
+ },
+ {
+  "mod": "AdventLancerArmor",
+  "workshop": "2206139678"
+ },
+ {
+  "mod": "BuildableUnits",
+  "workshop": "2210732936"
+ },
+ {
+  "mod": "AdventShieldbearerArmor",
+  "workshop": "2212283900"
+ },
+ {
+  "mod": "AdventPurifierArmor",
+  "workshop": "2213094224"
+ },
+ {
+  "mod": "WOTCClausImmolators",
+  "workshop": "2237137501"
+ },
+ {
+  "mod": "ABBArsenalForLWOTC",
+  "workshop": "2243118743"
+ },
+ {
+  "mod": "WolfAssetPack",
+  "workshop": "2245270253"
+ },
+ {
+  "mod": "NelVlesis_Icon_Overrides",
+  "workshop": "2254206296"
+ },
+ {
+  "mod": "APGrenadesReduxLWOTC",
+  "workshop": "2257550920"
+ },
+ {
+  "mod": "AdventPathfindersArmor",
+  "workshop": "2274935199"
+ },
+ {
+  "mod": "AdventPathfinderCaptainArmor",
+  "workshop": "2274962195"
+ },
+ {
+  "mod": "AdventArmorsForLWOTC",
+  "workshop": "2275202921"
+ },
+ {
+  "mod": "BattleRiflesAndStrikeRiflesLWOTC",
+  "workshop": "2278034718"
+ },
+ {
+  "mod": "WOTCLootIndicator_Extended",
+  "workshop": "2285967646"
+ },
+ {
+  "mod": "KirukasDarkEventsLWOTC",
+  "workshop": "2296115753"
+ },
+ {
+  "mod": "DisableTheseSlotsWeightLWOTC",
+  "workshop": "2303248532"
+ },
+ {
+  "mod": "MechatronicWarfarePerkPack",
+  "workshop": "2329989067"
+ },
+ {
+  "mod": "WotCJaneKelly",
+  "workshop": "2336174862"
+ },
+ {
+  "mod": "WOTC_ShowTechRewards",
+  "workshop": "2347354900"
+ },
+ {
+  "mod": "CutContentPsionicsLWOTC",
+  "workshop": "2357292260"
+ },
+ {
+  "mod": "WOTCIridarTemplateMaster",
+  "workshop": "2363075446"
+ },
+ {
+  "mod": "WOTC_YAF1_RustyExtension",
+  "workshop": "2368109302"
+ },
+ {
+  "mod": "WOTCIridarLaserCoilAssets",
+  "workshop": "2391815952"
+ },
+ {
+  "mod": "FixSquidBug",
+  "workshop": "2392049232"
+ },
+ {
+  "mod": "WOTC_TacCounters",
+  "workshop": "2405013108"
+ },
+ {
+  "mod": "GauntletsforSoldiersAnimPatch",
+  "workshop": "2405138536"
+ },
+ {
+  "mod": "RebelAbilitiesRemixForLWOTC",
+  "workshop": "2408652676"
+ },
+ {
+  "mod": "WOTCTacticalXP",
+  "workshop": "2415446578"
+ },
+ {
+  "mod": "AdventPriestArmor",
+  "workshop": "2425153766"
+ },
+ {
+  "mod": "MutonHarriers",
+  "workshop": "2435857055"
+ },
+ {
+  "mod": "WOTCIridarAdventArsenalGhostTemplates",
+  "workshop": "2438647615"
+ },
+ {
+  "mod": "LWOTCRandomGatecrasherLoadouts",
+  "workshop": "2455815373"
+ },
+ {
+  "mod": "WelcometotheDromeDome",
+  "workshop": "2473050694"
+ },
+ {
+  "mod": "FrostDivision",
+  "workshop": "2481645156"
+ },
+ {
+  "mod": "WotC_AshlynneMutonDestroyer",
+  "workshop": "2482812108"
+ },
+ {
+  "mod": "HeavyBarrelsForLWOTC",
+  "workshop": "2497390247"
+ },
+ {
+  "mod": "WOTCNoReactionFireSlomo",
+  "workshop": "2547065146"
+ },
+ {
+  "mod": "X2WOTCCommunityPromotionScreen",
+  "workshop": "2550561145"
+ },
+ {
+  "mod": "AssTroopers",
+  "workshop": "2552974509"
+ },
+ {
+  "mod": "AccurateSituationReport",
+  "workshop": "2567229533"
+ },
+ {
+  "mod": "WOTCMusashiModFixes",
+  "workshop": "2569592723"
+ },
+ {
+  "mod": "ABBASingleReloadAnims",
+  "workshop": "2571071023"
+ },
+ {
+  "mod": "WOTCDisposableLaunchers",
+  "workshop": "2571476425"
+ },
+ {
+  "mod": "ReflexStocksLWOTC",
+  "workshop": "2585942425"
+ },
+ {
+  "mod": "DLC2CommunityHighlander",
+  "workshop": "2635921321"
+ },
+ {
+  "mod": "LongWarOfTheChosen",
+  "workshop": "2663990965"
+ },
+ {
+  "mod": "StormtrooperForLWOTC",
+  "workshop": "2674179790"
+ },
+ {
+  "mod": "KirukasLWOTCClasses",
+  "workshop": "2706451024"
+ },
+ {
+  "mod": "WOTC_FixedSniperHotkeys",
+  "workshop": "2724738740"
+ },
+ {
+  "mod": "WOTC_ISA_ShellCharges",
+  "workshop": "2736399137"
+ },
+ {
+  "mod": "WOTC_GENE_NODD",
+  "workshop": "2755036257"
+ },
+ {
+  "mod": "GatlingMec",
+  "workshop": "2755570022"
+ },
+ {
+  "mod": "ToughforLwotC",
+  "workshop": "2771922076"
+ },
+ {
+  "mod": "WOTC_FacOverlaySlotIndexFix",
+  "workshop": "2792507649"
+ },
+ {
+  "mod": "ControllablePuttingDownUnits",
+  "workshop": "2796040662"
+ },
+ {
+  "mod": "ZelfanasAssortedFixes",
+  "workshop": "2797958446"
+ },
+ {
+  "mod": "MeldForLWOTC",
+  "workshop": "2802698386"
+ },
+ {
+  "mod": "NegativeMobilityFix",
+  "workshop": "2806444314"
+ },
+ {
+  "mod": "SectoidAbjurerLWOTC",
+  "workshop": "2808872062"
+ },
+ {
+  "mod": "WOTC_CombiWSLAB",
+  "workshop": "2810861938"
+ },
+ {
+  "mod": "WOTC_UFOPedia",
+  "workshop": "2819129273"
+ },
+ {
+  "mod": "SkirmisherAbilitiesForSoldiers",
+  "workshop": "2820447189"
+ },
+ {
+  "mod": "LWOTC_Fuller_Override",
+  "workshop": "2824110051"
+ },
+ {
+  "mod": "WOTC_DSL_Rusty",
+  "workshop": "2832773856"
+ },
+ {
+  "mod": "WOTCIridarPerkPack",
+  "workshop": "2833581072"
+ },
+ {
+  "mod": "PetRockPerkPack",
+  "workshop": "2837946702"
+ },
+ {
+  "mod": "WOTC_LifetimeStats_Redux",
+  "workshop": "2839238673"
+ },
+ {
+  "mod": "ZelfCustomItemNameFormats",
+  "workshop": "2868237788"
+ },
+ {
+  "mod": "DudeWheresMyLoot",
+  "workshop": "2878818143"
+ },
+ {
+  "mod": "SurplusClassIconsPack",
+  "workshop": "2893087536"
+ },
+ {
+  "mod": "FullerOverrideBUAddOn",
+  "workshop": "2926067252"
+ },
+ {
+  "mod": "koreanmodtranslation2",
+  "workshop": "2930215312"
+ },
+ {
+  "mod": "EverVigilantBugfixesConfigAddOn",
+  "workshop": "2943434088"
+ },
+ {
+  "mod": "koreanmodtranslation2addonKN",
+  "workshop": "2944757624"
+ },
+ {
+  "mod": "SoldierSelectIcons_WOTC",
+  "workshop": "2960880496"
+ },
+ {
+  "mod": "EPI_Redux",
+  "workshop": "2965980985"
+ },
+ {
+  "mod": "ZelfExtraDamagePatcher",
+  "workshop": "2971495164"
+ },
+ {
+  "mod": "ZelfFreeActionMomentum",
+  "workshop": "2975899055"
+ },
+ {
+  "mod": "ZelfSuppressionCleanseFix",
+  "workshop": "2976264447"
+ },
+ {
+  "mod": "ZelfSparkStealthFix",
+  "workshop": "2977218428"
+ },
+ {
+  "mod": "ZelfClassRequirementsBegone",
+  "workshop": "2979496634"
+ },
+ {
+  "mod": "WOTC_FullShadowReport",
+  "workshop": "2995251401"
+ },
+ {
+  "mod": "BetterCostStringsWotC",
+  "workshop": "2995259605"
+ },
+ {
+  "mod": "WOTC_GotchaAgainRedux",
+  "workshop": "3002469584"
+ },
+ {
+  "mod": "KMT2ADDONLWOTCBETA",
+  "workshop": "3024453650"
+ },
+ {
+  "mod": "MercPlasmaGhostTemplates",
+  "workshop": "3042712139"
+ },
+ {
+  "mod": "WOTCD3D11",
+  "workshop": "3061813566"
+ },
+ {
+  "mod": "WOTCIridarBuildItemStats",
+  "workshop": "3129305174"
+ },
+ {
+  "mod": "ZelfFixResourceCosts",
+  "workshop": "3137225733"
+ },
+ {
+  "mod": "ZelfUniversalThreatAssessment",
+  "workshop": "3155092427"
+ },
+ {
+  "mod": "PlayableAdvent-ModJamLWOTC",
+  "workshop": "3177118204"
+ },
+ {
+  "mod": "LWOTCTedClassOverhaul",
+  "workshop": "3209556182"
+ },
+ {
+  "mod": "TedMECTroopersForLWOTC",
+  "workshop": "3230815381"
+ },
+ {
+  "mod": "ExpandedPlayableAliens",
+  "workshop": "3240087035"
+ },
+ {
+  "mod": "MeristPerkPack",
+  "workshop": "3255703451"
+ },
+ {
+  "mod": "WOTCFilteredMenus",
+  "workshop": "3271654182"
+ },
+ {
+  "mod": "TedModJamForLWOTC",
+  "workshop": "3310018472"
+ },
+ {
+  "mod": "EIOforTedJam",
+  "workshop": "3310231995"
+ },
+ {
+  "mod": "ImprovedWrathTargeting",
+  "workshop": "3311002488"
+ },
+ {
+  "mod": "WOTC_Clouds",
+  "workshop": "3337833717"
+ },
+ {
+  "mod": "ZelfAbilitySwapper",
+  "workshop": "3340369494"
+ },
+ {
+  "mod": "MeristKeeperClassLWOTC",
+  "workshop": "3347262067"
+ },
+ {
+  "mod": "ZelfImprovedBlackMarket",
+  "workshop": "3349050094"
+ },
+ {
+  "mod": "TedJamFactionSoldierOverhaul",
+  "workshop": "3349547987"
+ },
+ {
+  "mod": "TedStormriderLWOTC",
+  "workshop": "3369845776"
+ },
+ {
+  "mod": "ARFMFatigue",
+  "workshop": "3376254392"
+ },
+ {
+  "mod": "MeristCrasherClassLWOTC",
+  "workshop": "3404635293"
+ },
+ {
+  "mod": "TedHopliteLWOTC",
+  "workshop": "3431794152"
+ },
+ {
+  "mod": "TedWardenLWOTC",
+  "workshop": "3433235042"
+ },
+ {
+  "mod": "TedAkimboLWOTC",
+  "workshop": "3436089425"
+ },
+ {
+  "mod": "KMT2ADDONTEDJAM",
+  "workshop": "3467888297"
+ },
+ {
+  "mod": "KMT2ADDONTEDJAMEXTRA",
+  "workshop": "3467891753"
+ },
+ {
+  "mod": "KMT2ADDONBerserkerRevamped",
+  "workshop": "3478579721"
+ },
+ {
+  "mod": "KMT2ADDONBioDivision",
+  "workshop": "3482468777"
+ },
+ {
+  "mod": "MeristSectoidAnimationFix",
+  "workshop": "3491961856"
+ },
+ {
+  "mod": "KMT2ADDONMechatronicWarfarePerkPack",
+  "workshop": "3512656613"
+ },
+ {
+  "mod": "TedJamClassPackLWOTC",
+  "workshop": "3525420510"
+ },
+ {
+  "mod": "IconicMissions",
+  "workshop": "3560714437"
+ },
+ {
+  "mod": "TrueQOLGameplaypurepatchcompendiumforLWOTC",
+  "workshop": "3578777067"
+ },
+ {
+  "mod": "SooshCampaignReport",
+  "workshop": "3593751221"
+ },
+ {
+  "mod": "MeristMomImImmune",
+  "workshop": "3646566000"
+ },
+ {
+  "mod": "MeristExtendedPerkPackRedux",
+  "workshop": "3647614305"
+ },
+ {
+  "mod": "WOTCShowMeTheAP",
+  "workshop": "3666867297"
+ },
+ {
+  "mod": "WOTCShowMeTheAPGARBridge",
+  "workshop": "3683264168"
+ },
+ {
+  "mod": "ExtendedInformationRedux3",
+  "workshop": "3706139879"
+ },
+ {
+  "mod": "KMT2ADDON_BL",
+  "workshop": "3739527666"
+ },
+ {
+  "mod": "FreeCameraRotation",
+  "workshop": "616359783"
+ },
+ {
+  "mod": "StopWastingMyTime",
+  "workshop": "620600092"
+ },
+ {
+  "mod": "Showabilitycooldown",
+  "workshop": "634163703"
+ },
+ {
+  "mod": "BlackmarketUsage",
+  "workshop": "648410303"
+ },
+ {
+  "mod": "RewardDecksRefresher",
+  "workshop": "665435869"
+ },
+ {
+  "mod": "ModConfigMenu",
+  "workshop": "667104300"
+ },
+ {
+  "mod": "UpdateCarryUnit",
+  "workshop": "698881748"
+ },
+ {
+  "mod": "ShowMoreBuffDetails",
+  "workshop": "709499969"
+ },
+ {
+  "mod": "YetAnotherF1",
+  "workshop": "934236622"
+ },
+ {
+  "mod": "SmoothScrolling",
+  "workshop": "957580056"
+ },
+ {
+  "mod": "ARFMDarkEvents",
+  "workshop": "2795578857"
+ },
+ {
+  "mod": "ElectricianClass-LWOTC",
+  "workshop": "3005129694"
+ },
+ {
+  "mod": "AHWRequiemArmory",
+  "workshop": "3010467224"
+ },
+ {
+  "mod": "ReshisStrongholdStuff",
+  "workshop": "3312032914"
+ },
+ {
+  "mod": "TedJamRequiemLegionPlugin",
+  "workshop": "3744810123"
+ },
+ {
+  "mod": "MapsbyVozatiChosenEdition",
+  "workshop": "1132904326"
+ },
+ {
+  "mod": "MapExpansionUPk",
+  "workshop": "1637404109"
+ },
+ {
+  "mod": "StartingPsiAmps",
+  "workshop": "1708182350"
+ },
+ {
+  "mod": "Map[Cliffs]",
+  "workshop": "2336094793"
+ },
+ {
+  "mod": "Map[Forest]",
+  "workshop": "2336297976"
+ },
+ {
+  "mod": "Map[LostNeighborhood]",
+  "workshop": "2347283240"
+ },
+ {
+  "mod": "Map[Dam]",
+  "workshop": "2347317251"
+ },
+ {
+  "mod": "[WOTC]EclipsezrParcels",
+  "workshop": "2638942556"
+ },
+ {
+  "mod": "Quartermaster",
+  "workshop": "2718035362"
+ },
+ {
+  "mod": "Saboteur",
+  "workshop": "2720287889"
+ },
+ {
+  "mod": "KnightClass-LWOTC",
+  "workshop": "2720855306"
+ },
+ {
+  "mod": "AHarderWarThePraetorians",
+  "workshop": "2756786696"
+ },
+ {
+  "mod": "MarksmanClass-LWOTC",
+  "workshop": "2799438088"
+ },
+ {
+  "mod": "Map[AlienBase]",
+  "workshop": "2811106895"
+ },
+ {
+  "mod": "AlienBaseCountsAsSubway",
+  "workshop": "2814726224"
+ },
+ {
+  "mod": "Map[OvergrownCity]",
+  "workshop": "2822000448"
+ },
+ {
+  "mod": "Map[Biomes]",
+  "workshop": "2822709966"
+ },
+ {
+  "mod": "GunslingerClass-LWOTC",
+  "workshop": "2832143482"
+ },
+ {
+  "mod": "WOTCIridarBountyHunterClass",
+  "workshop": "2833600827"
+ },
+ {
+  "mod": "CommandoClass-LWOTC",
+  "workshop": "2848939326"
+ },
+ {
+  "mod": "GenevaClass-LWOTC",
+  "workshop": "2848987800"
+ },
+ {
+  "mod": "TitanClass-LWOTC",
+  "workshop": "2850649799"
+ },
+ {
+  "mod": "BishopClass-LWOTC",
+  "workshop": "2850679312"
+ },
+ {
+  "mod": "DestroyerClass-LWOTC",
+  "workshop": "2865652970"
+ },
+ {
+  "mod": "ScoutClass-LWOTC",
+  "workshop": "2865653027"
+ },
+ {
+  "mod": "CombatMedicClass-LWOTC",
+  "workshop": "2865653098"
+ },
+ {
+  "mod": "RoboticistClass-LWOTC",
+  "workshop": "2865653156"
+ },
+ {
+  "mod": "MandarbsMapsFixedTowers",
+  "workshop": "2913180727"
+ },
+ {
+  "mod": "MercenaryClass-LWOTC",
+  "workshop": "2927887132"
+ },
+ {
+  "mod": "PsionClass-LWOTC",
+  "workshop": "2928643225"
+ },
+ {
+  "mod": "NinjaClass-LWOTC",
+  "workshop": "2928665362"
+ },
+ {
+  "mod": "OverseerClass-LWOTC",
+  "workshop": "2945790124"
+ },
+ {
+  "mod": "Map[Glacier]",
+  "workshop": "2982062780"
+ },
+ {
+  "mod": "Map[Marshland]",
+  "workshop": "2982065663"
+ },
+ {
+  "mod": "Map[WaterBase]",
+  "workshop": "2982066357"
+ },
+ {
+  "mod": "HereticClass-LWOTC",
+  "workshop": "3001604502"
+ },
+ {
+  "mod": "ShredderClass-LWOTC",
+  "workshop": "3004571734"
+ },
+ {
+  "mod": "TechnicianClass-LWOTC",
+  "workshop": "3004950513"
+ },
+ {
+  "mod": "RookClass-LWOTC",
+  "workshop": "3005016877"
+ },
+ {
+  "mod": "XEN_BladeDancer",
+  "workshop": "3005489645"
+ },
+ {
+  "mod": "PyromaniacClass-LWOTC",
+  "workshop": "3005585435"
+ },
+ {
+  "mod": "ExecutionerClass-LWOTC",
+  "workshop": "3005609613"
+ },
+ {
+  "mod": "DemolitionistClass-LWOTC",
+  "workshop": "3005662289"
+ },
+ {
+  "mod": "Overlord",
+  "workshop": "3045433672"
+ },
+ {
+  "mod": "ARFMScavenger",
+  "workshop": "3158385565"
+ },
+ {
+  "mod": "ARFMBugmancer",
+  "workshop": "3176938544"
+ },
+ {
+  "mod": "FreebooterClass",
+  "workshop": "3204619010"
+ },
+ {
+  "mod": "ARFMAspirant",
+  "workshop": "3206991166"
+ },
+ {
+  "mod": "ARFMMiner",
+  "workshop": "3217126022"
+ },
+ {
+  "mod": "ARFMTeslaTrooper",
+  "workshop": "3228174264"
+ },
+ {
+  "mod": "ARFMFusilier",
+  "workshop": "3228448794"
+ },
+ {
+  "mod": "RequiemLWMissions",
+  "workshop": "3233960298"
+ },
+ {
+  "mod": "GuerrillaforLWotC",
+  "workshop": "3248505027"
+ },
+ {
+  "mod": "Map[SubSewer]",
+  "workshop": "3270128474"
+ },
+ {
+  "mod": "Map[Cave]",
+  "workshop": "3270128965"
+ },
+ {
+  "mod": "Map[AdventBase]",
+  "workshop": "3270130130"
+ },
+ {
+  "mod": "Map[LostUFO]",
+  "workshop": "3273952633"
+ },
+ {
+  "mod": "SurgeonforLWOTC",
+  "workshop": "3306559793"
+ },
+ {
+  "mod": "[WOTC]EclipsezrMapPlots",
+  "workshop": "3353294136"
+ },
+ {
+  "mod": "MadJackClass",
+  "workshop": "3353310033"
+ },
+ {
+  "mod": "Map[Office]",
+  "workshop": "3388852030"
+ },
+ {
+  "mod": "ZeroPerkPack",
+  "workshop": "3390615212"
+ },
+ {
+  "mod": "Vanguard",
+  "workshop": "3401077346"
+ },
+ {
+  "mod": "XEN_HellKnight",
+  "workshop": "3433689570"
+ },
+ {
+  "mod": "StyrPerkPack",
+  "workshop": "3444472002"
+ },
+ {
+  "mod": "TedBeyondLegendaryTweaks",
+  "workshop": "3478034870"
+ },
+ {
+  "mod": "MeristSupportClassLWOTC",
+  "workshop": "3486822434"
+ },
+ {
+  "mod": "X2_CommanderHUD",
+  "workshop": "3505513412"
+ },
+ {
+  "mod": "ReshiBeyondLegendaryConfigs",
+  "workshop": "3506208333"
+ },
+ {
+  "mod": "ARFMAdventPack",
+  "workshop": "3512490242"
+ },
+ {
+  "mod": "ReshiSeerClass",
+  "workshop": "3519107781"
+ },
+ {
+  "mod": "MapAbductor",
+  "workshop": "3530032039"
+ },
+ {
+  "mod": "MapAdventHQ",
+  "workshop": "3530034208"
+ },
+ {
+  "mod": "MapFactory",
+  "workshop": "3530036315"
+ },
+ {
+  "mod": "MapDeparture",
+  "workshop": "3530038391"
+ },
+ {
+  "mod": "MeristPathfinderClassLWOTC",
+  "workshop": "3531227880"
+ },
+ {
+  "mod": "[WOTC]EclipsezrEUEWIMaps",
+  "workshop": "3559868912"
+ },
+ {
+  "mod": "[LWOTC]BarbarianClass",
+  "workshop": "3655262781"
+ },
+ {
+  "mod": "[WOTC]EclipsezrChimeraSquadParcels",
+  "workshop": "3698234267"
+ },
+ {
+  "mod": "ARFMAbandoned",
+  "workshop": "3692300149"
+ },
+ {
+  "mod": "BerserkerOmega",
+  "workshop": "1472606636"
+ },
+ {
+  "mod": "EUBerserker",
+  "workshop": "1502891114"
+ },
+ {
+  "mod": "IntelRequirementMod3",
+  "workshop": "2069444551"
+ },
+ {
+  "mod": "YetAnotherF1_AutopsyRequired",
+  "workshop": "2377251739"
+ },
+ {
+  "mod": "TheEthereals",
+  "workshop": "2726953893"
+ },
+ {
+  "mod": "EtherealAutopsy",
+  "workshop": "2766831269"
+ },
+ {
+  "mod": "ARFMExpandedChosenStrongholds",
+  "workshop": "2909901677"
+ },
+ {
+  "mod": "WOTCNewTunnelLightingMaps",
+  "workshop": "3306304260"
+ },
+ {
+  "mod": "RequiemSitrepExtensions",
+  "workshop": "3312745141"
+ },
+ {
+  "mod": "WOTC_DLC_Skies",
+  "workshop": "3325332092"
+ },
+ {
+  "mod": "WOTCCustomLightingMaps",
+  "workshop": "3326284263"
+ },
+ {
+  "mod": "[WOTC]EclipsezrEUEWIParcels",
+  "workshop": "3363077812"
+ },
+ {
+  "mod": "WOTC_Flares",
+  "workshop": "3376894427"
+ },
+ {
+  "mod": "SpookyScarySectopods",
+  "workshop": "3381202195"
+ },
+ {
+  "mod": "WOTC_NVG",
+  "workshop": "3384432756"
+ },
+ {
+  "mod": "IndoorTacticsHardParcels",
+  "workshop": "3451012477"
+ },
+ {
+  "mod": "LWOTCBerserkerOmegaBridge",
+  "workshop": "3465011382"
+ },
+ {
+  "mod": "LOSPreviewCHUD",
+  "workshop": "3505515834"
+ },
+ {
+  "mod": "[WOTC]EclipsezrPCPs",
+  "workshop": "3560543000"
+ },
+ {
+  "mod": "Map[LostCrypt]",
+  "workshop": "3589631938"
+ },
+ {
+  "mod": "Map[LostOutpost]",
+  "workshop": "3650141639"
+ },
+ {
+  "mod": "Map[CargoShip]",
+  "workshop": "3657799184"
+ },
+ {
+  "mod": "WOTCDarkGatecrasher",
+  "workshop": "3660695606"
+ },
+ {
+  "mod": "WOTC_BD_TacticalDarkEvents",
+  "workshop": "3736337210"
+ },
+ {
+  "mod": "GreySmokeGrenade",
+  "workshop": "742478385"
+ },
+ {
+  "mod": "MoreSkyboxes",
+  "workshop": "908638853"
+ },
+ {
+  "mod": "DarkerNights",
+  "workshop": "910203574"
+ },
+ {
+  "mod": "WOTCNiceMissionDebriefing",
+  "workshop": "1154827808"
+ },
+ {
+  "mod": "TotallyNotPsychoGoldenPath",
+  "workshop": "3835619377"
+ },
+ {
+  "mod": "CapnCrunchAccessories",
+  "workshop": "2700125342"
+ },
+ {
+  "mod": "XCOMLegacyVoicesRedux",
+  "workshop": "2812976911"
+ },
+ {
+  "mod": "XCOMEWVoices",
+  "workshop": "3326695271"
+ },
+ {
+  "mod": "XCOM_EU_Armor_Comp",
+  "workshop": "3636340509"
+ },
+ {
+  "mod": "WOTC_MoreClothes",
+  "workshop": "1128059387"
+ },
+ {
+  "mod": "MilitaryCamouflagePatterns",
+  "workshop": "1136018138"
+ },
+ {
+  "mod": "InvisibleLimbs",
+  "workshop": "2146403415"
+ },
+ {
+  "mod": "UnrestrictedCustomization",
+  "workshop": "2438621356"
+ },
+ {
+  "mod": "CODWTRSASVoiceComp",
+  "workshop": "2698900131"
+ },
+ {
+  "mod": "WOTCResizeArmor",
+  "workshop": "2969648947"
+ },
+ {
+  "mod": "headpcak",
+  "workshop": "3718962983"
+ },
+ {
+  "mod": "X1_EXALT_COB",
+  "workshop": "3826252298"
+ },
+ {
+  "mod": "ExaltVoicePack",
+  "workshop": "624773641"
+ },
+ {
+  "mod": "LOSPreviewWOTC",
+  "workshop": "1123163799"
+ },
+ {
+  "mod": "AHarderWarAbsurdAliens",
+  "workshop": "3555944655"
+ }
+]

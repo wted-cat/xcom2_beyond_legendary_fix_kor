@@ -1,6 +1,13 @@
-# rev001–rev006 변경 이력
+# rev001–rev007 변경 이력
 
 **LWOTC Coarse - Enemy AI and Encounters**의 버전별 게임 동작과 검증 범위를 정리했습니다. 각 보고서에서 재현 조건과 실제 기록을 확인할 수 있습니다. [설치 안내](README.md)
+
+## rev007 — 마무리 사격 표적과 기동 지휘관의 망치
+
+- **정예 어드밴트 저격수와 랩터.** 이제 실제로 쏠 병사의 명중률이 90%를 넘고, 그 사격으로 처치할 수 있거나 체력이 최대치의 40% 이하일 때 마무리 사격을 시도합니다. 적격 표적이 없으면 일반 공격 등 다음 행동을 평가합니다.
+- **정예 어드밴트 기동 지휘관.** 첫 행동의 근접 공격 차례에서 총검을 쓸 수 없으면 지급 망치를 시도합니다. 표식과 이동 등 앞선 선택은 원래 순서를 따릅니다.
+
+전설 난이도에서 위태로운 갈망을 켜고 저격수의 실제 처치, 랩터의 지정 표적 명중, 기동 지휘관의 망치 사용을 확인했습니다. 기존 편성의 일정 경계 검사 5,845건과 `ETP_` 추첨 10,044회가 기대와 일치했습니다. 전체 설치본 53개 파일 중 rev006과 달라진 파일은 `Config/XComAI.ini` 하나입니다. [rev007 단독 변경 이력](rev007/CHANGELOG.md) · [전술·편성 검증 보고서](reports/ModReport_CoarseEnemyAIAndEncounters_rev007.md) · [설치 ZIP](rev007/AI_Encounter_Fixes_rev007.zip)
 
 ## rev006 — 범위 공격·치료·처형·반응 사격
 
@@ -68,6 +75,7 @@
 | rev004 | 37 | 9 | 6 | 0 | 277,568 | `3ca0d1cac14d99d19226f716a8e1f2f7f99b34f3bbaaff09147856d708d9ae89` |
 | rev005 | 51 | 14 | 5 | 0 | 344,888 | `8469d3b6224f2fad2d0fc5c583f4bc8fc706f46045ad9b862dc532085126be2d` |
 | rev006 | 53 | 2 | 4 | 0 | 363,733 | `6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64` |
+| rev007 | 53 | 0 | 1 | 0 | 363,733 | `6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64` |
 
 <details>
 <summary>rev001의 추가·수정 파일 16개</summary>
@@ -192,5 +200,16 @@
 | 수정 | `Src/CoarseEnemyAIAndEncounters/Classes/X2DLCInfo_CoarseEncounters.uc` |
 | 수정 | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseYearningPowers.uc` |
 | 수정 | `Script/CoarseEnemyAIAndEncounters.u` |
+
+</details>
+
+<details>
+<summary>rev007에서 수정한 파일 1개</summary>
+
+설치 ZIP의 `CoarseEnemyAIAndEncounters/`를 기준으로 한 경로입니다. [설치 ZIP](rev007/AI_Encounter_Fixes_rev007.zip)
+
+| 구분 | 버전 내 파일 |
+|---|---|
+| 수정 | `Config/XComAI.ini` |
 
 </details>
