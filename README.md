@@ -2,7 +2,9 @@
 
 XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psychotic Tedjam Plugin 환경에서 적 AI, 병력 편성, 임무 스케줄 수정을 한번에 적용하는 모드입니다.
 
-버전별 세부 보고서는 reports 디렉터리를 참조하기 바랍니다. 세부 보고서 내용는 AI로 작성되어 있습니다.
+버전별 수정 이력을 확인하고 싶은 경우 CHANGELOG.md를 확인하기 바랍니다.
+
+세부 보고서는 reports 디렉터리를 참조하기 바랍니다. 세부 보고서 내용는 AI로 작성되어 있습니다.
 
 **현재 최신 플레이용 버전은 rev007입니다.** 
 
