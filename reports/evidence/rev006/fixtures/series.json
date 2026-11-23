@@ -1,0 +1,28 @@
+{
+  "before": "OtherGaps",
+  "radial/early Niven/initial Mercy selector": "PostRevision",
+  "final Niven/expanded incapacitated checks": "FocusedSight",
+  "final Terror rule": "FocusedAltar",
+  "probe_is_separate_from_release": true,
+  "0284f8319833_681607ace2bd": {
+    "ini": "681607ace2bd88a128bea26e5c494cc6bcb70b24bef6c4974b15b01b90ca2444",
+    "package": "0284f8319833f617d6abdaf0b48a79b0e32fee87d1c2a64247f333ccbcbb9fc0"
+  },
+  "6827e7fa8a3e_c2e7cc1ea12d": {
+    "ini": "c2e7cc1ea12d808e75814778d859a69703681d25aa0e6a6ba6f94a8cf96974af",
+    "package": "6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64"
+  },
+  "bf98bd3fc5ec_c2e7cc1ea12d": {
+    "ini": "c2e7cc1ea12d808e75814778d859a69703681d25aa0e6a6ba6f94a8cf96974af",
+    "package": "bf98bd3fc5ecbbc8d16188685517c06a28d284acfb462fe2d20bc22ddea8b908"
+  },
+  "FinalDefense/FinalAltar": "native defense branch, real VIP templates and corrected last-AP fixture",
+  "field_package_sha256": {
+    "PostRevision": "0284f8319833 (prefix)",
+    "FocusedSight/FocusedAltar/FinalDefense/FinalAltar": "bf98bd3fc5ecbbc8d16188685517c06a28d284acfb462fe2d20bc22ddea8b908",
+    "FinalBlood": "6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64"
+  },
+  "before_scope": "OtherGaps preceded the Cyberdisc, Niven, Mercy and Blood Tide fixes; BeforeAltar used the rev005 AI INI.",
+  "FinalBlood": "final Blood Tide owner red-alert check, controlled bind fixture, and targeted regressions",
+  "FinalSingleBind": "final retail package, one exposed soldier, native Rush/Bind and no manually fired bind"
+}

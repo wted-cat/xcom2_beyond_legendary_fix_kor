@@ -1,0 +1,7 @@
+WotC 8917
+X2WOTCCommunityHighlander: Components:
+X2WOTCCommunityHighlander:   X2WOTCCommunityHighlander -- v1.32.0 (1cba26)
+X2WOTCCommunityHighlander:   Core -- v1.32.0 (1cba26)
+X2WOTCCommunityHighlander:   Engine -- v1.32.0 (1cba26)
+X2WOTCCommunityHighlander:   XComGame -- v1.32.0 (1cba26)
+X2WOTCCommunityHighlander:   DLC_2 -- v1.32.0 (1cba26)

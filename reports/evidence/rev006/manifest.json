@@ -1,0 +1,218 @@
+{
+  "format": "R6 original WotC ScriptLog rows, duplicate observations removed",
+  "active_team_alien": 16,
+  "release_sha256": {
+    "Config/XComAI.ini": "c2e7cc1ea12d808e75814778d859a69703681d25aa0e6a6ba6f94a8cf96974af",
+    "Script/CoarseEnemyAIAndEncounters.u": "6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64"
+  },
+  "tested_builds": {
+    "rev005_ini_sha256": "f9387d4e530ca858d36f2e22f75238ef7bd75ad32fa75487743766dd161586b3"
+  },
+  "files": [
+    {
+      "file": "Altar03.txt",
+      "original_log_sha256": "9a4a115a07f7f4729d516bca2972bd017cd6c6f7ee46aa0b7c95d81c59c6c581",
+      "rows": 120,
+      "scenarios": [
+        1
+      ]
+    },
+    {
+      "file": "Disc04.txt",
+      "original_log_sha256": "20cc5f593e01b13d03c243ac594c8b519cc8a22a4b3b1051ac654941b6f8ae14",
+      "rows": 50,
+      "scenarios": [
+        2
+      ]
+    },
+    {
+      "file": "Support04.txt",
+      "original_log_sha256": "c289f7ffba3b9a0c85c4211dbf3ee7d47792dcb5599e9928897e57c26bbb41cd",
+      "rows": 152,
+      "scenarios": [
+        3
+      ]
+    },
+    {
+      "file": "Coarse04.txt",
+      "original_log_sha256": "1e989b268dac72c981092f75960769c6c804f79772b5b14140f215acc9b8bd9e",
+      "rows": 200,
+      "scenarios": [
+        4
+      ]
+    },
+    {
+      "file": "RemainingSuite.txt",
+      "original_log_sha256": "bb4722920c3609ba6d77592772f1bb0b7d7ded9457eb6d6eb22a7936225022c7",
+      "rows": 70,
+      "scenarios": [
+        14
+      ]
+    },
+    {
+      "file": "FrostHeavy.txt",
+      "original_log_sha256": "ca1a788a021a3de7d12c29d2dd8145bdd5e2dbf0f066cc17fecb29dcc11619d4",
+      "rows": 230,
+      "scenarios": [
+        7
+      ]
+    },
+    {
+      "file": "FrostRootsFinal.txt",
+      "original_log_sha256": "758c04c053aea986e017d937eb051a03f64ca4b95bd3d652c7bd896fd885f6a0",
+      "rows": 129,
+      "scenarios": [
+        8
+      ]
+    },
+    {
+      "file": "AfterAltar.txt",
+      "original_log_sha256": "8a77d7a1c92c803db6ed26e9d1ef8a9358e76ed68c371a7b050f8b24808ce684",
+      "rows": 171,
+      "scenarios": [
+        16
+      ]
+    },
+    {
+      "file": "SupportGaps.txt",
+      "original_log_sha256": "059579edc6333cd8893ba4761209e1d371c3093cffdf2100bea31523b92c375b",
+      "rows": 655,
+      "scenarios": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        31
+      ]
+    },
+    {
+      "file": "BeforeAltar.txt",
+      "original_log_sha256": "a65c3ddcb6f3bfd979c833531172d1b66c7c5e4f66125aab74a771b3d5d0163a",
+      "rows": 143,
+      "scenarios": [
+        18
+      ]
+    },
+    {
+      "file": "OtherGaps.txt",
+      "original_log_sha256": "fb08ad95f08f9cf220a02506d2aa795406af57f945ed6d0dbff6e58896351b9c",
+      "rows": 1450,
+      "scenarios": [
+        5,
+        6,
+        11,
+        12,
+        28,
+        29,
+        32,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "file": "DefenseGap.txt",
+      "original_log_sha256": "5548aef74b822f386aef3e095a5cfbf6d568e131b1ede35b3c282c9b0331b899",
+      "rows": 74,
+      "scenarios": [
+        27
+      ]
+    },
+    {
+      "file": "AfterLastPoint.txt",
+      "original_log_sha256": "1a8d61884c02c6b95e6af686e4c9204aad675d4c8799080d893c74495c37629c",
+      "rows": 81,
+      "scenarios": [
+        18
+      ]
+    },
+    {
+      "file": "FinalAltar.txt",
+      "original_log_sha256": "3b393758b2fa503295b64fd62ef7982848f7a7033c967f2ab5f67538d4edaf2b",
+      "rows": 143,
+      "scenarios": [
+        18
+      ]
+    },
+    {
+      "file": "FinalBlood.txt",
+      "original_log_sha256": "220d6027e348555a1cad7cd3a61865663308746aa5f34e0eb63cce9549f2791e",
+      "rows": 507,
+      "scenarios": [
+        31,
+        36,
+        38,
+        59,
+        60
+      ]
+    },
+    {
+      "file": "FinalDefense.txt",
+      "original_log_sha256": "2bccc563e6206c30ea923e6d4768dcaf7dbd0b6a1437ac82e62ea14be67c69fa",
+      "rows": 197,
+      "scenarios": [
+        27
+      ]
+    },
+    {
+      "file": "FinalSingleBind.txt",
+      "original_log_sha256": "adf1e495fee3d6495db8cebf2f9eb1bf5fadaf3eb60b9ab2a7d0ccdb352166cf",
+      "rows": 83,
+      "scenarios": [
+        61
+      ]
+    },
+    {
+      "file": "FocusedAltar.txt",
+      "original_log_sha256": "b17d37c8f79f6f9d823c2ae31b25fccea9431de6fd17eeb125ce20f5fbd5fd10",
+      "rows": 159,
+      "scenarios": [
+        18
+      ]
+    },
+    {
+      "file": "FocusedSight.txt",
+      "original_log_sha256": "bce8ad497e40d9dddc00c2ed5db85cf2f8741cf4522190cdfa1b4e6b4f054ad4",
+      "rows": 1001,
+      "scenarios": [
+        23,
+        24,
+        31,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "file": "PostRevision.txt",
+      "original_log_sha256": "8e2ebe8855c326ce325c546a631bcfef74da73292c639081d0ade24a9e50900b",
+      "rows": 919,
+      "scenarios": [
+        24,
+        29,
+        31,
+        32,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  ]
+}
