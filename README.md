@@ -4,7 +4,7 @@ XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psycho
 
 버전별 세부 보고서는 reports 디렉터리를 참조하기 바랍니다. 세부 보고서 내용는 AI로 작성되어 있습니다.
 
-**현재 최신 플레이용 버전은 rev006입니다.** 
+**현재 최신 플레이용 버전은 rev007입니다.** 
 
 ## 설치 및 실행 방법
 
