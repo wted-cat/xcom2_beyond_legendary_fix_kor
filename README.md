@@ -1,8 +1,8 @@
 # Beyond legendary fix for korea user
 
-XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 AI와 **Totally Reasonable Definitely Not Psychotic Tedjam Plugin**의 병력·스토리 임무·최종 요새 수정을 함께 적용하는 LWOTC용 모드입니다.
+XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psychotic Tedjam Plugin 환경에서 적 AI, 병력 편성, 임무 스케줄 수정을 한번에 적용하는 모드입니다.
 
-**플레이용 버전은 rev005입니다.** 
+**현재 최신 플레이용 버전은 rev006입니다.** 
 
 ## 설치 및 실행 방법
 
@@ -24,7 +24,7 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 - 이 모드 자체에서 요구하는 정확한 필수, 충돌 모드 ID는 설정 파일에 있습니다. 설정 파일에 +IncompatibleMods(충돌 모드) 로 등록된 항목은 이 모드를 생성하기 전 테스트에 사용한 모드들의 리스트로, 일반적인 경우 무시해도 됩니다.
 
-2. release의 fix_release_rev005을 클릭한 다음, AI_Encounter_Fixes_rev005.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
+2. release의 fix_release_rev006을 클릭한 다음, AI_Encounter_Fixes_rev005.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
 
 3. zip 파일의 압축을 풀면 'CoarseEnemyAIAndEncounters' 디렉터리가 생성됩니다. 필요한 경우 적절한 경로로 이동합니다.
 
@@ -34,15 +34,7 @@ XCOM 2 선택된 자의 전쟁에서 **Requiem Legion: Coarse Edition**의 적 A
 
 6. 전설 난이도와 세컨드 웨이브 옵션 **That Perilous Yearning**이 반드시 선택된 상태여야 합니다. **ZERO SANITY**는 반드시 킬 필요는 없으나 키는걸 권장합니다.
 
-## 버전별 보고서 (세부 보고서 내용는 AI로 작성되어 있습니다.)
-
-| 버전 | 주요 내용 | 검증 기록 |
-|---|---|---|
-| rev005 | 실제 적 턴의 능력·표적 선택, Bashar 장비 21종과 행동력 환급 | [적 턴 45턴과 장비별 행동표](reports/ModReport_CoarseEnemyAIAndEncounters_rev005.md) |
-| rev004 | TPY 카드 효과, 조우 목록·일정 복구, 헌터 M3 회전 경고 재현 | [168개 버튼·18개월 경로·임무 검증](reports/ModReport_CoarseEnemyAIAndEncounters_rev004.md) |
-| rev003 | TPY 선택지, 선택받은 자의 능력·무기·후속 행동, Bashar 강화 | [전설 캠페인과 전술 전투](reports/ModReport_CoarseEnemyAIAndEncounters_rev003.md) |
-| rev002 | rev001 시작 오류, Frost·Raptor 행동, 난이도별 장비와 Omega 편성 | [실게임 대조와 요새 추첨](reports/ModReport_CoarseEnemyAIAndEncounters_rev002.md) |
-| rev001 | Coarse 적 AI와 Tedjam 일반 병력·스토리 임무·요새 포털 최초 통합 | [초기 구현과 SDK 검사](reports/ModReport_CoarseEnemyAIAndEncounters_rev001.md) |
+## 버전별 보고서는 reports 디렉터리를 참조하기 바랍니다 (세부 보고서 내용는 AI로 작성되어 있습니다.)
 
 rev001은 초기 구현을 비교할 수 있도록 보관한 버전입니다. 당시 SDK 검사 54건은 통과했으나 같은 바이너리는 후속 실게임 시험에서 시작 중 종료됐습니다. rev002에서 원인을 수정하고 전술 전투 진입을 확인했습니다.
 
