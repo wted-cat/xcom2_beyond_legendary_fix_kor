@@ -6,7 +6,7 @@ XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psycho
 
 세부 보고서는 reports 디렉터리를 참조하기 바랍니다. 세부 보고서 내용는 AI로 작성되어 있습니다.
 
-**현재 최신 플레이용 버전은 rev007입니다.** 
+**현재 최신 플레이용 버전은 rev008입니다.** 
 
 ## 설치 및 실행 방법
 
@@ -28,7 +28,7 @@ XCOM 2 WOTC Tedjam / Beyond Legendary / Totally Reasonable Definitely Not Psycho
 
 - 이 모드 자체에서 요구하는 정확한 필수, 충돌 모드 ID는 설정 파일에 있습니다. 설정 파일에 +IncompatibleMods(충돌 모드) 로 등록된 항목은 이 모드를 생성하기 전 테스트에 사용한 모드들의 리스트로, 일반적인 경우 무시해도 됩니다.
 
-2. release의 fix_release_rev007을 클릭한 다음, AI_Encounter_Fixes_rev007.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
+2. release의 fix_release_rev008을 클릭한 다음, AI_Encounter_Fixes_rev008.zip 파일을 다운로드 합니다. 만약 이전 버전을 테스트 하고 싶은 경우 해당 소스 디렉터리를 직접 다운로드 합니다.
 
 3. zip 파일의 압축을 풀면 'CoarseEnemyAIAndEncounters' 디렉터리가 생성됩니다. 필요한 경우 적절한 경로로 이동합니다.
 
