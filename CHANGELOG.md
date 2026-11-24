@@ -1,6 +1,14 @@
-# rev001–rev007 변경 이력
+# rev001–rev008 변경 이력
 
 **LWOTC Coarse - Enemy AI and Encounters**의 버전별 게임 동작과 검증 범위를 정리했습니다. 각 보고서에서 재현 조건과 실제 기록을 확인할 수 있습니다. [설치 안내](README.md)
+
+## rev008 — 선택받은 자의 지속 효과와 위태로운 갈망의 중첩 강화
+
+- **선택받은 자.** 생성 때 같은 보석·헌신의 지속 효과가 여러 번 붙어 행동력이 불어나던 문제를 고쳤습니다. 권능과 변화의 헌신도 표적의 엄폐에 맞춰 명중·치명타를 보정합니다.
+- **적의 전술 행동.** 고급·정예 기사는 활 표적이 없어도 자기 방패를 쓸 수 있습니다. 사제의 ‘시간 이동’은 표적을 사제의 턴 시작 칸으로 옮기고 사제가 마지막으로 받은 피해를 한 번 적용합니다. 스펙터의 기계 탈취와 섹토이드의 전리품 회수도 해당 카드 하나로 작동합니다.
+- **PICK YOUR POISON.** 코덱스의 사이오닉 폭탄에 폭발물 봉쇄와 능력 충전 차감을 함께 적용할 수 있습니다. 섹토이드의 ‘기억술’ 등 네 강화는 실제 공격 능력치 대결에 +40을 적용합니다. 스펙터 은신 회복, 버서커 타격, 폭발 반경과 병종별 카드 부여도 바로잡았습니다.
+
+전설 난이도에서 위태로운 갈망을 켜고 선택받은 자 세 명의 보석 조합 1,728개와 같은 대상을 강화하는 선택지 3,178쌍을 대조했습니다. 전투 구성은 두 선택의 순서를 바꿔도 같았고, 캠페인에서 고를 수 있는 순서는 각 카드의 등장 월에 따라 달랐습니다. [rev008 단독 변경 이력](rev008/CHANGELOG.md) · [적 AI와 카드 검증 보고서](reports/ModReport_CoarseEnemyAIAndEncounters_rev008.md) · [설치 ZIP](rev008/AI_Encounter_Fixes_rev008.zip)
 
 ## rev007 — 마무리 사격 표적과 기동 지휘관의 망치
 
@@ -76,6 +84,7 @@
 | rev005 | 51 | 14 | 5 | 0 | 344,888 | `8469d3b6224f2fad2d0fc5c583f4bc8fc706f46045ad9b862dc532085126be2d` |
 | rev006 | 53 | 2 | 4 | 0 | 363,733 | `6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64` |
 | rev007 | 53 | 0 | 1 | 0 | 363,733 | `6827e7fa8a3ea658cbd70d1b0dea2f3e46ee688dfd87573bc185fef9c2837e64` |
+| rev008 | 63 | 10 | 4 | 0 | 441,057 | `ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454` |
 
 <details>
 <summary>rev001의 추가·수정 파일 16개</summary>
@@ -211,5 +220,29 @@
 | 구분 | 버전 내 파일 |
 |---|---|
 | 수정 | `Config/XComAI.ini` |
+
+</details>
+
+<details>
+<summary>rev008에서 수정한 파일 4개와 추가한 파일 10개</summary>
+
+설치 ZIP의 `CoarseEnemyAIAndEncounters/`를 기준으로 한 경로입니다. [설치 ZIP](rev008/AI_Encounter_Fixes_rev008.zip)
+
+| 구분 | 버전 내 파일 |
+|---|---|
+| 수정 | `Config/XComAI.ini` |
+| 수정 | `Script/CoarseEnemyAIAndEncounters.u` |
+| 수정 | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseYearningCardEffects.uc` |
+| 수정 | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseYearningPowers.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseYearningAttackCards.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/CoarseYearningStatRolls.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2AbilityToHitCalc_CoarseYearningDoctrineRoll.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2AbilityToHitCalc_CoarseYearningPanicRoll.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2AbilityToHitCalc_CoarseYearningUnitRoll.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2Condition_CoarsePermanentPassive.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2Condition_CoarseTimeShiftLanding.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2Effect_CoarseDedicationChange.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2Effect_CoarseDedicationPower.uc` |
+| 추가 | `Src/CoarseEnemyAIAndEncounters/Classes/X2Effect_CoarseTimeShiftDamage.uc` |
 
 </details>
