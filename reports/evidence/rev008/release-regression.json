@@ -1,0 +1,85 @@
+{
+  "inventory": {
+    "chosen-combinations.csv": {
+      "old": 1728,
+      "new": 1728,
+      "keys_equal": true
+    },
+    "chosen-forecasts.csv": {
+      "old": 1728,
+      "new": 1728,
+      "keys_equal": true
+    },
+    "poison-pairs.csv": {
+      "old": 3178,
+      "new": 3178,
+      "keys_equal": true
+    },
+    "poison-multi.csv": {
+      "old": 102,
+      "new": 102,
+      "keys_equal": true
+    }
+  },
+  "matrix": {
+    "roster": [
+      79,
+      79
+    ],
+    "buttons": [
+      168,
+      168
+    ],
+    "singles_considered": [
+      13272,
+      13272
+    ],
+    "single_deltas": [
+      605,
+      605
+    ],
+    "same_unit_pairs": [
+      3178,
+      3178
+    ],
+    "observed_directions": [
+      6356,
+      6356
+    ],
+    "possible_campaign_directions": [
+      5231,
+      5231
+    ],
+    "ordered_list_differences": [
+      2,
+      2
+    ],
+    "multis": [
+      102,
+      102
+    ],
+    "max_simultaneous": [
+      17,
+      17
+    ]
+  },
+  "grants": [
+    1728,
+    1728
+  ],
+  "forecasts": [
+    1728,
+    1728
+  ],
+  "control_count": 78,
+  "tested_per_role": {
+    "ChosenAssassinM3": 576,
+    "ChosenSniperM3": 576,
+    "ChosenWarlockM3": 576
+  },
+  "gather_failed": [],
+  "forecast_diff": [],
+  "forecast_invalid": [],
+  "poison_failed": [],
+  "stable": true
+}

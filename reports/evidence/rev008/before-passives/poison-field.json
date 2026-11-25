@@ -1,0 +1,677 @@
+[
+  {
+    "cases": [
+      220,
+      221
+    ],
+    "unit": "AdvStunLancerM3",
+    "forward_equipment": {
+      "AdvStunLancerM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvStunLancerM3_StunLance:eInvSlot_SecondaryWeapon": 1,
+      "YearningPsiAmp:eInvSlot_Utility": 1,
+      "YearningPlasmaBlaster:eInvSlot_Utility": 1,
+      "AlienGrenade:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "AdvStunLancerM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvStunLancerM3_StunLance:eInvSlot_SecondaryWeapon": 1,
+      "YearningPsiAmp:eInvSlot_Utility": 1,
+      "YearningPlasmaBlaster:eInvSlot_Utility": 1,
+      "AlienGrenade:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "15.0000",
+        "70.0000",
+        "10.0000",
+        "20.0000",
+        "135.0000",
+        "15.0000",
+        "1.0000"
+      ],
+      [
+        "15.0000",
+        "70.0000",
+        "10.0000",
+        "20.0000",
+        "135.0000",
+        "15.0000",
+        "1.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_StunlancerMove",
+          "ARFMPYP_StunlancerMove",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_PoliceBrutality",
+          "ARFMPYP_PoliceBrutality",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_LancerPerceptionLink",
+          "ARFMPerceptionLink",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_PsiAmpWill",
+          "ARFMPYP_PsiAmpWill",
+          "eStat_Will:50.0000:MODOP_Addition,"
+        ]
+      ],
+      [
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_StunlancerMove",
+          "ARFMPYP_StunlancerMove",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_PoliceBrutality",
+          "ARFMPYP_PoliceBrutality",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_LancerPerceptionLink",
+          "ARFMPerceptionLink",
+          ""
+        ],
+        [
+          "AdvStunLancerM3",
+          "ARFMPYP_PsiAmpWill",
+          "ARFMPYP_PsiAmpWill",
+          "eStat_Will:50.0000:MODOP_Addition,"
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      222,
+      223
+    ],
+    "unit": "AdvCaptainM3",
+    "forward_equipment": {
+      "AdvCaptainM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdventCaptainMk3Grenade:eInvSlot_Utility": 1,
+      "YearningPsiAmp:eInvSlot_Utility": 1,
+      "YearningShredderGun:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "AdvCaptainM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdventCaptainMk3Grenade:eInvSlot_Utility": 1,
+      "YearningPsiAmp:eInvSlot_Utility": 1,
+      "YearningShredderGun:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "12.0000",
+        "80.0000",
+        "10.0000",
+        "22.0000",
+        "145.0000",
+        "10.0000",
+        "0.0000"
+      ],
+      [
+        "12.0000",
+        "80.0000",
+        "10.0000",
+        "22.0000",
+        "145.0000",
+        "10.0000",
+        "0.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "AdvCaptainM3",
+          "ARFMPYP_Pinpoint",
+          "ARFMPYPPinpoint",
+          ""
+        ],
+        [
+          "AdvCaptainM3",
+          "ARFMPYP_PsiAmpWill",
+          "ARFMPYP_PsiAmpWill",
+          "eStat_Will:50.0000:MODOP_Addition,"
+        ]
+      ],
+      [
+        [
+          "AdvCaptainM3",
+          "ARFMPYP_Pinpoint",
+          "ARFMPYPPinpoint",
+          ""
+        ],
+        [
+          "AdvCaptainM3",
+          "ARFMPYP_PsiAmpWill",
+          "ARFMPYP_PsiAmpWill",
+          "eStat_Will:50.0000:MODOP_Addition,"
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      224,
+      225
+    ],
+    "unit": "AdvPriestM3",
+    "forward_equipment": {
+      "AdvPriestM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvPriestM3_PsiAmp:eInvSlot_SecondaryWeapon": 1,
+      "HazmatVest:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "AdvPriestM3_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvPriestM3_PsiAmp:eInvSlot_SecondaryWeapon": 1,
+      "HazmatVest:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "12.0000",
+        "85.0000",
+        "45.0000",
+        "21.0000",
+        "105.0000",
+        "10.0000",
+        "0.0000"
+      ],
+      [
+        "12.0000",
+        "85.0000",
+        "45.0000",
+        "21.0000",
+        "105.0000",
+        "10.0000",
+        "0.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "AdvPriestM3",
+          "ARFMDESW_PriestProtein",
+          "ARFMDESW_PriestProtein",
+          ""
+        ],
+        [
+          "AdvPriestM3",
+          "ARFMPYP_PriestPerceptionLink",
+          "ARFMPerceptionLink",
+          ""
+        ]
+      ],
+      [
+        [
+          "AdvPriestM3",
+          "ARFMDESW_PriestProtein",
+          "ARFMDESW_PriestProtein",
+          ""
+        ],
+        [
+          "AdvPriestM3",
+          "ARFMPYP_PriestPerceptionLink",
+          "ARFMPerceptionLink",
+          ""
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      226,
+      227
+    ],
+    "unit": "Andromedon",
+    "forward_equipment": {
+      "Andromedon_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AcidBlob:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "Andromedon_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AcidBlob:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "12.0000",
+        "80.0000",
+        "0.0000",
+        "30.0000",
+        "100.0000",
+        "10.0000",
+        "4.0000"
+      ],
+      [
+        "12.0000",
+        "80.0000",
+        "0.0000",
+        "30.0000",
+        "100.0000",
+        "10.0000",
+        "4.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "Andromedon",
+          "ARFMPYP_AndromedonPlating",
+          "ARFMAndromedonCritImmune",
+          ""
+        ]
+      ],
+      [
+        [
+          "Andromedon",
+          "ARFMPYP_AndromedonPlating",
+          "ARFMAndromedonCritImmune",
+          ""
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      228,
+      229
+    ],
+    "unit": "Sectoid",
+    "forward_equipment": {
+      "Sectoid_WPN:eInvSlot_PrimaryWeapon": 1,
+      "YearningSectoidStunLauncher:eInvSlot_SecondaryWeapon": 1
+    },
+    "reverse_equipment": {
+      "Sectoid_WPN:eInvSlot_PrimaryWeapon": 1,
+      "YearningSectoidStunLauncher:eInvSlot_SecondaryWeapon": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "12.0000",
+        "75.0000",
+        "30.0000",
+        "9.0000",
+        "85.0000",
+        "10.0000",
+        "0.0000"
+      ],
+      [
+        "12.0000",
+        "75.0000",
+        "30.0000",
+        "9.0000",
+        "85.0000",
+        "10.0000",
+        "0.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidPsi",
+          "ARFMPYPAimAugment",
+          ""
+        ],
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidTeaParty",
+          "ARFMSectoidTeaParty",
+          ""
+        ],
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidFortress",
+          "PsiFortress",
+          ""
+        ]
+      ],
+      [
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidPsi",
+          "ARFMPYPAimAugment",
+          ""
+        ],
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidTeaParty",
+          "ARFMSectoidTeaParty",
+          ""
+        ],
+        [
+          "Sectoid",
+          "ARFMPYP_SectoidFortress",
+          "PsiFortress",
+          ""
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      230,
+      231
+    ],
+    "unit": "SpectreM2",
+    "forward_equipment": {
+      "SpectreM2_WPN:eInvSlot_PrimaryWeapon": 1,
+      "SpectreM2_PsiAttack:eInvSlot_SecondaryWeapon": 1
+    },
+    "reverse_equipment": {
+      "SpectreM2_WPN:eInvSlot_PrimaryWeapon": 1,
+      "SpectreM2_PsiAttack:eInvSlot_SecondaryWeapon": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "15.0000",
+        "80.0000",
+        "100.0000",
+        "25.0000",
+        "100.0000",
+        "15.0000",
+        "0.0000"
+      ],
+      [
+        "15.0000",
+        "80.0000",
+        "100.0000",
+        "25.0000",
+        "100.0000",
+        "15.0000",
+        "0.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [],
+      []
+    ]
+  },
+  {
+    "cases": [
+      232,
+      233
+    ],
+    "unit": "Viper",
+    "forward_equipment": {
+      "Viper_WPN:eInvSlot_PrimaryWeapon": 1,
+      "PoisonSpitGlob:eInvSlot_Utility": 1,
+      "Viper_Tongue_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningGrenadeBooster:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "Viper_WPN:eInvSlot_PrimaryWeapon": 1,
+      "PoisonSpitGlob:eInvSlot_Utility": 1,
+      "Viper_Tongue_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningGrenadeBooster:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "15.0000",
+        "75.0000",
+        "0.0000",
+        "9.0000",
+        "65.0000",
+        "10.0000",
+        "0.0000"
+      ],
+      [
+        "15.0000",
+        "75.0000",
+        "0.0000",
+        "9.0000",
+        "65.0000",
+        "10.0000",
+        "0.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "Viper",
+          "ARFMPYP_SnakeOilers",
+          "ARFMScalePolish",
+          ""
+        ]
+      ],
+      [
+        [
+          "Viper",
+          "ARFMPYP_SnakeOilers",
+          "ARFMScalePolish",
+          ""
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      234,
+      235
+    ],
+    "unit": "AdvPurifierM3",
+    "forward_equipment": {
+      "AdvPurifierm3Flamethrower:eInvSlot_PrimaryWeapon": 1,
+      "AdvPurifierPistolM3_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningFlamethrowerBooster:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "AdvPurifierm3Flamethrower:eInvSlot_PrimaryWeapon": 1,
+      "AdvPurifierPistolM3_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningFlamethrowerBooster:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "17.0000",
+        "80.0000",
+        "0.0000",
+        "15.0000",
+        "95.0000",
+        "10.0000",
+        "6.0000"
+      ],
+      [
+        "17.0000",
+        "80.0000",
+        "0.0000",
+        "15.0000",
+        "95.0000",
+        "10.0000",
+        "6.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "AdvPurifierM3",
+          "ARFMPYP_PurifierCranialReinforcement",
+          "ARFMPYP_PurifierCranialReinforcement",
+          ""
+        ]
+      ],
+      [
+        [
+          "AdvPurifierM3",
+          "ARFMPYP_PurifierCranialReinforcement",
+          "ARFMPYP_PurifierCranialReinforcement",
+          ""
+        ]
+      ]
+    ]
+  },
+  {
+    "cases": [
+      236,
+      237
+    ],
+    "unit": "AdvMEC_M2",
+    "forward_equipment": {
+      "AdvMEC_M2_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvMEC_M2_Shoulder_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningRocketBooster:eInvSlot_Utility": 1
+    },
+    "reverse_equipment": {
+      "AdvMEC_M2_WPN:eInvSlot_PrimaryWeapon": 1,
+      "AdvMEC_M2_Shoulder_WPN:eInvSlot_SecondaryWeapon": 1,
+      "YearningRocketBooster:eInvSlot_Utility": 1
+    },
+    "equipment_equal": true,
+    "abilities_equal": true,
+    "effects_equal": true,
+    "ability_delta": [
+      "",
+      ""
+    ],
+    "effect_delta": [
+      "",
+      ""
+    ],
+    "stats": [
+      [
+        "15.0000",
+        "75.0000",
+        "0.0000",
+        "16.0000",
+        "50.0000",
+        "10.0000",
+        "3.0000"
+      ],
+      [
+        "15.0000",
+        "75.0000",
+        "0.0000",
+        "16.0000",
+        "50.0000",
+        "10.0000",
+        "3.0000"
+      ]
+    ],
+    "tracked_stats_equal": true,
+    "selected_effect_sources": [
+      [
+        [
+          "AdvMEC_M2",
+          "ARFMPYP_MECArmor",
+          "ARFMPYP_MECArmor",
+          ""
+        ]
+      ],
+      [
+        [
+          "AdvMEC_M2",
+          "ARFMPYP_MECArmor",
+          "ARFMPYP_MECArmor",
+          ""
+        ]
+      ]
+    ]
+  }
+]

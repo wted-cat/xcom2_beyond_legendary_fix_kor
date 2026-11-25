@@ -1,0 +1,10 @@
+﻿첫 선택,다음 선택,월,월 허용 예상,둘째 수락,첫 카드 선택됨,둘째 카드 선택됨,제출 후 HQ 일치,통과
+7,12,4,True,True,True,True,True,True
+12,7,4,True,True,True,True,True,True
+27,50,5,True,True,True,True,True,True
+32,70,5,True,True,True,True,True,True
+50,27,5,True,True,True,True,True,True
+57,64,5,True,True,True,True,True,True
+64,57,6,True,True,True,True,True,True
+65,57,6,True,True,True,True,True,True
+70,32,6,True,True,True,True,True,True

@@ -1,0 +1,1844 @@
+[
+  {
+    "card": "YMTriParteThirtySeven",
+    "button": 1,
+    "callback": "DemocracyProtects",
+    "tags": [
+      "ARFMPYP_DemocracyProtects"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtySeven",
+    "button": 2,
+    "callback": "DemocracyLiberates",
+    "tags": [
+      "ARFMPYP_DemocracyLiberates"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtySeven",
+    "button": 3,
+    "callback": "DemocracyUnifies",
+    "tags": [
+      "ARFMPYP_DemocracyUnifies"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtySix",
+    "button": 1,
+    "callback": "Pinpoint",
+    "tags": [
+      "ARFMPYP_Pinpoint"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtySix",
+    "button": 2,
+    "callback": "StubbornMule",
+    "tags": [
+      "ARFMPYP_StubbornMule"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtySix",
+    "button": 3,
+    "callback": "SlickerThanOil",
+    "tags": [
+      "ARFMPYP_SlickerThanOil"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFive",
+    "button": 1,
+    "callback": "ShieldbearerArmor",
+    "tags": [
+      "ARFMPYP_ShieldbearerArmor"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFive",
+    "button": 2,
+    "callback": "SectoidFortress",
+    "tags": [
+      "ARFMPYP_SectoidFortress"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFive",
+    "button": 3,
+    "callback": "StationaryTyrants",
+    "tags": [
+      "ARFMPYP_StationaryTyrants"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFour",
+    "button": 1,
+    "callback": "PsiCaptains",
+    "tags": [
+      "ARFMPYP_PsiCaptains"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFour",
+    "button": 2,
+    "callback": "PsiLancers",
+    "tags": [
+      "ARFMPYP_PsiLancers"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyFour",
+    "button": 3,
+    "callback": "PsiBearers",
+    "tags": [
+      "ARFMPYP_PsiBearers"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyThree",
+    "button": 1,
+    "callback": "NinetiesBlues",
+    "tags": [
+      "ARFMPYP_NinetiesBlues"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyThree",
+    "button": 2,
+    "callback": "CaptainGrapeshot",
+    "tags": [
+      "ARFMPYP_CaptainGrapeshot"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyThree",
+    "button": 3,
+    "callback": "StartedBlasting",
+    "tags": [
+      "ARFMPYP_StartedBlasting"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyTwo",
+    "button": 1,
+    "callback": "MotivationalExecutions",
+    "tags": [
+      "ARFMPYP_MotivationalExecutions"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyTwo",
+    "button": 2,
+    "callback": "PuddingEmpire",
+    "tags": [
+      "ARFMPYP_PuddingEmpire"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyTwo",
+    "button": 3,
+    "callback": "MassiveDay",
+    "tags": [
+      "ARFMPYP_MassiveDay"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyOne",
+    "button": 1,
+    "callback": "SectoidTeaParty",
+    "tags": [
+      "ARFMPYP_SectoidTeaParty"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyOne",
+    "button": 2,
+    "callback": "SnakeOilers",
+    "tags": [
+      "ARFMPYP_SnakeOilers"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirtyOne",
+    "button": 3,
+    "callback": "LiddyBoxing",
+    "tags": [
+      "ARFMPYP_LiddyBoxing"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirty",
+    "button": 1,
+    "callback": "PoliceBrutality",
+    "tags": [
+      "ARFMPYP_PoliceBrutality"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirty",
+    "button": 2,
+    "callback": "SaltAndPepper",
+    "tags": [
+      "ARFMPYP_SaltAndPepper"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirty",
+    "button": 3,
+    "callback": "SillyLittleBleeder",
+    "tags": [
+      "ARFMPYP_SillyLittleBleeder"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyNine",
+    "button": 1,
+    "callback": "TimeWar",
+    "tags": [
+      "ARFMPYP_TimeWar"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyNine",
+    "button": 2,
+    "callback": "AvoidSnipes",
+    "tags": [
+      "ARFMPYP_AvoidSnipes"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyNine",
+    "button": 3,
+    "callback": "NoOrdinaryRabbit",
+    "tags": [
+      "ARFMPYP_NoOrdinaryRabbit"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyEight",
+    "button": 1,
+    "callback": "CodexSadness",
+    "tags": [
+      "ARFMPYP_CodexSadness"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyEight",
+    "button": 2,
+    "callback": "ViperShields",
+    "tags": [
+      "ARFMPYP_ViperShields"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyEight",
+    "button": 3,
+    "callback": "IndomitableForce",
+    "tags": [
+      "ARFMPYP_IndomitableForce"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySeven",
+    "button": 1,
+    "callback": "Soulfuse",
+    "tags": [
+      "ARFMPYP_Soulfuse"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySeven",
+    "button": 2,
+    "callback": "Paynonets",
+    "tags": [
+      "ARFMPYP_Paynonets"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySeven",
+    "button": 3,
+    "callback": "GhostSignal",
+    "tags": [
+      "ARFMPYP_GhostSignal"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySix",
+    "button": 1,
+    "callback": "EliteBashars",
+    "tags": [
+      "ARFMPYP_EliteBashars"
+    ],
+    "other": [],
+    "min": 12,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySix",
+    "button": 2,
+    "callback": "UniqueBashars",
+    "tags": [
+      "ARFMPYP_UniqueBashars"
+    ],
+    "other": [],
+    "min": 12,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentySix",
+    "button": 3,
+    "callback": "MundaneBashars",
+    "tags": [
+      "ARFMPYP_MundaneBashars"
+    ],
+    "other": [],
+    "min": 12,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFive",
+    "button": 1,
+    "callback": "WeGotTheRockets",
+    "tags": [
+      "ARFMPYP_WeGotTheRockets"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFive",
+    "button": 2,
+    "callback": "BedlamBlasting",
+    "tags": [
+      "ARFMPYP_BedlamBlasting"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFive",
+    "button": 3,
+    "callback": "NightmareFuel",
+    "tags": [
+      "ARFMPYP_NightmareFuel"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFour",
+    "button": 1,
+    "callback": "PainTrain",
+    "tags": [
+      "ARFMPYP_PainTrain"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFour",
+    "button": 2,
+    "callback": "HighCaliber",
+    "tags": [
+      "ARFMPYP_HighCaliber"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyFour",
+    "button": 3,
+    "callback": "WillToSurvive",
+    "tags": [
+      "ARFMPYP_WillToSurvive"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyThree",
+    "button": 1,
+    "callback": "HereticBane",
+    "tags": [
+      "ARFMPYP_HereticBane"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyThree",
+    "button": 2,
+    "callback": "BetrayerBane",
+    "tags": [
+      "ARFMPYP_BetrayerBane"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyThree",
+    "button": 3,
+    "callback": "UnbelieverBane",
+    "tags": [
+      "ARFMPYP_UnbelieverBane"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyTwo",
+    "button": 1,
+    "callback": "Dreadnaughts",
+    "tags": [
+      "ARFMPYP_Dreadnaughts"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyTwo",
+    "button": 2,
+    "callback": "Spinebreakers",
+    "tags": [
+      "ARFMPYP_Spinebreakers"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyTwo",
+    "button": 3,
+    "callback": "AdventCrits",
+    "tags": [
+      "ARFMPYP_AdventCrits"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyOne",
+    "button": 1,
+    "callback": "EdgeOfMind",
+    "tags": [
+      "ARFMPYP_EdgeOfMind"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyOne",
+    "button": 2,
+    "callback": "PyresOfDawn",
+    "tags": [
+      "ARFMPYP_PyresOfDawn"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwentyOne",
+    "button": 3,
+    "callback": "GrailCurse",
+    "tags": [
+      "ARFMPYP_GrailCurse"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwenty",
+    "button": 1,
+    "callback": "StunningField",
+    "tags": [
+      "ARFMPYP_StunningField"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwenty",
+    "button": 2,
+    "callback": "BlindingRockets",
+    "tags": [
+      "ARFMPYP_BlindingRockets"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwenty",
+    "button": 3,
+    "callback": "ArchonSteroid",
+    "tags": [
+      "ARFMPYP_ArchonSteroid"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNineteen",
+    "button": 1,
+    "callback": "Beaglebusting",
+    "tags": [
+      "ARFMPYP_Beaglebusting"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNineteen",
+    "button": 2,
+    "callback": "Battleborn",
+    "tags": [
+      "ARFMPYP_Battleborn"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNineteen",
+    "button": 3,
+    "callback": "Battlehaunt",
+    "tags": [
+      "ARFMPYP_Battlehaunt"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEighteen",
+    "button": 1,
+    "callback": "PYPDroneOverlordsUnlock",
+    "tags": [],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEighteen",
+    "button": 2,
+    "callback": "ChemicalPinions",
+    "tags": [
+      "ARFMPYP_ChemicalPinions"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEighteen",
+    "button": 3,
+    "callback": "SoulPyres",
+    "tags": [
+      "ARFMPYP_SoulPyres"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeventeen",
+    "button": 1,
+    "callback": "DeepPenetration",
+    "tags": [
+      "ARFMPYP_DeepPenetration"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeventeen",
+    "button": 2,
+    "callback": "BackBreakers",
+    "tags": [
+      "ARFMPYP_BackBreakers"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeventeen",
+    "button": 3,
+    "callback": "BewilderingShocks",
+    "tags": [
+      "ARFMPYP_BewilderingShocks"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSixteen",
+    "button": 1,
+    "callback": "DeathCurse",
+    "tags": [
+      "ARFMPYP_DeathCurse"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSixteen",
+    "button": 2,
+    "callback": "PYPExecutionUnlock",
+    "tags": [],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSixteen",
+    "button": 3,
+    "callback": "PYPMarkedForDeathUnlock",
+    "tags": [],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMSectopodEmpowerment",
+    "button": 1,
+    "callback": "SectopodGymrats",
+    "tags": [
+      "ARFMPYP_SectopodGymrats"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMSectopodEmpowerment",
+    "button": 2,
+    "callback": "SectopodMania",
+    "tags": [
+      "ARFMPYP_SectopodMania"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMSectopodEmpowerment",
+    "button": 3,
+    "callback": "SectopodShoes",
+    "tags": [
+      "ARFMPYP_SectopodShoes"
+    ],
+    "other": [],
+    "min": 6,
+    "maximum": null
+  },
+  {
+    "card": "YMSpectreEmpowerment",
+    "button": 1,
+    "callback": "SpectreFifthEye",
+    "tags": [
+      "ARFMPYP_SpectreFifthEye"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMSpectreEmpowerment",
+    "button": 2,
+    "callback": "SpectreRegen",
+    "tags": [
+      "ARFMPYP_SpectreRegen"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMSpectreEmpowerment",
+    "button": 3,
+    "callback": "DarkEmbrace",
+    "tags": [
+      "ARFMPYP_DarkEmbrace"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMAndromedonEmpowerment",
+    "button": 1,
+    "callback": "BlindingAcid",
+    "tags": [
+      "ARFMPYP_BlindingAcid"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMAndromedonEmpowerment",
+    "button": 2,
+    "callback": "StunningStrikes",
+    "tags": [
+      "ARFMPYP_StunningStrikes"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMAndromedonEmpowerment",
+    "button": 3,
+    "callback": "AndromedonWarpBeacon",
+    "tags": [
+      "ARFMPYP_AndromedonWarpBeacon"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMPurifierEmpowerment",
+    "button": 1,
+    "callback": "SpookyFlame",
+    "tags": [
+      "ARFMPYP_SpookyFlame"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMPurifierEmpowerment",
+    "button": 2,
+    "callback": "CripplingFlame",
+    "tags": [
+      "ARFMPYP_CripplingFlame"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMPurifierEmpowerment",
+    "button": 3,
+    "callback": "RuinousFlame",
+    "tags": [
+      "ARFMPYP_RuinousFlame"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFifteen",
+    "button": 1,
+    "callback": "SpectreTeleport",
+    "tags": [
+      "ARFMPYP_SpectreTeleport"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFifteen",
+    "button": 2,
+    "callback": "SuperSectoids",
+    "tags": [
+      "ARFMPYP_SuperSectoids"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFifteen",
+    "button": 3,
+    "callback": "MutonSuppressionShot",
+    "tags": [
+      "ARFMPYP_MutonSuppressionShot"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFourteen",
+    "button": 1,
+    "callback": "SolidSectopod",
+    "tags": [
+      "ARFMPYP_SolidSectopod"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFourteen",
+    "button": 2,
+    "callback": "GatekeeperSupershell",
+    "tags": [
+      "ARFMPYP_GatekeeperSupershell"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFourteen",
+    "button": 3,
+    "callback": "AndromedonPlating",
+    "tags": [
+      "ARFMPYP_AndromedonPlating"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirteen",
+    "button": 1,
+    "callback": "PurifierUnicorn",
+    "tags": [
+      "ARFMPYP_PurifierUnicorn"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirteen",
+    "button": 2,
+    "callback": "MutonTapdancer",
+    "tags": [
+      "ARFMPYP_MutonTapdancer"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThirteen",
+    "button": 3,
+    "callback": "Stunmancy",
+    "tags": [
+      "ARFMPYP_Stunmancy"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwelve",
+    "button": 1,
+    "callback": "CHAGatekeeperGirlboss",
+    "tags": [
+      "ARFMDESW_CHAGatekeeperGirlboss"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwelve",
+    "button": 2,
+    "callback": "MurderDrool",
+    "tags": [
+      "ARFMPYP_MurderDrool"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwelve",
+    "button": 3,
+    "callback": "Zerkernaut",
+    "tags": [
+      "ARFMPYP_Zerkernaut"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEleven",
+    "button": 1,
+    "callback": "CHAMutonReposition",
+    "tags": [
+      "ARFMDESW_CHAMutonReposition"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEleven",
+    "button": 2,
+    "callback": "CHASnekSnuggles",
+    "tags": [
+      "ARFMDESW_CHASnekSnuggles"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEleven",
+    "button": 3,
+    "callback": "ZombieRoids",
+    "tags": [
+      "ARFMPYP_ZombieRoids"
+    ],
+    "other": [],
+    "min": 3,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTen",
+    "button": 1,
+    "callback": "CHASpectreTrouble",
+    "tags": [
+      "ARFMDESW_CHASpectreTrouble"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTen",
+    "button": 2,
+    "callback": "CHAAndromedonGigachad",
+    "tags": [
+      "ARFMDESW_CHAAndromedonGigachad"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTen",
+    "button": 3,
+    "callback": "CHAEnhancedWarframes",
+    "tags": [
+      "ARFMDESW_CHAEnhancedWarframes"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNine",
+    "button": 1,
+    "callback": "AndromedonDoubleTap",
+    "tags": [
+      "ARFMPYP_AndromedonDoubleTap"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNine",
+    "button": 2,
+    "callback": "CHAAwakenMyPoddies",
+    "tags": [
+      "ARFMDESW_CHAAwakenMyPoddies"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteNine",
+    "button": 3,
+    "callback": "CHALiddyRoids",
+    "tags": [
+      "ARFMDESW_CHALiddyRoids"
+    ],
+    "other": [],
+    "min": 7,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEight",
+    "button": 1,
+    "callback": "CHARestorationProtocols",
+    "tags": [
+      "ARFMDESW_CHARestorationProtocols"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEight",
+    "button": 2,
+    "callback": "CHAMutonBrutal",
+    "tags": [
+      "ARFMDESW_CHAMutonBrutal"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteEight",
+    "button": 3,
+    "callback": "CHASuperArchons",
+    "tags": [
+      "ARFMDESW_CHASuperArchons"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeven",
+    "button": 1,
+    "callback": "CHASafetyProtocols",
+    "tags": [
+      "ARFMDESW_CHASafetyProtocols"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeven",
+    "button": 2,
+    "callback": "CHAPriorityTargeting",
+    "tags": [
+      "ARFMDESW_CHAPriorityTargeting"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSeven",
+    "button": 3,
+    "callback": "CHAAdvancedTraining",
+    "tags": [
+      "ARFMDESW_CHAAdvancedTraining"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSix",
+    "button": 1,
+    "callback": "CHARoboArmor",
+    "tags": [
+      "ARFMDESW_CHARoboArmor"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSix",
+    "button": 2,
+    "callback": "CHAAlienSealedArmor",
+    "tags": [
+      "ARFMDESW_CHAAlienSealedArmor"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteSix",
+    "button": 3,
+    "callback": "CHAPsychicScreens",
+    "tags": [
+      "ARFMDESW_CHAPsychicScreens"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFive",
+    "button": 1,
+    "callback": "CHARoboMadness",
+    "tags": [
+      "ARFMDESW_CHARoboMadness"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFive",
+    "button": 2,
+    "callback": "CHAWoodpecker",
+    "tags": [
+      "ARFMDESW_CHAWoodpecker"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFive",
+    "button": 3,
+    "callback": "CHANetworkRepairs",
+    "tags": [
+      "ARFMDESW_CHANetworkRepairs"
+    ],
+    "other": [],
+    "min": 5,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFour",
+    "button": 1,
+    "callback": "CHAArchonTurbo",
+    "tags": [
+      "ARFMDESW_CHAArchonTurbo"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFour",
+    "button": 2,
+    "callback": "CHATacticalAnal",
+    "tags": [
+      "ARFMDESW_CHATacticalAnal"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteFour",
+    "button": 3,
+    "callback": "CHAStunlancerCounter",
+    "tags": [
+      "ARFMDESW_CHAStunlancerCounter"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThree",
+    "button": 1,
+    "callback": "CHASlipperyStalkers",
+    "tags": [
+      "ARFMDESW_CHASlipperyStalkers"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThree",
+    "button": 2,
+    "callback": "CHAFacelessJelly",
+    "tags": [
+      "ARFMDESW_CHAFacelessJelly"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteThree",
+    "button": 3,
+    "callback": "CHAMutonSkin",
+    "tags": [
+      "ARFMDESW_CHAMutonSkin"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwo",
+    "button": 1,
+    "callback": "CHAPriestProtein",
+    "tags": [
+      "ARFMDESW_CHAPriestProtein"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwo",
+    "button": 2,
+    "callback": "CHAICEProtocols",
+    "tags": [
+      "ARFMDESW_CHAICEProtocols"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteTwo",
+    "button": 3,
+    "callback": "CHAMutonCQC",
+    "tags": [
+      "ARFMDESW_CHAMutonCQC"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteOne",
+    "button": 1,
+    "callback": "CHATroopyFace",
+    "tags": [
+      "ARFMDESW_CHATroopyFace"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteOne",
+    "button": 2,
+    "callback": "CHAIncinerationPods",
+    "tags": [
+      "ARFMDESW_CHAIncinerationPods"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMTriParteOne",
+    "button": 3,
+    "callback": "CHASpeedyGonzales",
+    "tags": [
+      "ARFMDESW_CHASpeedyGonzales"
+    ],
+    "other": [],
+    "min": 4,
+    "maximum": null
+  },
+  {
+    "card": "YMMECEnhancement",
+    "button": 1,
+    "callback": "MacroMissiles",
+    "tags": [
+      "ARFMPYP_MacroMissiles"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMMECEnhancement",
+    "button": 2,
+    "callback": "TerrainMapping",
+    "tags": [
+      "ARFMPYP_TerrainMapping"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMMECEnhancement",
+    "button": 3,
+    "callback": "MECArmor",
+    "tags": [
+      "ARFMPYP_MECArmor"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMMutonEnhancement",
+    "button": 1,
+    "callback": "HitterMuton",
+    "tags": [
+      "ARFMPYP_HitterMuton"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMMutonEnhancement",
+    "button": 2,
+    "callback": "BrutalistMuton",
+    "tags": [
+      "ARFMPYP_BrutalistMuton"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMMutonEnhancement",
+    "button": 3,
+    "callback": "ReactiveMuton",
+    "tags": [
+      "ARFMPYP_ReactiveMuton"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMShieldbearerMindLink",
+    "button": 1,
+    "callback": "ShieldbearerPerceptionLink",
+    "tags": [
+      "ARFMPYP_ShieldbearerPerceptionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMShieldbearerMindLink",
+    "button": 2,
+    "callback": "ShieldbearerPrecisionLink",
+    "tags": [
+      "ARFMPYP_ShieldbearerPrecisionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMShieldbearerMindLink",
+    "button": 3,
+    "callback": "ShieldbearerTacticLink",
+    "tags": [
+      "ARFMPYP_ShieldbearerTacticLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMLancerMindLink",
+    "button": 1,
+    "callback": "LancerPerceptionLink",
+    "tags": [
+      "ARFMPYP_LancerPerceptionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMLancerMindLink",
+    "button": 2,
+    "callback": "LancerPrecisionLink",
+    "tags": [
+      "ARFMPYP_LancerPrecisionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMLancerMindLink",
+    "button": 3,
+    "callback": "LancerTacticLink",
+    "tags": [
+      "ARFMPYP_LancerTacticLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestMindLink",
+    "button": 1,
+    "callback": "PriestPerceptionLink",
+    "tags": [
+      "ARFMPYP_PriestPerceptionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestMindLink",
+    "button": 2,
+    "callback": "PriestPrecisionLink",
+    "tags": [
+      "ARFMPYP_PriestPrecisionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestMindLink",
+    "button": 3,
+    "callback": "PriestTacticLink",
+    "tags": [
+      "ARFMPYP_PriestTacticLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerMindLink",
+    "button": 1,
+    "callback": "OfficerPerceptionLink",
+    "tags": [
+      "ARFMPYP_OfficerPerceptionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerMindLink",
+    "button": 2,
+    "callback": "OfficerPrecisionLink",
+    "tags": [
+      "ARFMPYP_OfficerPrecisionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerMindLink",
+    "button": 3,
+    "callback": "OfficerTacticLink",
+    "tags": [
+      "ARFMPYP_OfficerTacticLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperMindLink",
+    "button": 1,
+    "callback": "TrooperPerceptionLink",
+    "tags": [
+      "ARFMPYP_TrooperPerceptionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperMindLink",
+    "button": 2,
+    "callback": "TrooperPrecisionLink",
+    "tags": [
+      "ARFMPYP_TrooperPrecisionLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperMindLink",
+    "button": 3,
+    "callback": "TrooperTacticLink",
+    "tags": [
+      "ARFMPYP_TrooperTacticLink"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestEnhancement",
+    "button": 1,
+    "callback": "VoidPriest",
+    "tags": [
+      "ARFMPYP_VoidPriest"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestEnhancement",
+    "button": 2,
+    "callback": "BattlePriest",
+    "tags": [
+      "ARFMPYP_BattlePriest"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPriestEnhancement",
+    "button": 3,
+    "callback": "UmbraPriest",
+    "tags": [
+      "ARFMPYP_UmbraPriest"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerEnhancement",
+    "button": 1,
+    "callback": "OfficerDefense",
+    "tags": [
+      "ARFMPYP_OfficerDefense"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerEnhancement",
+    "button": 2,
+    "callback": "OfficerDamage",
+    "tags": [
+      "ARFMPYP_OfficerDamage"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMOfficerEnhancement",
+    "button": 3,
+    "callback": "OfficerAim",
+    "tags": [
+      "ARFMPYP_OfficerAim"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperEnhancement",
+    "button": 1,
+    "callback": "TrooperDefense",
+    "tags": [
+      "ARFMPYP_TrooperDefense"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperEnhancement",
+    "button": 2,
+    "callback": "TrooperDamage",
+    "tags": [
+      "ARFMPYP_TrooperDamage"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperEnhancement",
+    "button": 3,
+    "callback": "TrooperAim",
+    "tags": [
+      "ARFMPYP_TrooperAim"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMSectoidEnhancement",
+    "button": 1,
+    "callback": "SectoidPsi",
+    "tags": [
+      "ARFMPYP_SectoidPsi"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMSectoidEnhancement",
+    "button": 2,
+    "callback": "SectoidDamage",
+    "tags": [
+      "ARFMPYP_SectoidDamage"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMSectoidEnhancement",
+    "button": 3,
+    "callback": "SectoidAim",
+    "tags": [
+      "ARFMPYP_SectoidAim"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMStunlancerEnhancement",
+    "button": 1,
+    "callback": "StunlancerDefense",
+    "tags": [
+      "ARFMPYP_StunlancerDefense"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMStunlancerEnhancement",
+    "button": 2,
+    "callback": "StunlancerMove",
+    "tags": [
+      "ARFMPYP_StunlancerMove"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMStunlancerEnhancement",
+    "button": 3,
+    "callback": "StunlancerAim",
+    "tags": [
+      "ARFMPYP_StunlancerAim"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPurifierEnhancement",
+    "button": 1,
+    "callback": "PurifierCranialReinforcement",
+    "tags": [
+      "ARFMPYP_PurifierCranialReinforcement"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPurifierEnhancement",
+    "button": 2,
+    "callback": "PurifierRegeneration",
+    "tags": [
+      "ARFMPYP_PurifierRegeneration"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMPurifierEnhancement",
+    "button": 3,
+    "callback": "PurifierArmor",
+    "tags": [
+      "ARFMPYP_PurifierArmor"
+    ],
+    "other": [],
+    "min": 0,
+    "maximum": "3"
+  },
+  {
+    "card": "YMTrooperGrenades",
+    "button": 1,
+    "callback": "ActivateTrooperPlasmaGrenades",
+    "tags": [
+      "ARFMPYP_TrooperPlasmaGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTrooperGrenades",
+    "button": 2,
+    "callback": "ActivateTrooperGasGrenades",
+    "tags": [
+      "ARFMPYP_TrooperGasGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMTrooperGrenades",
+    "button": 3,
+    "callback": "ActivateTrooperAcidGrenades",
+    "tags": [
+      "ARFMPYP_TrooperAcidGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMStunlancerGrenades",
+    "button": 1,
+    "callback": "ActivateStunlancerPlasmaGrenades",
+    "tags": [
+      "ARFMPYP_StunlancerPlasmaGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMStunlancerGrenades",
+    "button": 2,
+    "callback": "ActivateStunlancerGasGrenades",
+    "tags": [
+      "ARFMPYP_StunlancerGasGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  },
+  {
+    "card": "YMStunlancerGrenades",
+    "button": 3,
+    "callback": "ActivateStunlancerAcidGrenades",
+    "tags": [
+      "ARFMPYP_StunlancerAcidGrenade"
+    ],
+    "other": [],
+    "min": 2,
+    "maximum": null
+  }
+]

@@ -1,0 +1,18 @@
+﻿버전,기술,A,B,선택 A,선택 B,양방향 실행,효과별 통과 동일,양쪽 활성 슬롯 수
+before,AdvPurifierFlamethrower,49,75,PyresOfDawn,SpookyFlame,True,True,2
+before,AdvPurifierFlamethrower,49,76,PyresOfDawn,CripplingFlame,True,True,2
+before,AdvPurifierFlamethrower,49,77,PyresOfDawn,RuinousFlame,True,True,2
+before,Mindspin,30,48,Soulfuse,EdgeOfMind,True,True,2
+before,Mindspin,30,59,Soulfuse,SoulPyres,True,True,2
+before,Mindspin,48,59,EdgeOfMind,SoulPyres,True,True,2
+before,Horror,63,69,DeathCurse,SpectreFifthEye,True,True,2
+before,StunLance,39,62,PainTrain,BewilderingShocks,True,True,2
+final,PsiBombStage1,27,50,CodexSadness,GrailCurse,True,True,2
+final,AdvPurifierFlamethrower,49,75,PyresOfDawn,SpookyFlame,True,True,2
+final,AdvPurifierFlamethrower,49,76,PyresOfDawn,CripplingFlame,True,True,2
+final,AdvPurifierFlamethrower,49,77,PyresOfDawn,RuinousFlame,True,True,2
+final,Mindspin,30,48,Soulfuse,EdgeOfMind,True,True,2
+final,Mindspin,30,59,Soulfuse,SoulPyres,True,True,2
+final,Mindspin,48,59,EdgeOfMind,SoulPyres,True,True,2
+final,Horror,63,69,DeathCurse,SpectreFifthEye,True,True,2
+final,StunLance,39,62,PainTrain,BewilderingShocks,True,True,2

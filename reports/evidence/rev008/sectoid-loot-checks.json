@@ -1,0 +1,237 @@
+[
+  {
+    "case": 238,
+    "owner": 3814,
+    "drop_id": 3858,
+    "item_id": 3857,
+    "stock_ability": 0,
+    "custom_ability": 3829,
+    "end_tile": "7,11,0",
+    "drop_tile": "7,11,0",
+    "ordinary_move": true,
+    "move_finished_event_replayed": true,
+    "checks": [
+      [
+        "238",
+        "AA_Success",
+        "AA_Success",
+        "1"
+      ],
+      [
+        "238",
+        "AA_Success",
+        "AA_Success",
+        "1"
+      ]
+    ],
+    "outcomes": [
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      },
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      }
+    ],
+    "initial_drop": [
+      [
+        "238",
+        "True",
+        "True",
+        "0"
+      ]
+    ],
+    "competing_looters_isolated": [
+      [
+        "238",
+        "False",
+        "11"
+      ],
+      [
+        "238",
+        "True",
+        "11"
+      ]
+    ],
+    "expected_pickup": false,
+    "matching": true
+  },
+  {
+    "case": 239,
+    "owner": 3875,
+    "drop_id": 3914,
+    "item_id": 3913,
+    "stock_ability": 0,
+    "custom_ability": 3890,
+    "end_tile": "7,11,0",
+    "drop_tile": "7,11,0",
+    "ordinary_move": true,
+    "move_finished_event_replayed": true,
+    "checks": [
+      [
+        "239",
+        "AA_TargetHasNoLoot",
+        "AA_NoTargets",
+        "0"
+      ],
+      [
+        "239",
+        "AA_TargetHasNoLoot",
+        "AA_NoTargets",
+        "0"
+      ]
+    ],
+    "outcomes": [
+      {
+        "ground": 0,
+        "backpack": 1,
+        "owner": 3875,
+        "slot": "eInvSlot_Backpack"
+      },
+      {
+        "ground": 0,
+        "backpack": 1,
+        "owner": 3875,
+        "slot": "eInvSlot_Backpack"
+      }
+    ],
+    "initial_drop": [
+      [
+        "239",
+        "True",
+        "True",
+        "0"
+      ]
+    ],
+    "competing_looters_isolated": [
+      [
+        "239",
+        "False",
+        "11"
+      ],
+      [
+        "239",
+        "True",
+        "11"
+      ]
+    ],
+    "expected_pickup": true,
+    "matching": true
+  },
+  {
+    "case": 240,
+    "owner": 3920,
+    "drop_id": 3958,
+    "item_id": 3957,
+    "stock_ability": 0,
+    "custom_ability": 0,
+    "end_tile": "7,11,0",
+    "drop_tile": "7,11,0",
+    "ordinary_move": true,
+    "move_finished_event_replayed": true,
+    "checks": [],
+    "outcomes": [
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      },
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      }
+    ],
+    "initial_drop": [
+      [
+        "240",
+        "True",
+        "True",
+        "0"
+      ]
+    ],
+    "competing_looters_isolated": [
+      [
+        "240",
+        "False",
+        "11"
+      ],
+      [
+        "240",
+        "True",
+        "11"
+      ]
+    ],
+    "expected_pickup": false,
+    "matching": true
+  },
+  {
+    "case": 241,
+    "owner": 3963,
+    "drop_id": 4002,
+    "item_id": 4001,
+    "stock_ability": 0,
+    "custom_ability": 3978,
+    "end_tile": "7,11,0",
+    "drop_tile": "31,11,0",
+    "ordinary_move": true,
+    "move_finished_event_replayed": true,
+    "checks": [
+      [
+        "241",
+        "AA_NotInRange",
+        "AA_NoTargets",
+        "0"
+      ],
+      [
+        "241",
+        "AA_NotInRange",
+        "AA_NoTargets",
+        "0"
+      ]
+    ],
+    "outcomes": [
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      },
+      {
+        "ground": 1,
+        "backpack": 0,
+        "owner": 0,
+        "slot": "eInvSlot_Unknown"
+      }
+    ],
+    "initial_drop": [
+      [
+        "241",
+        "True",
+        "True",
+        "0"
+      ]
+    ],
+    "competing_looters_isolated": [
+      [
+        "241",
+        "False",
+        "11"
+      ],
+      [
+        "241",
+        "True",
+        "11"
+      ]
+    ],
+    "expected_pickup": false,
+    "matching": true
+  }
+]

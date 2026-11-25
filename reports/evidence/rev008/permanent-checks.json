@@ -1,0 +1,114 @@
+{
+  "groups": 200,
+  "actors_with_snapshots": 66,
+  "distinct_protected_effect_sources": [
+    "ARFMCapstoneAlmandine",
+    "ARFMCapstoneAugelite",
+    "ARFMCapstoneAzurite",
+    "ARFMCapstoneFlint",
+    "ARFMCapstoneTanzanite",
+    "ARFMCapstoneZoisite",
+    "ARFMDESW_ChosenRevengence",
+    "ARFMDESW_PriestProtein",
+    "ARFMDESW_SlipperyStalkers",
+    "ARFMDESW_SpeedyGonzales",
+    "ARFMDESW_WarlockPsyBooster",
+    "ARFMDESW_YearningTracker",
+    "ARFMDedicationChange",
+    "ARFMDedicationEnlightenment",
+    "ARFMDedicationPower",
+    "ARFMDedicationRememberance",
+    "ARFMDedicationSensation",
+    "ARFMKeystoneBaryte",
+    "ARFMKeystoneCavansite",
+    "ARFMKeystoneCreedite",
+    "ARFMKeystoneGahnite",
+    "ARFMKeystoneIolite",
+    "ARFMKeystoneRhodolite",
+    "ARFMKeystoneTinzenite",
+    "ARFMLodestoneAegirine",
+    "ARFMLodestoneAmethyst",
+    "ARFMLodestoneCitrine",
+    "ARFMLodestoneCovellite",
+    "ARFMLodestoneDemantoid",
+    "ARFMLodestoneElbaite",
+    "ARFMLodestoneErythrite",
+    "ARFMLodestoneLazurite",
+    "ARFMPYP_BrutalistMuton",
+    "ARFMPYP_LancerPerceptionLink",
+    "ARFMPYP_MECArmor",
+    "ARFMPYP_Pinpoint",
+    "ARFMPYP_PoliceBrutality",
+    "ARFMPYP_PriestPerceptionLink",
+    "ARFMPYP_SectoidFortress",
+    "ARFMPYP_SectoidPsi",
+    "ARFMPYP_SectoidTeaParty",
+    "ARFMPYP_SnakeOilers",
+    "ARFMPYP_StunlancerMove",
+    "ARFMPYP_TrooperAim"
+  ],
+  "retry_calls": 200,
+  "retry_return": {
+    "True": 200
+  },
+  "duplicate_effects": [],
+  "changed_effects": [],
+  "no_retry": [],
+  "retry_false": [],
+  "before_198": {
+    "ChosenAssassinM3": {
+      "X2Effect_TurnStartActionPoints": 20,
+      "X2Effect_CoarseRemembrance": 39
+    },
+    "ChosenSniperM3": {
+      "X2Effect_TurnStartActionPoints": 18,
+      "X2Effect_CoarseRemembrance": 0
+    },
+    "ChosenWarlockM3": {
+      "X2Effect_TurnStartActionPoints": 18,
+      "X2Effect_CoarseRemembrance": 0
+    }
+  },
+  "after_198": [
+    [
+      198,
+      "3810",
+      "ChosenAssassinM3",
+      "ARFMCapstoneAugelite",
+      0,
+      "X2Effect_TurnStartActionPoints",
+      1,
+      1
+    ],
+    [
+      198,
+      "3810",
+      "ChosenAssassinM3",
+      "ARFMDedicationRememberance",
+      0,
+      "X2Effect_CoarseRemembrance",
+      1,
+      1
+    ],
+    [
+      198,
+      "3958",
+      "ChosenSniperM3",
+      "ARFMCapstoneAugelite",
+      0,
+      "X2Effect_TurnStartActionPoints",
+      1,
+      1
+    ],
+    [
+      198,
+      "4093",
+      "ChosenWarlockM3",
+      "ARFMCapstoneAugelite",
+      0,
+      "X2Effect_TurnStartActionPoints",
+      1,
+      1
+    ]
+  ]
+}

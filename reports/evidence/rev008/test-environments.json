@@ -1,0 +1,290 @@
+[
+  {
+    "session": "MatrixBase",
+    "cases": 12,
+    "worlds": 12,
+    "worlds_legend_tpy": 12,
+    "case_end": 12,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "ChosenRoles",
+    "cases": 15,
+    "worlds": 15,
+    "worlds_legend_tpy": 15,
+    "case_end": 15,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "PowersBefore",
+    "cases": 15,
+    "worlds": 15,
+    "worlds_legend_tpy": 15,
+    "case_end": 15,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "PowersAfter",
+    "cases": 30,
+    "worlds": 30,
+    "worlds_legend_tpy": 30,
+    "case_end": 30,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "FieldRoster",
+    "cases": 25,
+    "worlds": 25,
+    "worlds_legend_tpy": 25,
+    "case_end": 25,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "ChosenStones",
+    "cases": 10,
+    "worlds": 10,
+    "worlds_legend_tpy": 10,
+    "case_end": 10,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "FinalPowers",
+    "cases": 19,
+    "worlds": 19,
+    "worlds_legend_tpy": 19,
+    "case_end": 19,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "PoisonOrder",
+    "cases": 35,
+    "worlds": 35,
+    "worlds_legend_tpy": 35,
+    "case_end": 35,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": false
+  },
+  {
+    "session": "PoisonOrderTail",
+    "cases": 6,
+    "worlds": 6,
+    "worlds_legend_tpy": 6,
+    "case_end": 6,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "AttachmentBefore",
+    "cases": 4,
+    "worlds": 4,
+    "worlds_legend_tpy": 4,
+    "case_end": 4,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "FinalInteractions",
+    "cases": 51,
+    "worlds": 51,
+    "worlds_legend_tpy": 51,
+    "case_end": 51,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "ExtraRoster",
+    "cases": 2,
+    "worlds": 2,
+    "worlds_legend_tpy": 2,
+    "case_end": 2,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "FinalReplay",
+    "cases": 14,
+    "worlds": 14,
+    "worlds_legend_tpy": 14,
+    "case_end": 14,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "FinalSupplement",
+    "cases": 3,
+    "worlds": 3,
+    "worlds_legend_tpy": 3,
+    "case_end": 3,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "RollAfter",
+    "cases": 22,
+    "worlds": 22,
+    "worlds_legend_tpy": 22,
+    "case_end": 22,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "RollConfirm",
+    "cases": 3,
+    "worlds": 3,
+    "worlds_legend_tpy": 3,
+    "case_end": 3,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "CatalogLoot",
+    "cases": 4,
+    "worlds": 4,
+    "worlds_legend_tpy": 4,
+    "case_end": 4,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  },
+  {
+    "session": "MindCooldown",
+    "cases": 1,
+    "worlds": 1,
+    "worlds_legend_tpy": 1,
+    "case_end": 1,
+    "engine_version": true,
+    "highlander": [
+      "Core -- v1.32.0 (1cba26)",
+      "DLC_2 -- v1.32.0 (1cba26)",
+      "Engine -- v1.32.0 (1cba26)",
+      "X2WOTCCommunityHighlander -- v1.32.0 (1cba26)",
+      "XComGame -- v1.32.0 (1cba26)"
+    ],
+    "finished": true
+  }
+]

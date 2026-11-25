@@ -1,0 +1,491 @@
+{
+  "ThrowGrenade": [
+    "LaunchGrenade",
+    "CustodianRockets",
+    "ExaltedRockets",
+    "MagGrenade",
+    "LaserGrenade",
+    "RadGrenade",
+    "IRI_BlastOrdnance",
+    "IRI_BlastOrdnance",
+    "IRI_LaunchOrdnance",
+    "MagGrenade",
+    "LaserGrenade",
+    "RadGrenade",
+    "ShadowOps_Breach",
+    "ARFMPulsescanner"
+  ],
+  "StandardMelee": [
+    "BigDamnPunch",
+    "DevastatingPunch",
+    "ChryssalidSlash",
+    "Bayonet",
+    "SwordSlice",
+    "Reaper",
+    "StunLance",
+    "AnimaConsume",
+    "ScythingClaws",
+    "Bind",
+    "ChryssalidSlashMP",
+    "SkirmisherMelee",
+    "BigDamnPunch",
+    "DevastatingPunch",
+    "ChryssalidSlash",
+    "Bayonet",
+    "SwordSlice",
+    "Reaper",
+    "StunLance",
+    "AnimaConsume",
+    "ScythingClaws",
+    "Bind",
+    "ChryssalidSlashMP",
+    "ViperNeonateBindAbility",
+    "QueenDevastatingPunch",
+    "StandardMelee_NoEnd",
+    "Ability_CelatidAlien_PoisonCloud",
+    "Rend",
+    "DevastatingPunch",
+    "OmegaDevastatingPunch",
+    "DevastatingPunch",
+    "EUBerserkerDevastatingPunch",
+    "ToxinSlash",
+    "AssaultStun",
+    "BioShieldBash",
+    "DestroyerGauntlet",
+    "BreakerGauntlet",
+    "Mk2ShieldBash",
+    "ChryssalidHoundSlash",
+    "MZ_FDChryssalidFrostSlash_M1",
+    "MZ_FDChryssalidFrostSlash_M2",
+    "MZ_FDChryssalidFrostSlash_M3",
+    "MZ_FDChryssalidFrostNeedle_M1",
+    "MZ_FDChryssalidFrostNeedle_M2",
+    "MZ_FDChryssalidFrostNeedle_M3",
+    "MZ_FDFrostPunch",
+    "MZ_FD_FrostShieldBash",
+    "MZ_FDBeserkerIcePunch_M2",
+    "MZ_FDBeserkerIcePunch_M3",
+    "MZ_FDAdderRushAndBind",
+    "MZ_FDFrostAxeSlash",
+    "MZ_FDBigDamnPunch",
+    "MZ_FDBeserkerIcePunch_M4",
+    "ChryssalidSoldierSlash",
+    "HiveQueenSlash",
+    "Slash_LW",
+    "ToxinSlashM1",
+    "MZ_FDFrostPunch",
+    "MZ_FD_FrostShieldBash",
+    "MZ_FDBeserkerIcePunch_M2",
+    "MZ_FDBeserkerIcePunch_M3",
+    "MZ_FDAdderRushAndBind",
+    "MZ_FDFrostAxeSlash",
+    "MZ_FDBigDamnPunch",
+    "DevastatingPunchMP",
+    "ARFMKnightMelee",
+    "AHWMagnaDevastatingPunch",
+    "AHWAndromelidPunch",
+    "AHWMagnaSlash",
+    "AHWMutonMelee",
+    "SeekerBindMove"
+  ],
+  "EnergyShield": [
+    "EnergyShield",
+    "EnergyShieldMk3",
+    "CommandoEnergyShield",
+    "CommandoEnergyShieldMk2",
+    "CommandoEnergyShieldMk3",
+    "NetworkProxyCommand"
+  ],
+  "PsiDimensionalRiftStage1": [
+    "VoidRift",
+    "MassJail",
+    "VoidRift"
+  ],
+  "overwatch": [
+    "SniperRifleOverwatch",
+    "AdvSniperLongWatch",
+    "AdvRaptorLongWatch",
+    "AHWCyberdiscOverwatch"
+  ],
+  "VanishingWind": [
+    "Vanish"
+  ],
+  "HolyWarrior": [
+    "HolyWarriorM1",
+    "HolyWarriorM2",
+    "HolyWarriorM3"
+  ],
+  "StunLance": [
+    "SpectralStunLance",
+    "MZ_FDAdderRushAndBind",
+    "MZ_FDFrostAxeSlash",
+    "MZ_FDMutonBayonetCharge",
+    "MZ_FDFrostRend"
+  ],
+  "Stasis": [
+    "PriestStasis"
+  ],
+  "Shadowbind": [
+    "ShadowbindM2"
+  ],
+  "Corress": [
+    "CorressM2",
+    "CorressM3",
+    "CorressM4"
+  ],
+  "SpectralArmy": [
+    "SpectralArmyM2",
+    "SpectralArmyM3",
+    "SpectralArmyM4"
+  ],
+  "PsiMindControl": [
+    "PriestPsiMindControl",
+    "Insanity",
+    "MZBetrayal",
+    "AHWOutsiderAllure"
+  ],
+  "GetOverHere": [
+    "KingGetOverHere",
+    "DestroyerPull"
+  ],
+  "Ability_AshDeathsEmbrace": [
+    "Ability_AshDeathsEmbraceM1",
+    "Ability_AshDeathsEmbraceM2",
+    "Ability_AshDeathsEmbraceM3"
+  ],
+  "Ability_AshZombieSlash": [
+    "Ability_AshZombieSlashM1",
+    "Ability_AshZombieSlashM2",
+    "Ability_AshZombieSlashM3"
+  ],
+  "Ability_AshResilience": [
+    "Ability_AshResilienceM1",
+    "Ability_AshResilienceM2",
+    "Ability_AshResilienceM3"
+  ],
+  "Ability_AshBurnTheWitch": [
+    "Ability_AshBurnTheWitchM1",
+    "Ability_AshBurnTheWitchM2"
+  ],
+  "Ability_AshFlameViperSpit": [
+    "Ability_AshFlameViperSpitM1",
+    "Ability_AshFlameViperSpitM2",
+    "Ability_AshFlameViperSpitM3"
+  ],
+  "Ability_AshSeething": [
+    "Ability_AshSeethingM1",
+    "Ability_AshSeethingM2",
+    "Ability_AshSeethingM3"
+  ],
+  "AdventMedikit": [
+    "MedikitHeal",
+    "NanoMedikitHeal"
+  ],
+  "AdventRestore": [
+    "AdventMedicRestore"
+  ],
+  "Ability_CelatidAlien_PoisonSpit": [
+    "Ability_CelatidAlien_PoisonSpitM1",
+    "Ability_CelatidAlien_PoisonSpitM2",
+    "Ability_CelatidAlien_PoisonSpitM3"
+  ],
+  "StandardShot": [
+    "AdvRaptorStandardFire",
+    "CustodianFlechette",
+    "HarrierGrenade",
+    "MZ_FDSpectreShot",
+    "RapidFire",
+    "AnimaGate",
+    "BlasterDuringCannon",
+    "StandardShot_NoEnd",
+    "Blaster",
+    "SniperStandardFire",
+    "LightEmUp",
+    "PistolStandardShot",
+    "Phasic_Shot",
+    "Gatling_Shot",
+    "FZ_FDSpectreShot",
+    "HarrierRocketMJ",
+    "snapshot",
+    "AHWCyberdiscShot",
+    "AHWLegateStandardShot",
+    "AHWCyberdiscClosedStandardShot",
+    "AHWCyberdiscStandardShot",
+    "AHWHeavyMechtoidStandardShot"
+  ],
+  "MarkTarget": [
+    "SoulReaper",
+    "WraithInvert",
+    "MZ_FDMarkTarget"
+  ],
+  "Teleport": [
+    "IcarusJump",
+    "RaptorJump",
+    "TPYChosenTeleport",
+    "AHWOutsiderTeleport",
+    "AHWMagnalidTunnel",
+    "AHWFloaterTeleport"
+  ],
+  "ScythingClaws": [
+    "PlasmaQuake",
+    "BioScythingClaws",
+    "BioScythingClawsM2",
+    "BioZerker_DeathCloud",
+    "TriggerBioDestruct",
+    "MZ_FDFrostPuddingCleave_M1",
+    "MZ_FDFrostPuddingCleave_M2",
+    "MZ_FDFrostPuddingCleave_M3",
+    "TPYChosenWave"
+  ],
+  "AdvPurifierFlamethrower": [
+    "IceThrower",
+    "HeavyPlasmathrower",
+    "DromeDome_BackBurner",
+    "MZIceThrower",
+    "ShredderGun",
+    "AHWDeathFogSpray",
+    "ARFMDraugrSatFire"
+  ],
+  "PoisonSpit": [
+    "PoisonBlindSpit",
+    "MZ_FDFrostSpit",
+    "MZ_FDFreezeSpit",
+    "M31_ENEMY_PoisonSpit",
+    "M31_ENEMY_PoisonSpitWithDamage",
+    "AHWTalKhazanShotAlien"
+  ],
+  "BlazingPinionsStage1": [
+    "CallGasStrike",
+    "CallAdvancedGasStrike",
+    "AHWRequiemPinions1",
+    "AHWFloaterFlight"
+  ],
+  "CallBioReinforcements": [
+    "CallBioReinforcementsM1",
+    "CallBioReinforcementsM2",
+    "CallBioReinforcementsM3"
+  ],
+  "PurgeVolt": [
+    "PurgeCascade"
+  ],
+  "HarborWave": [
+    "BlazingStorm",
+    "MeltingStream",
+    "Beam_Sweep",
+    "Gatling_Sweep",
+    "StreetSweeper",
+    "StreetSweeper2",
+    "AHWTitanArcBreath"
+  ],
+  "NullLance": [
+    "CustodianAutopistol",
+    "PlasmaBlaster",
+    "MZPolarRay",
+    "AHWCoringBeam"
+  ],
+  "AcidBlob": [
+    "DromeDome_Glob_Cryo",
+    "DromeDome_Glob_Fire",
+    "DromeDome_Glob_Poison",
+    "MZ_FDAndromedonFrostBlob",
+    "AHWDoomMist",
+    "AHWDoomMist2",
+    "AHWCripplingMist",
+    "AHWPlagueMist"
+  ],
+  "ChryssalidSlash": [
+    "MZ_FDChryssalidFrostSlash_M1",
+    "MZ_FDChryssalidFrostSlash_M2",
+    "MZ_FDChryssalidFrostSlash_M3",
+    "MZ_FDChryssalidFrostNeedle_M1",
+    "MZ_FDChryssalidFrostNeedle_M2",
+    "MZ_FDChryssalidFrostNeedle_M3"
+  ],
+  "MicroMissiles": [
+    "MZ_FDFrostMicroMissiles",
+    "MZ_FDHardlinerFreezeLauncher",
+    "AHWGunshipMissiles"
+  ],
+  "Bayonet": [
+    "MZ_FDMutonBayonetStab"
+  ],
+  "Mindspin": [
+    "MZ_FDFrostMindspin",
+    "Fuse",
+    "Soulfire"
+  ],
+  "PsiBombStage1": [
+    "MZ_FDFreezingField"
+  ],
+  "FrostShadowbind": [
+    "MZ_FDShadowbind_M2",
+    "MZ_FDShadowbind_M3"
+  ],
+  "DevastatingPunch": [
+    "MZ_FDBeserkerIcePunch_M2",
+    "MZ_FDBeserkerIcePunch_M3",
+    "MZ_FDBeserkerIcePunch_M4",
+    "MZ_FDBeserkerIcePunch_M2",
+    "MZ_FDBeserkerIcePunch_M3",
+    "DevastatingPunchMP"
+  ],
+  "PsiReanimation": [
+    "MZ_FDReanimateFrostZombie_M1",
+    "MZ_FDReanimateFrostZombie_M2",
+    "MZ_FDReanimateFrostZombie_M3"
+  ],
+  "FrostCorress": [
+    "MZ_FDFrostCorress_M1",
+    "MZ_FDFrostCorress_M2",
+    "MZ_FDFrostCorress_M3"
+  ],
+  "FrostShield": [
+    "MZ_FDBruiserShieldArea_M2",
+    "MZ_FDBruiserShieldArea_M3"
+  ],
+  "FrostPriestBuff": [
+    "MZ_FDFrostPriestBuff_M1",
+    "MZ_FDFrostPriestBuff_M2",
+    "MZ_FDFrostPriestBuff_M3"
+  ],
+  "RemoteStart": [
+    "MZFD_RemoteStart"
+  ],
+  "ShieldAlly": [
+    "ShieldAllyM1",
+    "ShieldAllyM2",
+    "ShieldAllyM3",
+    "ShieldAllyM4",
+    "ShieldAllyM5"
+  ],
+  "SpawnChryssalid": [
+    "AHWPraetorianDrop",
+    "AHWPraetorianShieldmaidenDrop"
+  ],
+  "HunterGrapple": [
+    "Grapple",
+    "SkirmisherGrapple"
+  ],
+  "Horror": [
+    "ARFMPYP_GhostSignal"
+  ],
+  "PriestStasis": [
+    "ARFMPYP_TimeShift"
+  ],
+  "ARFMPYP_SectoidLauncher": [
+    "RocketLauncher",
+    "BlasterLauncher",
+    "ARFMDESW_HellstormLauncher"
+  ],
+  "RocketLauncher": [
+    "LWBlasterLauncher",
+    "IRI_FireTacticalNuke",
+    "IRI_FireTacticalNuke_Spark",
+    "IRI_FireRocketLauncher",
+    "ConcussionRocket",
+    "BlasterEMPRocket_LW",
+    "BlasterShredderRocket_LW",
+    "ShredderRocket_LW",
+    "IRI_SparkRocketLauncher",
+    "IRI_SparkBlasterLauncher",
+    "SparkBlasterLauncher",
+    "SparkRocketLauncher",
+    "BunkerBuster",
+    "Airstrike",
+    "BlasterLauncher",
+    "MZCryoLauncher"
+  ],
+  "MeristViperBite": [
+    "M31_ENEMY_ViperBite",
+    "M31_ENEMY_ViperBiteWithCrit"
+  ],
+  "FanFire": [
+    "Faceoff"
+  ],
+  "ShortShot": [
+    "Phasic_Shot_MJ",
+    "ShortShotGatlingMec"
+  ],
+  "DemolitionShot": [
+    "TelekinesisShot"
+  ],
+  "Ability_AshWanderingCurse": [
+    "Ability_AshWanderingCurseM1",
+    "Ability_AshWanderingCurseM2",
+    "Ability_AshWanderingCurseM3"
+  ],
+  "SniperStandardFire": [
+    "snapshot"
+  ],
+  "ScanningProtocol": [
+    "ScanningProtocolFrostTech"
+  ],
+  "Suppression": [
+    "M31_SuppressingFire",
+    "AHWAndromelidSuppression"
+  ],
+  "AHWNivenProtect": [
+    "AHWNivenHeal",
+    "AHWNivenHealM2"
+  ],
+  "AHWShinanimMercy1": [
+    "AHWShinanimMercy2"
+  ],
+  "Reload": [
+    "AHWTalKhazanChargeAlien"
+  ],
+  "ChryssalidBurrow": [
+    "AHWMagnalidLurk"
+  ],
+  "ChryssalidUnburrow": [
+    "AHWMagnalidUnburrow"
+  ],
+  "AHWIncubateChryssalid": [
+    "AHWIncubateChryssalidT2",
+    "AHWIncubateChryssalidT3",
+    "AHWIncubateChryssalidT4",
+    "AHWSpawnRandomAdvent"
+  ],
+  "MindScorch": [
+    "AHWOutsiderVolt"
+  ],
+  "AHWLegateMassBuff": [
+    "AHWAltarMassBuff"
+  ],
+  "Bind": [
+    "SeekerBind"
+  ],
+  "Vanish": [
+    "AHWOutsiderWraith"
+  ],
+  "VanishReveal": [
+    "AHWOutsiderWraithReveal"
+  ],
+  "AHWAltarDesolate": [
+    "AHWGunshipBomb",
+    "AHWTitanArcRoar"
+  ],
+  "TrackingShot": [
+    "AHWTaipanTrackingShotAoE",
+    "AHWTaipanTrackingShot"
+  ],
+  "TrackingShotMark": [
+    "AHWTaipanTrackingShotMark"
+  ],
+  "GatekeeperOpen": [
+    "AHWCyberdiscOpen"
+  ],
+  "GatekeeperClose": [
+    "AHWCyberdiscRetract"
+  ],
+  "AHWCyberdiscBombard": [
+    "AHWMutonBombard"
+  ],
+  "AHWCyberdiscDeathBlossom": [
+    "AHWGunshipBomb"
+  ],
+  "CoarseNivenRestore": [
+    "AHWNivenHeal",
+    "AHWNivenHealM2"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "first": 168,
+  "directions": 27720,
+  "unique": 27720,
+  "allowed": 23157,
+  "denied": 4563,
+  "first_errors": [],
+  "direction_errors": [],
+  "missing_directions": 0,
+  "unexpected_directions": 0,
+  "completed": true,
+  "full_commits": [
+    [
+      7,
+      12,
+      4,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      12,
+      7,
+      4,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      27,
+      50,
+      5,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      32,
+      70,
+      5,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      50,
+      27,
+      5,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      57,
+      64,
+      5,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      64,
+      57,
+      6,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      65,
+      57,
+      6,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ],
+    [
+      70,
+      32,
+      6,
+      true,
+      "True",
+      "True",
+      "True",
+      "True",
+      true
+    ]
+  ],
+  "board": [
+    [
+      "56",
+      "0",
+      "0"
+    ]
+  ],
+  "errors": []
+}

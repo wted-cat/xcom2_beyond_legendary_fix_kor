@@ -1,0 +1,76 @@
+{
+  "completed": true,
+  "units": [
+    "Muton",
+    "MutonM2_LW",
+    "MutonM3_LW",
+    "AHWMutonMagna"
+  ],
+  "physical_items": 21,
+  "choices_per_unit": {
+    "Muton": 20,
+    "MutonM2_LW": 20,
+    "MutonM3_LW": 20,
+    "AHWMutonMagna": 20
+  },
+  "pairs": 820,
+  "directions": 1640,
+  "failed": [],
+  "draws": 304,
+  "draw_failed": [],
+  "pair_draws": 160,
+  "pair_draws_failed": [],
+  "gear_missing": [],
+  "truncated": [],
+  "pools": {
+    "33": [
+      "YearningAzuriteBashar",
+      "YearningBrookiteBashar",
+      "YearningErythriteBashar",
+      "YearningFlintBashar",
+      "YearningShigaiteBashar",
+      "YearningTanzaniteBashar"
+    ],
+    "34": [
+      "YearningBloodBashar",
+      "YearningDawnBashar",
+      "YearningGrailBashar",
+      "YearningKnockBashar",
+      "YearningMothBashar",
+      "YearningOppressorBashar",
+      "YearningSkyBashar",
+      "YearningSoulborneBashar"
+    ],
+    "35": [
+      "YearningAllSeeingBashar",
+      "YearningGigatankBashar",
+      "YearningGrenadierBashar",
+      "YearningHyperRegenBashar",
+      "YearningMassFireBashar",
+      "YearningSpeedBashar"
+    ],
+    "general": [
+      "YearningAllSeeingBashar",
+      "YearningAzuriteBashar",
+      "YearningBloodBashar",
+      "YearningBrookiteBashar",
+      "YearningDawnBashar",
+      "YearningElbaiteBashar",
+      "YearningErythriteBashar",
+      "YearningFlintBashar",
+      "YearningGigatankBashar",
+      "YearningGrailBashar",
+      "YearningGrenadierBashar",
+      "YearningHyperRegenBashar",
+      "YearningKnockBashar",
+      "YearningMassFireBashar",
+      "YearningMothBashar",
+      "YearningOppressorBashar",
+      "YearningShigaiteBashar",
+      "YearningSkyBashar",
+      "YearningSoulborneBashar",
+      "YearningSpeedBashar",
+      "YearningTanzaniteBashar"
+    ]
+  }
+}

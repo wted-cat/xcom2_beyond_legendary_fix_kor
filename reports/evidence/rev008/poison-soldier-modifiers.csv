@@ -1,0 +1,25 @@
+﻿배치,선택 순서,상태 단계,혼란·기절·표식·정신 지배,명중 가산,명중 기대,피해 가산,피해 기대,일치
+213,,0,"False,False,False,False",0,0,0,0,True
+213,,1,"True,False,True,False",0,0,0,0,True
+213,,2,"True,True,True,True",0,0,0,0,True
+213,"57,",0,"False,False,False,False",0,0,0,0,True
+213,"57,",1,"True,False,True,False",10,10,0,0,True
+213,"57,",2,"True,True,True,True",60,60,0,0,True
+213,"64,",0,"False,False,False,False",0,0,0,0,True
+213,"64,",1,"True,False,True,False",0,0,0,0,True
+213,"64,",2,"True,True,True,True",0,0,420,420,True
+213,"65,",0,"False,False,False,False",0,0,0,0,True
+213,"65,",1,"True,False,True,False",0,0,10,10,True
+213,"65,",2,"True,True,True,True",0,0,10,10,True
+213,"57,64,",0,"False,False,False,False",0,0,0,0,True
+213,"57,64,",1,"True,False,True,False",10,10,0,0,True
+213,"57,64,",2,"True,True,True,True",60,60,420,420,True
+213,"64,57,",0,"False,False,False,False",0,0,0,0,True
+213,"64,57,",1,"True,False,True,False",10,10,0,0,True
+213,"64,57,",2,"True,True,True,True",60,60,420,420,True
+213,"57,65,",0,"False,False,False,False",0,0,0,0,True
+213,"57,65,",1,"True,False,True,False",10,10,10,10,True
+213,"57,65,",2,"True,True,True,True",60,60,10,10,True
+213,"65,57,",0,"False,False,False,False",0,0,0,0,True
+213,"65,57,",1,"True,False,True,False",10,10,10,10,True
+213,"65,57,",2,"True,True,True,True",60,60,10,10,True

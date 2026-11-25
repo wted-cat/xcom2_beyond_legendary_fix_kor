@@ -1,0 +1,8806 @@
+{
+  "MatrixBase/110": {
+    "observed": {},
+    "actions": []
+  },
+  "MatrixBase/111": {
+    "observed": {},
+    "actions": []
+  },
+  "MatrixBase/112": {
+    "observed": {
+      "PARRY": [
+        [
+          "112",
+          "957",
+          "3949",
+          "3949",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 957,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3949",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "3949",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 958,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3949",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightMelee",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "MatrixBase/113": {
+    "observed": {},
+    "actions": []
+  },
+  "MatrixBase/114": {
+    "observed": {},
+    "actions": []
+  },
+  "MatrixBase/115": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 1618,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4092",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightPsiBow",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "MatrixBase/116": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2979,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4143",
+        "unit": "ChosenSniperM3",
+        "ability": "TrackingShot_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2987,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4143",
+        "unit": "ChosenSniperM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "MatrixBase/117": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 4396,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4279",
+        "unit": "ChosenSniperM3",
+        "ability": "TrackingShot_LW",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "MatrixBase/118": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 6310,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4407",
+        "unit": "ChosenWarlockM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 6314,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4407",
+        "unit": "ChosenWarlockM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 6366,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4407",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "4407",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "MatrixBase/119": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 8449,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "AssassinSlash_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8454,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8459,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "BloodThirst_LW",
+        "target_id": "4565",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8461,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "AssassinSlash_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8466,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 8471,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4565",
+        "unit": "ChosenAssassinM3",
+        "ability": "BloodThirst_LW",
+        "target_id": "4565",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "MatrixBase/120": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 8781,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4708",
+        "unit": "AdvRaptorM3",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "MatrixBase/121": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 9074,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4770",
+        "unit": "ARFMAdvOutriderM3",
+        "ability": "StandardMelee",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "ChosenRoles/122": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 1806,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3844",
+        "unit": "ChosenSniperM3",
+        "ability": "TPYDuplicateUnit",
+        "target_id": "3972",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1820,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3844",
+        "unit": "ChosenSniperM3",
+        "ability": "ChosenKeen",
+        "target_id": "3844",
+        "multi": "3972,4031,",
+        "ap": "1,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1841,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3972",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "46,16>46,20",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1842,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3972",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardShot",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "46,20>46,20",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/123": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 4052,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4081",
+        "unit": "ChosenWarlockM3",
+        "ability": "TPYDuplicateUnit",
+        "target_id": "4031",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4065,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4081",
+        "unit": "ChosenWarlockM3",
+        "ability": "ChosenKeen",
+        "target_id": "4081",
+        "multi": "3844,3972,4031,4240,4289,",
+        "ap": "1,1",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4119,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4240",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "51,5>40,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4126,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4081",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "4081",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/124": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 6503,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4342",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYDuplicateUnit",
+        "target_id": "3972",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 6504,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4342",
+        "unit": "ChosenAssassinM3",
+        "ability": "ChosenKeen",
+        "target_id": "4342",
+        "multi": "3844,3972,4031,4081,4240,4289,4482,4529,",
+        "ap": "1,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 6573,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4482",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "56,0>56,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 6574,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4482",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardShot",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "56,3>56,3",
+        "hit": "eHit_Graze"
+      }
+    ]
+  },
+  "ChosenRoles/125": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 8323,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4578",
+        "unit": "ChosenSniperM3",
+        "ability": "TPYChosenCommand",
+        "target_id": "4706",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8325,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4706",
+        "unit": "AdvTrooperM2",
+        "ability": "ThrowGrenade",
+        "target_id": "0",
+        "multi": "3450,2203,2189,2182,",
+        "ap": "1,0",
+        "tiles": "56,0>56,0",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8392,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4706",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "56,0>56,0",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "ChosenRoles/126": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 10728,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4763",
+        "unit": "ChosenWarlockM3",
+        "ability": "TPYChosenCommand",
+        "target_id": "4240",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 10787,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4922",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardShot",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "56,0>56,0",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 10795,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4763",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "4763",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/127": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 13281,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4983",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYChosenCommand",
+        "target_id": "4529",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 13354,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5123",
+        "unit": "AdvTrooperM2",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "56,0>56,0",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "ChosenRoles/128": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 14855,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5175",
+        "unit": "ChosenSniperM3",
+        "ability": "TPYChosenWave",
+        "target_id": "0",
+        "multi": "2154,2168,",
+        "ap": "2,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/129": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 17241,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5312",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYChosenWave",
+        "target_id": "0",
+        "multi": "2154,",
+        "ap": "2,1",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/130": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 19577,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5458",
+        "unit": "ChosenWarlockM3",
+        "ability": "TPYChosenWave",
+        "target_id": "0",
+        "multi": "2154,2168,",
+        "ap": "2,2",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 19664,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5458",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "5458",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/131": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 21238,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5626",
+        "unit": "ChosenSniperM3",
+        "ability": "TPYChosenGroundpound",
+        "target_id": "0",
+        "multi": "2168,2217,2182,2154,2161,2175,2189,2203,2196,2210,",
+        "ap": "2,1",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/132": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 23770,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5774",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYChosenGroundpound",
+        "target_id": "0",
+        "multi": "2217,2182,2175,2189,2203,2196,2210,2154,2161,2168,",
+        "ap": "2,1",
+        "tiles": "54,5>54,5",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/133": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 26174,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5925",
+        "unit": "ChosenWarlockM3",
+        "ability": "TPYChosenGroundpound",
+        "target_id": "0",
+        "multi": "2168,2217,2182,2154,2161,2175,2189,2203,2196,2210,",
+        "ap": "2,1",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 26300,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5925",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "5925",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "56,4>56,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/134": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 27966,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6095",
+        "unit": "ChosenSniperM3",
+        "ability": "TPYChosenTeleport",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "54,5>46,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "ChosenRoles/135": {
+    "observed": {},
+    "actions": []
+  },
+  "ChosenRoles/136": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 33071,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6373",
+        "unit": "ChosenWarlockM3",
+        "ability": "TPYChosenTeleport",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "54,5>46,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 33176,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6373",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "6373",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "46,4>46,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/170": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "170",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "False"
+        ],
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "3839",
+          "0",
+          "3885",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "7,12,5",
+          "7,13,5",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 526,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3839",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,12>7,12",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/171": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "171",
+          "3967"
+        ]
+      ],
+      "GATE": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "True"
+        ],
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "3948",
+          "3967",
+          "3997",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "3,8,1",
+          "5,9,1",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "171",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "171",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "171",
+          "675",
+          "ARFMPYP_GhostSignal",
+          "3948",
+          "3997",
+          "-1,-1,-1",
+          "5,9,1",
+          "5,9,1",
+          "150.0000",
+          "150.0000",
+          "0",
+          "0",
+          "8",
+          "16"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 675,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3948",
+        "unit": "SpectreM2",
+        "ability": "ARFMPYP_GhostSignal",
+        "target_id": "3997",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "3,8>3,8",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 769,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3948",
+        "unit": "SpectreM2",
+        "ability": "Vanish",
+        "target_id": "3948",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "3,8>3,8",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 781,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3948",
+        "unit": "SpectreM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "3,8>8,10",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/172": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "172",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "172",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "True"
+        ],
+        [
+          "172",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "False"
+        ]
+      ],
+      "POWER": [
+        [
+          "172",
+          "ARFMPYP_GhostSignal",
+          "4075",
+          "0",
+          "4123",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "3,8,1",
+          "5,9,1",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1012,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4075",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "3,8>3,8",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/173": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "173",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "173",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "False"
+        ],
+        [
+          "173",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "False"
+        ]
+      ],
+      "POWER": [
+        [
+          "173",
+          "ARFMPYP_GhostSignal",
+          "4176",
+          "0",
+          "4224",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "3,8,1",
+          "5,9,1",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1288,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4176",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "3,8>3,8",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersBefore/174": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "174",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "174",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "False"
+        ],
+        [
+          "174",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "174",
+          "ARFMPYP_GhostSignal",
+          "4294",
+          "0",
+          "2154",
+          "Soldier",
+          "-1,-1,-1",
+          "3,8,1",
+          "4,7,1",
+          "180.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1546,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4294",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "3,8>3,8",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersBefore/175": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "175",
+          "4361"
+        ]
+      ],
+      "GATE": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "4345",
+          "4361",
+          "2154",
+          "Soldier",
+          "3,8,1",
+          "7,9,1",
+          "4,8,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "175",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "175",
+          "AA_Success",
+          "10"
+        ]
+      ],
+      "INPUT": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "175",
+          "1665",
+          "ARFMPYP_TimeShift",
+          "4345",
+          "2154",
+          "3,8,1",
+          "4,8,1",
+          "3,8,1",
+          "170.0000",
+          "170.0000",
+          "2",
+          "2",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1665,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1667,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1669,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1671,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1673,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1675,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2203",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1677,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1679,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1820,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4345",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/176": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "176",
+          "4439"
+        ]
+      ],
+      "GATE": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "4423",
+          "4439",
+          "2154",
+          "Soldier",
+          "6,12,5",
+          "6,12,5",
+          "7,12,5",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "176",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "176",
+          "AA_Success",
+          "10"
+        ]
+      ],
+      "INPUT": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "176",
+          "1929",
+          "ARFMPYP_TimeShift",
+          "4423",
+          "2154",
+          "6,12,5",
+          "7,12,5",
+          "6,12,5",
+          "170.0000",
+          "170.0000",
+          "4",
+          "4",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1929,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4423",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,12>6,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1931,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4423",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,12>6,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1933,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4423",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,12>6,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1935,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4423",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,12>6,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2068,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4423",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,12>6,12",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersBefore/177": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "177",
+          "4505"
+        ]
+      ],
+      "GATE": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "4489",
+          "4505",
+          "2154",
+          "Soldier",
+          "7,14,2",
+          "15,16,2",
+          "6,14,2",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "177",
+          "AA_Success",
+          "AA_NotInRange",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "177",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2291,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4489",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "17,16>22,16",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/178": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "178",
+          "4573"
+        ]
+      ],
+      "GATE": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "4557",
+          "4573",
+          "2154",
+          "Soldier",
+          "6,12,5",
+          "7,14,5",
+          "7,12,5",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "178",
+          "AA_Success",
+          "AA_Success",
+          "AA_CoolingDown"
+        ]
+      ],
+      "CACHE": [
+        [
+          "178",
+          "AA_CoolingDown",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2523,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4557",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,14>12,16",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2524,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4557",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "12,16>12,16",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/179": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "179",
+          "4643"
+        ]
+      ],
+      "GATE": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "4627",
+          "4643",
+          "2154",
+          "Soldier",
+          "7,13,2",
+          "14,12,2",
+          "6,13,2",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "179",
+          "AA_Success",
+          "AA_NotInRange",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "179",
+          "AA_Success",
+          "6"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "179",
+          "2753",
+          "ARFMPYP_TimeShift",
+          "4627",
+          "2182",
+          "14,12,2",
+          "6,9,1",
+          "14,12,2",
+          "180.0000",
+          "180.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2753,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4627",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "14,12>14,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2756,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4627",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "14,12>14,12",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/180": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "180",
+          "4713"
+        ]
+      ],
+      "GATE": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "4697",
+          "4713",
+          "2154",
+          "Soldier",
+          "6,12,5",
+          "6,12,5",
+          "7,12,5",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "180",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "180",
+          "AA_Success",
+          "10"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "PowersBefore/181": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "181",
+          "4784"
+        ]
+      ],
+      "GATE": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "4768",
+          "4784",
+          "2154",
+          "Soldier",
+          "7,13,2",
+          "7,15,2",
+          "6,13,2",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "181",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "181",
+          "AA_Success",
+          "3"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "PowersBefore/182": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "182",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_Paynonets",
+          "False"
+        ],
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "4840",
+          "0",
+          "4888",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "6,12,5",
+          "7,12,5",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "PowersBefore/183": {
+    "observed": {
+      "GATE": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "ARFMDESW_CHAShadowhorde",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "4930",
+          "4949",
+          "4979",
+          "AdvTrooperM1",
+          "-1,-1,-1",
+          "7,13,2",
+          "7,14,2",
+          "0.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "183",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "183",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "183",
+          "3671",
+          "ARFMDESW_Shadowhorde",
+          "4930",
+          "4979",
+          "-1,-1,-1",
+          "7,14,2",
+          "7,14,2",
+          "0.0000",
+          "0.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3671,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4930",
+        "unit": "SpectreM2",
+        "ability": "ARFMDESW_Shadowhorde",
+        "target_id": "4979",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,13>7,13",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersBefore/184": {
+    "observed": {
+      "GATE": [
+        [
+          "184",
+          "ARFMDESW_Shadowhorde",
+          "ARFMDESW_CHAShadowhorde",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "184",
+          "ARFMDESW_Shadowhorde",
+          "5062",
+          "5081",
+          "2154",
+          "Soldier",
+          "-1,-1,-1",
+          "6,12,5",
+          "7,12,5",
+          "180.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "184",
+          "AA_Success",
+          "AA_UnitIsAlive",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "184",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "PowersAfter/170": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "170",
+          "3841"
+        ]
+      ],
+      "GATE": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "3822",
+          "3841",
+          "3871",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "9,27,1",
+          "11,26,1",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "170",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "170",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "170",
+          "459",
+          "ARFMPYP_GhostSignal",
+          "3822",
+          "3871",
+          "-1,-1,-1",
+          "11,26,1",
+          "11,26,1",
+          "150.0000",
+          "150.0000",
+          "0",
+          "0",
+          "8",
+          "16"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 459,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3822",
+        "unit": "SpectreM2",
+        "ability": "ARFMPYP_GhostSignal",
+        "target_id": "3871",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 530,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3822",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/171": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "171",
+          "3950"
+        ]
+      ],
+      "GATE": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "3931",
+          "3950",
+          "3980",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "9,27,1",
+          "11,26,1",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "171",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "171",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "171",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "171",
+          "667",
+          "ARFMPYP_GhostSignal",
+          "3931",
+          "3980",
+          "-1,-1,-1",
+          "11,26,1",
+          "11,26,1",
+          "150.0000",
+          "150.0000",
+          "0",
+          "0",
+          "8",
+          "16"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 667,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3931",
+        "unit": "SpectreM2",
+        "ability": "ARFMPYP_GhostSignal",
+        "target_id": "3980",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 747,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3931",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/172": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "172",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "172",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "False"
+        ]
+      ],
+      "POWER": [
+        [
+          "172",
+          "ARFMPYP_GhostSignal",
+          "4036",
+          "0",
+          "4084",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "9,27,1",
+          "11,26,1",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 988,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4036",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/173": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "173",
+          "0"
+        ]
+      ],
+      "GATE": [
+        [
+          "173",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "False"
+        ]
+      ],
+      "POWER": [
+        [
+          "173",
+          "ARFMPYP_GhostSignal",
+          "4146",
+          "0",
+          "4194",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "9,27,1",
+          "11,26,1",
+          "150.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1275,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4146",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/174": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "174",
+          "4287"
+        ]
+      ],
+      "GATE": [
+        [
+          "174",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "174",
+          "ARFMPYP_GhostSignal",
+          "4268",
+          "4287",
+          "2154",
+          "Soldier",
+          "-1,-1,-1",
+          "9,27,1",
+          "8,27,1",
+          "180.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "174",
+          "AA_Success",
+          "AA_WeaponIncompatible",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "174",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1554,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4268",
+        "unit": "SpectreM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,27>13,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1555,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4268",
+        "unit": "SpectreM2",
+        "ability": "SpectreMoveBegin",
+        "target_id": "4268",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "13,24>13,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1556,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4268",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "13,24>13,24",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/175": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "175",
+          "4349"
+        ]
+      ],
+      "GATE": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "4333",
+          "4349",
+          "2154",
+          "Soldier",
+          "11,26,1",
+          "9,27,1",
+          "8,28,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "175",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "175",
+          "AA_Success",
+          "9"
+        ]
+      ],
+      "INPUT": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "175",
+          "1663",
+          "ARFMPYP_TimeShift",
+          "4333",
+          "2154",
+          "11,26,1",
+          "8,28,1",
+          "11,26,1",
+          "170.0000",
+          "170.0000",
+          "2",
+          "2",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1663,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1664,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1666,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1668,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1670,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1672,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1674,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1676,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "9,27>9,27",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1830,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,27>13,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1831,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "13,24>13,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1833,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "13,24>13,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1835,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4333",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "13,24>13,24",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/176": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "176",
+          "4432"
+        ]
+      ],
+      "GATE": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "4416",
+          "4432",
+          "2154",
+          "Soldier",
+          "12,28,1",
+          "12,28,1",
+          "11,28,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "176",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "176",
+          "AA_Success",
+          "7"
+        ]
+      ],
+      "INPUT": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "176",
+          "1930",
+          "ARFMPYP_TimeShift",
+          "4416",
+          "2154",
+          "12,28,1",
+          "11,28,1",
+          "12,28,1",
+          "170.0000",
+          "170.0000",
+          "4",
+          "4",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1930,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4416",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "12,28>12,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1932,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4416",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,28>12,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1934,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4416",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,28>12,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1936,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4416",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,28>12,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2070,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4416",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "12,28>12,28",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/177": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "177",
+          "4510"
+        ]
+      ],
+      "GATE": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "4494",
+          "4510",
+          "2154",
+          "Soldier",
+          "15,27,1",
+          "12,30,1",
+          "11,30,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "177",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "177",
+          "AA_Success",
+          "7"
+        ]
+      ],
+      "INPUT": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "177",
+          "2167",
+          "ARFMPYP_TimeShift",
+          "4494",
+          "2154",
+          "15,27,1",
+          "11,30,1",
+          "15,27,1",
+          "170.0000",
+          "170.0000",
+          "6",
+          "6",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2167,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "12,30>12,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2170,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,30>12,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2172,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,30>12,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2320,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "12,26>14,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2321,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "14,24>14,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2323,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4494",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,24>14,24",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/178": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "178",
+          "4577"
+        ]
+      ],
+      "GATE": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "4561",
+          "4577",
+          "2154",
+          "Soldier",
+          "19,27,1",
+          "17,28,1",
+          "18,28,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "178",
+          "AA_Success",
+          "AA_Success",
+          "AA_CoolingDown"
+        ]
+      ],
+      "CACHE": [
+        [
+          "178",
+          "AA_CoolingDown",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2542,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4561",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "17,28>17,28",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/179": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "179",
+          "4646"
+        ]
+      ],
+      "GATE": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "4630",
+          "4646",
+          "2154",
+          "Soldier",
+          "19,27,1",
+          "17,28,1",
+          "18,29,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "179",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "179",
+          "AA_Success",
+          "7"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "179",
+          "2786",
+          "ARFMPYP_TimeShift",
+          "4630",
+          "2196",
+          "17,28,1",
+          "5,25,1",
+          "17,28,1",
+          "180.0000",
+          "180.0000",
+          "4",
+          "4",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2785,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4630",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "20,27>21,24",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2786,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4630",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "21,24>21,24",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/180": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "180",
+          "4716"
+        ]
+      ],
+      "GATE": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "4700",
+          "4716",
+          "2154",
+          "Soldier",
+          "18,28,1",
+          "18,28,1",
+          "19,28,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "180",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "180",
+          "AA_Success",
+          "8"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "180",
+          "3032",
+          "ARFMPYP_TimeShift",
+          "4700",
+          "2175",
+          "18,28,1",
+          "8,26,1",
+          "18,28,1",
+          "180.0000",
+          "180.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3032,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3035,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3037,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3039,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3041,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3043,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4700",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/181": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "181",
+          "4787"
+        ]
+      ],
+      "GATE": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "4771",
+          "4787",
+          "2154",
+          "Soldier",
+          "21,25,1",
+          "19,26,1",
+          "20,26,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "181",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "181",
+          "AA_Success",
+          "8"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "181",
+          "3330",
+          "ARFMPYP_TimeShift",
+          "4771",
+          "2175",
+          "19,26,1",
+          "18,28,1",
+          "19,26,1",
+          "180.0000",
+          "180.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3327,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4771",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "19,26>16,23",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3328,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4771",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "16,23>16,23",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3330,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4771",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "16,23>16,23",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3332,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4771",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "16,23>16,23",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/182": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "182",
+          "4863"
+        ]
+      ],
+      "GATE": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "4844",
+          "4863",
+          "4893",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "18,28,1",
+          "19,27,1",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "182",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "182",
+          "AA_Success",
+          "1"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "PowersAfter/183": {
+    "observed": {
+      "GATE": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "ARFMDESW_CHAShadowhorde",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "4935",
+          "4954",
+          "4984",
+          "AdvTrooperM1",
+          "-1,-1,-1",
+          "18,28,1",
+          "20,27,1",
+          "0.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "183",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "183",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "183",
+          "ARFMDESW_Shadowhorde",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "183",
+          "3718",
+          "ARFMDESW_Shadowhorde",
+          "4935",
+          "4984",
+          "-1,-1,-1",
+          "20,27,1",
+          "20,27,1",
+          "0.0000",
+          "0.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3718,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4935",
+        "unit": "SpectreM2",
+        "ability": "ARFMDESW_Shadowhorde",
+        "target_id": "4984",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "18,28>19,28",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/184": {
+    "observed": {
+      "GATE": [
+        [
+          "184",
+          "ARFMDESW_Shadowhorde",
+          "ARFMDESW_CHAShadowhorde",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "184",
+          "ARFMDESW_Shadowhorde",
+          "5067",
+          "5086",
+          "2154",
+          "Soldier",
+          "-1,-1,-1",
+          "18,28,1",
+          "19,28,1",
+          "180.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "184",
+          "AA_Success",
+          "AA_UnitIsAlive",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "184",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "184",
+          "4228",
+          "ARFMDESW_Shadowhorde",
+          "5067",
+          "4984",
+          "18,28,1",
+          "20,27,1",
+          "20,27,1",
+          "0.0000",
+          "0.0000",
+          "0",
+          "0",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 4228,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5067",
+        "unit": "SpectreM2",
+        "ability": "ARFMDESW_Shadowhorde",
+        "target_id": "4984",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "18,28>19,27",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/185": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "185",
+          "5233"
+        ]
+      ],
+      "GATE": [
+        [
+          "185",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "185",
+          "ARFMPYP_TimeShift",
+          "5217",
+          "5233",
+          "2154",
+          "Soldier",
+          "20,27,1",
+          "18,28,1",
+          "19,29,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "185",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "185",
+          "AA_Success",
+          "7"
+        ]
+      ],
+      "INPUT": [
+        [
+          "185",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "185",
+          "4405",
+          "ARFMPYP_TimeShift",
+          "5217",
+          "2154",
+          "20,27,1",
+          "19,29,1",
+          "20,27,1",
+          "170.0000",
+          "170.0000",
+          "13",
+          "13",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 4405,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4408,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4410,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4412,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4414,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4622,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5217",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "18,28>18,28",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/186": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "186",
+          "5313"
+        ]
+      ],
+      "GATE": [
+        [
+          "186",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "186",
+          "ARFMPYP_TimeShift",
+          "5297",
+          "5313",
+          "2154",
+          "Soldier",
+          "21,29,1",
+          "21,28,1",
+          "21,29,1",
+          "170.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "186",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "186",
+          "AA_Success",
+          "7"
+        ]
+      ],
+      "INPUT": [
+        [
+          "186",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "186",
+          "4729",
+          "ARFMPYP_TimeShift",
+          "5297",
+          "2154",
+          "21,29,1",
+          "21,29,1",
+          "21,29,1",
+          "170.0000",
+          "170.0000",
+          "15",
+          "15",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 4729,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "21,28>21,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4732,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "21,28>21,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4734,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "21,28>21,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4736,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "21,28>21,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4738,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "21,28>21,28",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4954,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "21,28>23,23",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4955,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "5166",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "23,23>23,23",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 4959,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5297",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "23,23>23,23",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/110": {
+    "observed": {
+      "PARRY": [
+        [
+          "110",
+          "5256",
+          "5379",
+          "5379",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 5256,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5379",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "5379",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/111": {
+    "observed": {
+      "PARRY": [
+        [
+          "111",
+          "5643",
+          "5427",
+          "5427",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 5643,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5427",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "5427",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/112": {
+    "observed": {
+      "PARRY": [
+        [
+          "112",
+          "5949",
+          "5478",
+          "5478",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 5949,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5478",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "5478",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 5950,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5478",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightMelee",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/113": {
+    "observed": {},
+    "actions": []
+  },
+  "PowersAfter/114": {
+    "observed": {
+      "PARRY": [
+        [
+          "114",
+          "6710",
+          "5568",
+          "5568",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 6710,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5568",
+        "unit": "ARFMAdvKnightM2",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "5568",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/115": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 7038,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5613",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightPsiBow",
+        "target_id": "2238",
+        "multi": "2182,",
+        "ap": "2,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/116": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 9124,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5660",
+        "unit": "ChosenSniperM3",
+        "ability": "TrackingShot_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 9132,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5660",
+        "unit": "ChosenSniperM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PowersAfter/117": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 11366,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5815",
+        "unit": "ChosenSniperM3",
+        "ability": "TrackingShot_LW",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/118": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 14364,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5943",
+        "unit": "ChosenWarlockM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 14368,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5943",
+        "unit": "ChosenWarlockM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 14534,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5943",
+        "unit": "ChosenWarlockM3",
+        "ability": "WarlockReactionMobility_LW",
+        "target_id": "5943",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/119": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 17719,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "AssassinSlash_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 17724,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 17729,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "BloodThirst_LW",
+        "target_id": "6100",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 17731,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "AssassinSlash_LW",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 17736,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "ARFMCapstoneRoselite",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 17741,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6100",
+        "unit": "ChosenAssassinM3",
+        "ability": "BloodThirst_LW",
+        "target_id": "6100",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/120": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 18302,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6243",
+        "unit": "AdvRaptorM3",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/121": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 18728,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6304",
+        "unit": "ARFMAdvOutriderM3",
+        "ability": "StandardMelee",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "23,30>23,30",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PowersAfter/135": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 22029,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6342",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYChosenTeleport",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "23,30>23,23",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/175": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "175",
+          "3830"
+        ]
+      ],
+      "GATE": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "3814",
+          "3830",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "10,11,3",
+          "11,11,3",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "175",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "175",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "175",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 454,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 456,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 458,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 465,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 467,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 469,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 472,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 474,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 476,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 567,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,12>14,15",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 568,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3814",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,15>14,15",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/176": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "176",
+          "3913"
+        ]
+      ],
+      "GATE": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "176",
+          "ARFMPYP_TimeShift",
+          "3897",
+          "3913",
+          "2154",
+          "Soldier",
+          "9,10,0",
+          "9,10,0",
+          "8,10,0",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "176",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "176",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "176",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 754,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3897",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,10>9,10",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/177": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "177",
+          "3977"
+        ]
+      ],
+      "GATE": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "3961",
+          "3977",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "10,11,3",
+          "11,11,3",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "177",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "177",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "177",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 977,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3961",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>14,15",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 979,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3961",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,15>14,15",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/178": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "178",
+          "4045"
+        ]
+      ],
+      "GATE": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "178",
+          "ARFMPYP_TimeShift",
+          "4029",
+          "4045",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "9,10,0",
+          "8,10,0",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "178",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "178",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_CoolingDown"
+        ]
+      ],
+      "CACHE": [
+        [
+          "178",
+          "AA_CoolingDown",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1200,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4029",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,10>12,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1201,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4029",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,9>12,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1203,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4029",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,9>12,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1205,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4029",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "12,9>12,9",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/179": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "179",
+          "4110"
+        ]
+      ],
+      "GATE": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "179",
+          "ARFMPYP_TimeShift",
+          "4094",
+          "4110",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "10,11,3",
+          "11,11,3",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "179",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "179",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "179",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1423,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4094",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>14,15",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/180": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "180",
+          "4173"
+        ]
+      ],
+      "GATE": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "180",
+          "ARFMPYP_TimeShift",
+          "4157",
+          "4173",
+          "2154",
+          "Soldier",
+          "9,10,0",
+          "9,10,0",
+          "8,10,0",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "180",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "180",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "180",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "FinalPowers/181": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "181",
+          "4237"
+        ]
+      ],
+      "GATE": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "181",
+          "ARFMPYP_TimeShift",
+          "4221",
+          "4237",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "10,11,3",
+          "11,11,3",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "181",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "181",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "181",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1840,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4221",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>14,15",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/185": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "185",
+          "4302"
+        ]
+      ],
+      "GATE": [
+        [
+          "185",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "185",
+          "ARFMPYP_TimeShift",
+          "4286",
+          "4302",
+          "2154",
+          "Soldier",
+          "10,13,1",
+          "9,10,0",
+          "8,10,0",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "185",
+          "AA_TileIsBlocked"
+        ]
+      ],
+      "VALID": [
+        [
+          "185",
+          "AA_Success",
+          "AA_TileIsBlocked",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "185",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2053,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4286",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,10>12,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2054,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4286",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "12,9>12,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2056,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4286",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "12,9>12,9",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/186": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "186",
+          "4369"
+        ]
+      ],
+      "GATE": [
+        [
+          "186",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "186",
+          "ARFMPYP_TimeShift",
+          "4353",
+          "4369",
+          "2154",
+          "Soldier",
+          "10,12,1",
+          "10,11,3",
+          "10,12,1",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "186",
+          "AA_Success"
+        ]
+      ],
+      "VALID": [
+        [
+          "186",
+          "AA_Success",
+          "AA_NotInRange",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "186",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2287,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4353",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>14,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2288,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4353",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,12>14,12",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/170": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "170",
+          "4442"
+        ]
+      ],
+      "GATE": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "4423",
+          "4442",
+          "4472",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "10,11,3",
+          "11,12,3",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "170",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "170",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "INPUT": [
+        [
+          "170",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "170",
+          "2404",
+          "ARFMPYP_GhostSignal",
+          "4423",
+          "4472",
+          "-1,-1,-1",
+          "11,12,3",
+          "11,12,3",
+          "150.0000",
+          "150.0000",
+          "0",
+          "0",
+          "8",
+          "16"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2404,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4423",
+        "unit": "SpectreM2",
+        "ability": "ARFMPYP_GhostSignal",
+        "target_id": "4472",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2527,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4423",
+        "unit": "SpectreM2",
+        "ability": "StandardShot",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/182": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "182",
+          "4539"
+        ]
+      ],
+      "GATE": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "ARFMPYP_GhostSignal",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "182",
+          "ARFMPYP_GhostSignal",
+          "4520",
+          "4539",
+          "4567",
+          "AdvMEC_M1",
+          "-1,-1,-1",
+          "9,10,0",
+          "12,11,0",
+          "150.0000"
+        ]
+      ],
+      "VALID": [
+        [
+          "182",
+          "AA_Success",
+          "AA_NotInRange",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "182",
+          "AA_NoTargets",
+          "0"
+        ]
+      ]
+    },
+    "actions": []
+  },
+  "FinalPowers/110": {
+    "observed": {
+      "PARRY": [
+        [
+          "110",
+          "3072",
+          "4623",
+          "4623",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3072,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4623",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "4623",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/111": {
+    "observed": {
+      "PARRY": [
+        [
+          "111",
+          "3414",
+          "4680",
+          "4680",
+          "0.0000",
+          "1.0000"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3414,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4680",
+        "unit": "ARFMAdvKnightM3",
+        "ability": "ARFMKnightParryActivate",
+        "target_id": "4680",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "9,10>9,10",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/135": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 3716,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4739",
+        "unit": "ChosenAssassinM3",
+        "ability": "TPYChosenTeleport",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,11>14,15",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/201": {
+    "observed": {
+      "LOSTACT": [
+        [
+          "201",
+          "7332",
+          "32",
+          "32",
+          "LostAttack"
+        ],
+        [
+          "201",
+          "7344",
+          "32",
+          "32",
+          "StandardMove"
+        ],
+        [
+          "201",
+          "7351",
+          "32",
+          "32",
+          "StandardMove"
+        ],
+        [
+          "201",
+          "7358",
+          "32",
+          "32",
+          "StandardMove"
+        ],
+        [
+          "201",
+          "7636",
+          "32",
+          "32",
+          "LostAttack"
+        ],
+        [
+          "201",
+          "7652",
+          "32",
+          "32",
+          "StandardMove"
+        ],
+        [
+          "201",
+          "7658",
+          "32",
+          "32",
+          "StandardMove"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 7332,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "5888",
+        "unit": "ARFMAbandonedWretchM1",
+        "ability": "LostAttack",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7344,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "5910",
+        "unit": "ARFMAbandonedWretchM2",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,12>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7351,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "5934",
+        "unit": "ARFMAbandonedWretchM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,13>10,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7358,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "5958",
+        "unit": "TheLostHP6",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "14,11>11,12",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7636,
+        "round": "2",
+        "active_team": "32",
+        "actor_id": "5888",
+        "unit": "ARFMAbandonedWretchM1",
+        "ability": "LostAttack",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "9,10>9,10",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7652,
+        "round": "2",
+        "active_team": "32",
+        "actor_id": "5934",
+        "unit": "ARFMAbandonedWretchM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,12>8,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 7658,
+        "round": "2",
+        "active_team": "32",
+        "actor_id": "5958",
+        "unit": "TheLostHP6",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,12>8,9",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/202": {
+    "observed": {
+      "LOSTACT": [
+        [
+          "202",
+          "8003",
+          "32",
+          "32",
+          "StandardShot"
+        ],
+        [
+          "202",
+          "8019",
+          "32",
+          "32",
+          "StandardMove"
+        ],
+        [
+          "202",
+          "8020",
+          "32",
+          "32",
+          "StandardShot"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 8003,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "5987",
+        "unit": "ARFMAbandonedM1",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "10,11>10,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8019,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "6052",
+        "unit": "ARFMAbandonedM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "10,13>14,15",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 8020,
+        "round": "1",
+        "active_team": "32",
+        "actor_id": "6052",
+        "unit": "ARFMAbandonedM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,15>14,15",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalPowers/203": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 8501,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "6090",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_SectoidLauncher",
+        "target_id": "0",
+        "multi": "2161,6090,2154,2168,3415,",
+        "ap": "2,0",
+        "tiles": "9,10>9,10",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalPowers/204": {
+    "observed": {},
+    "actions": []
+  },
+  "PoisonOrder/175": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "175",
+          "3822"
+        ]
+      ],
+      "GATE": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "3806",
+          "3822",
+          "2154",
+          "Soldier",
+          "9,5,1",
+          "8,4,1",
+          "7,4,1",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "175",
+          "AA_Success"
+        ]
+      ],
+      "VALID": [
+        [
+          "175",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "175",
+          "AA_Success",
+          "3"
+        ]
+      ],
+      "INPUT": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "175",
+          "450",
+          "ARFMPYP_TimeShift",
+          "3806",
+          "2154",
+          "9,5,1",
+          "7,4,1",
+          "9,5,1",
+          "170.0000",
+          "165.0000",
+          "1",
+          "2",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 450,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 453,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 455,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 457,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 459,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 461,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 463,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2203",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 465,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 522,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3806",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "8,4>8,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/177": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "177",
+          "3887"
+        ]
+      ],
+      "GATE": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "3871",
+          "3887",
+          "2154",
+          "Soldier",
+          "4,1,1",
+          "6,3,1",
+          "5,3,1",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "177",
+          "AA_Success"
+        ]
+      ],
+      "VALID": [
+        [
+          "177",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "177",
+          "AA_Success",
+          "4"
+        ]
+      ],
+      "INPUT": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "177",
+          "619",
+          "ARFMPYP_TimeShift",
+          "3871",
+          "2154",
+          "4,1,1",
+          "5,3,1",
+          "4,1,1",
+          "170.0000",
+          "170.0000",
+          "3",
+          "3",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 619,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 620,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 622,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 624,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 626,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 628,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2203",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 630,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 697,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3871",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PoisonOrder/238": {
+    "observed": {
+      "LOOTNOPATH": [
+        [
+          "238"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "238",
+          "3942",
+          "6,3,1",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 879,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3942",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/239": {
+    "observed": {
+      "LOOTNOPATH": [
+        [
+          "239"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "239",
+          "3984",
+          "6,3,1",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1060,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3984",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "PoisonOrder/240": {
+    "observed": {
+      "LOOTNOPATH": [
+        [
+          "240"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "240",
+          "4027",
+          "6,3,1",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1243,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4027",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/241": {
+    "observed": {
+      "LOOTNOPATH": [
+        [
+          "241"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "241",
+          "4066",
+          "6,3,1",
+          "-1",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1458,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4066",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "2,4>2,7",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1459,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4066",
+        "unit": "Sectoid",
+        "ability": "Mindspin",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "2,7>2,7",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1461,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4066",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "2,7>2,7",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/242": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 1614,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4129",
+        "unit": "Andromedon",
+        "ability": "WallBreaking",
+        "target_id": "4129",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1658,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4129",
+        "unit": "Andromedon",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 1661,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4129",
+        "unit": "Andromedon",
+        "ability": "ARFMPYP_AndromedonDoubleTap",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/243": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 1803,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4183",
+        "unit": "Andromedon",
+        "ability": "WallBreaking",
+        "target_id": "4183",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1853,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4183",
+        "unit": "Andromedon",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/244": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2054,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4235",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 2057,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4235",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_SuperSectoids",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/245": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2254,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4276",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/246": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2456,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4315",
+        "unit": "Sectoid",
+        "ability": "Mindspin",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 2458,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4315",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_SuperSectoids",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/247": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2689,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4356",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "4356",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "PoisonOrder/248": {
+    "observed": {},
+    "actions": [
+      {
+        "frame": 2911,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4418",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "4418",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "6,3>6,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalInteractions/238": {
+    "observed": {
+      "LOOTMOVE": [
+        [
+          "238",
+          "3843",
+          "3884",
+          "3883",
+          "0",
+          "3858",
+          "5,3,1",
+          "5,3,1",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "238",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "238",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "238",
+          "3843",
+          "5,3,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ],
+        [
+          "238",
+          "3843",
+          "5,3,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "238"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 446,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3843",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,3>5,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 515,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3843",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "5,3>5,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalInteractions/239": {
+    "observed": {
+      "LOOTMOVE": [
+        [
+          "239",
+          "3899",
+          "3940",
+          "3939",
+          "0",
+          "3914",
+          "5,4,1",
+          "5,4,1",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "239",
+          "3899",
+          "5,4,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ],
+        [
+          "239",
+          "3899",
+          "5,4,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "239"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 637,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3899",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,4>5,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 713,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3899",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "5,4>5,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalInteractions/240": {
+    "observed": {
+      "LOOTMOVE": [
+        [
+          "240",
+          "3949",
+          "3989",
+          "3988",
+          "0",
+          "0",
+          "5,3,1",
+          "5,3,1",
+          "True"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "240",
+          "3949",
+          "5,3,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ],
+        [
+          "240",
+          "3949",
+          "5,3,1",
+          "0",
+          "0",
+          "2161",
+          "eInvSlot_Backpack"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "240"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 843,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3949",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,3>5,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 935,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3949",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "5,3>5,3",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalInteractions/241": {
+    "observed": {
+      "LOOTMOVE": [
+        [
+          "241",
+          "3994",
+          "4035",
+          "4034",
+          "0",
+          "4009",
+          "5,4,1",
+          "29,4,1",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "241",
+          "3994",
+          "5,4,1",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "241",
+          "3994",
+          "5,4,1",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "241"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1067,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3994",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "6,4>5,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1166,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3994",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "5,4>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1167,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3994",
+        "unit": "Sectoid",
+        "ability": "Mindspin",
+        "target_id": "2196",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1170,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3994",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Graze"
+      }
+    ]
+  },
+  "FinalInteractions/175": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "175",
+          "4059"
+        ]
+      ],
+      "GATE": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "4043",
+          "4059",
+          "2154",
+          "Soldier",
+          "6,3,1",
+          "7,4,1",
+          "8,4,1",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "175",
+          "AA_Success"
+        ]
+      ],
+      "VALID": [
+        [
+          "175",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "175",
+          "AA_Success",
+          "10"
+        ]
+      ],
+      "INPUT": [
+        [
+          "175",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "175",
+          "1302",
+          "ARFMPYP_TimeShift",
+          "4043",
+          "2154",
+          "6,3,1",
+          "8,4,1",
+          "6,3,1",
+          "170.0000",
+          "165.0000",
+          "1",
+          "2",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1302,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1304,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1306,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1308,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1310,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1312,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1314,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1415,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4043",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalInteractions/177": {
+    "observed": {
+      "NATURALGRANT": [
+        [
+          "177",
+          "4127"
+        ]
+      ],
+      "GATE": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "ARFMPYP_TimeWar",
+          "True"
+        ]
+      ],
+      "POWER": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "4111",
+          "4127",
+          "2154",
+          "Soldier",
+          "6,3,1",
+          "7,4,1",
+          "8,4,1",
+          "170.0000"
+        ]
+      ],
+      "LANDING": [
+        [
+          "177",
+          "AA_Success"
+        ]
+      ],
+      "VALID": [
+        [
+          "177",
+          "AA_Success",
+          "AA_Success",
+          "AA_Success"
+        ]
+      ],
+      "CACHE": [
+        [
+          "177",
+          "AA_Success",
+          "10"
+        ]
+      ],
+      "INPUT": [
+        [
+          "177",
+          "ARFMPYP_TimeShift",
+          "True"
+        ]
+      ],
+      "POWERFRAME": [
+        [
+          "177",
+          "1529",
+          "ARFMPYP_TimeShift",
+          "4111",
+          "2154",
+          "6,3,1",
+          "8,4,1",
+          "6,3,1",
+          "170.0000",
+          "170.0000",
+          "3",
+          "3",
+          "8",
+          "8"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1529,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "ARFMPYP_TimeShift",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1530,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1532,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1534,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1536,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1538,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1540,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "SolaceCleanse",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1665,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,4>10,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1666,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4111",
+        "unit": "AdvPriestM3",
+        "ability": "StandardShot",
+        "target_id": "2210",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "10,9>10,9",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalInteractions/247": {
+    "observed": {
+      "SUPPRESSEDTEST": [
+        [
+          "247",
+          "4179",
+          "AA_CannotAfford_ActionPoints",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1874,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4179",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "4179",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalInteractions/248": {
+    "observed": {
+      "SUPPRESSEDTEST": [
+        [
+          "248",
+          "4241",
+          "AA_CannotAfford_ActionPoints",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 2096,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4241",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "4241",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "7,4>7,4",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/238": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "238",
+          "False",
+          "11"
+        ],
+        [
+          "238",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "238",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "238",
+          "3814",
+          "3858",
+          "3857",
+          "0",
+          "3829",
+          "11,13,3",
+          "11,13,3",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "238",
+          "AA_Success",
+          "AA_Success",
+          "1"
+        ],
+        [
+          "238",
+          "AA_Success",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "238",
+          "3814",
+          "11,13,3",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "238",
+          "3814",
+          "11,13,3",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "238"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 451,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,12>11,13",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 538,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3814",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,13>11,8",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 540,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3814",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "11,8>11,8",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/239": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "239",
+          "False",
+          "11"
+        ],
+        [
+          "239",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "239",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "239",
+          "3876",
+          "3915",
+          "3914",
+          "0",
+          "3891",
+          "7,9,0",
+          "7,9,0",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "239",
+          "3876",
+          "7,9,0",
+          "0",
+          "1",
+          "3876",
+          "eInvSlot_Backpack"
+        ],
+        [
+          "239",
+          "3876",
+          "7,9,0",
+          "0",
+          "1",
+          "3876",
+          "eInvSlot_Backpack"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "239"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 651,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3876",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 652,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3876",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_MassiveDay",
+        "target_id": "3915",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 740,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3876",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,9>14,7",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 741,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3876",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "14,7>14,7",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/240": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "240",
+          "False",
+          "11"
+        ],
+        [
+          "240",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "240",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "240",
+          "3923",
+          "3961",
+          "3960",
+          "0",
+          "0",
+          "11,13,3",
+          "11,13,3",
+          "True"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "240",
+          "3923",
+          "11,13,3",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "240",
+          "3923",
+          "11,13,3",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "240"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 854,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3923",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,12>11,13",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 957,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3923",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "11,13>11,8",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 959,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3923",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "1,0",
+        "tiles": "11,8>11,8",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalReplay/241": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "241",
+          "False",
+          "11"
+        ],
+        [
+          "241",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "241",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "241",
+          "3969",
+          "4008",
+          "4007",
+          "0",
+          "3984",
+          "7,9,0",
+          "31,9,0",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "241",
+          "3969",
+          "7,9,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "241",
+          "3969",
+          "7,9,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "241"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1082,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3969",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,9>7,9",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1172,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3969",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,9>7,9",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "FinalReplay/247": {
+    "observed": {
+      "SUPPRESSREADY": [
+        [
+          "247",
+          "5233",
+          "2",
+          "3",
+          "2168",
+          "5251"
+        ]
+      ],
+      "SUPPRESSEDTEST": [
+        [
+          "247",
+          "5233",
+          "AA_Success",
+          "8"
+        ]
+      ],
+      "SUPPRESSINPUT": [
+        [
+          "247",
+          "2168",
+          "True"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3306,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5233",
+        "unit": "Muton",
+        "ability": "Suppression_LW",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3308,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5233",
+        "unit": "Muton",
+        "ability": "ARFMPYP_MutonSuppressionShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Crit"
+      },
+      {
+        "frame": 3578,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5233",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "5233",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/248": {
+    "observed": {
+      "SUPPRESSREADY": [
+        [
+          "248",
+          "5306",
+          "2",
+          "3",
+          "2168",
+          "0"
+        ]
+      ],
+      "SUPPRESSEDTEST": [
+        [
+          "248",
+          "5306",
+          "AA_Success",
+          "8"
+        ]
+      ],
+      "SUPPRESSINPUT": [
+        [
+          "248",
+          "2168",
+          "True"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 3695,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "5306",
+        "unit": "Muton",
+        "ability": "Suppression_LW",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 3975,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5306",
+        "unit": "Muton",
+        "ability": "CounterattackPreparation",
+        "target_id": "5306",
+        "multi": "",
+        "ap": "0,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/257": {
+    "observed": {
+      "WIGHTCACHE": [
+        [
+          "257",
+          "5376",
+          "16",
+          "AA_CannotAfford_ActionPoints",
+          "0",
+          "0"
+        ]
+      ],
+      "WIGHTTARGET": [
+        [
+          "257",
+          "5376",
+          "2168",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "257",
+          "5376",
+          "2175",
+          "AA_Success"
+        ],
+        [
+          "257",
+          "5376",
+          "2182",
+          "AA_Success"
+        ],
+        [
+          "257",
+          "5376",
+          "2189",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "257",
+          "5376",
+          "2196",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "257",
+          "5376",
+          "2203",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "257",
+          "5376",
+          "2210",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "257",
+          "5376",
+          "2217",
+          "AA_UnitIsNotInCover"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 4345,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5376",
+        "unit": "ARFMAbandonedM2",
+        "ability": "ARFMWightDemolition",
+        "target_id": "2175",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/258": {
+    "observed": {
+      "WIGHTCACHE": [
+        [
+          "258",
+          "5420",
+          "16",
+          "AA_CoolingDown",
+          "0",
+          "5"
+        ]
+      ],
+      "WIGHTTARGET": [
+        [
+          "258",
+          "5420",
+          "2168",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2175",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2182",
+          "AA_Success"
+        ],
+        [
+          "258",
+          "5420",
+          "2189",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2196",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2203",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2210",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "258",
+          "5420",
+          "2217",
+          "AA_UnitIsNotInCover"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 4725,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5420",
+        "unit": "ARFMAbandonedM2",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "FinalReplay/259": {
+    "observed": {
+      "WIGHTCACHE": [
+        [
+          "259",
+          "5464",
+          "16",
+          "AA_CannotAfford_ActionPoints",
+          "0",
+          "0"
+        ]
+      ],
+      "WIGHTTARGET": [
+        [
+          "259",
+          "5464",
+          "2168",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "259",
+          "5464",
+          "2175",
+          "AA_Success"
+        ],
+        [
+          "259",
+          "5464",
+          "2182",
+          "AA_Success"
+        ],
+        [
+          "259",
+          "5464",
+          "2189",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "259",
+          "5464",
+          "2196",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "259",
+          "5464",
+          "2203",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "259",
+          "5464",
+          "2210",
+          "AA_UnitIsNotInCover"
+        ],
+        [
+          "259",
+          "5464",
+          "2217",
+          "AA_UnitIsNotInCover"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 5119,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "5464",
+        "unit": "ARFMAbandonedM2",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "14,11>14,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "RollConfirm/263": {
+    "observed": {
+      "MINDREADY": [
+        [
+          "263",
+          "3854",
+          "2154",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2161",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2168",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2175",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2182",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2189",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2196",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2203",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2210",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "263",
+          "3854",
+          "2217",
+          "30",
+          "45",
+          "100",
+          "0"
+        ]
+      ],
+      "MINDFIRE": [
+        [
+          "263",
+          "ARFMDESW_BrutalityDoctrine",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ],
+        [
+          "263",
+          "PA_TwilightGasMortarShells",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ]
+      ],
+      "MINDTURN": [
+        [
+          "263",
+          "564",
+          "1",
+          "16",
+          "3854",
+          "2189",
+          "eHit_Success",
+          "3"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 564,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3854",
+        "unit": "Sectoid",
+        "ability": "Mindspin",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "15,3>15,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 575,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3895",
+        "unit": "AdvMEC_M2",
+        "ability": "StandardShot",
+        "target_id": "2243",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "19,3>19,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "RollConfirm/264": {
+    "observed": {
+      "MINDREADY": [
+        [
+          "264",
+          "3974",
+          "2154",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2161",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2168",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2175",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2182",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2189",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2196",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2203",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2210",
+          "30",
+          "45",
+          "60",
+          "0"
+        ],
+        [
+          "264",
+          "3974",
+          "2217",
+          "30",
+          "45",
+          "60",
+          "0"
+        ]
+      ],
+      "MINDFIRE": [
+        [
+          "264",
+          "ARFMDESW_BrutalityDoctrine",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ],
+        [
+          "264",
+          "PA_TwilightGasMortarShells",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ]
+      ],
+      "MINDTURN": [
+        [
+          "264",
+          "820",
+          "1",
+          "16",
+          "3974",
+          "2182",
+          "eHit_Miss",
+          "0"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 820,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3974",
+        "unit": "Sectoid",
+        "ability": "Mindspin",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "2,2",
+        "tiles": "15,3>15,3",
+        "hit": "eHit_Miss"
+      },
+      {
+        "frame": 830,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4013",
+        "unit": "AdvMEC_M2",
+        "ability": "StandardShot",
+        "target_id": "2168",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "19,3>19,3",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "RollConfirm/265": {
+    "observed": {
+      "MINDREADY": [
+        [
+          "265",
+          "4073",
+          "2154",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2161",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2168",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2175",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2182",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2189",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2196",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2203",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2210",
+          "30",
+          "45",
+          "100",
+          "0"
+        ],
+        [
+          "265",
+          "4073",
+          "2217",
+          "30",
+          "45",
+          "100",
+          "0"
+        ]
+      ],
+      "MINDFIRE": [
+        [
+          "265",
+          "ARFMDESW_BrutalityDoctrine",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ],
+        [
+          "265",
+          "PA_TwilightGasMortarShells",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1096,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4073",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "15,3>15,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1105,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "4114",
+        "unit": "AdvMEC_M2",
+        "ability": "StandardShot",
+        "target_id": "2189",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "19,3>19,3",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "CatalogLoot/238": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "238",
+          "False",
+          "11"
+        ],
+        [
+          "238",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "238",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "238",
+          "3814",
+          "3858",
+          "3857",
+          "0",
+          "3829",
+          "7,11,0",
+          "7,11,0",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "238",
+          "AA_Success",
+          "AA_Success",
+          "1"
+        ],
+        [
+          "238",
+          "AA_Success",
+          "AA_Success",
+          "1"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "238",
+          "3814",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "238",
+          "3814",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "238"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 451,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3814",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 528,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3814",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "CatalogLoot/239": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "239",
+          "False",
+          "11"
+        ],
+        [
+          "239",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "239",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "239",
+          "3875",
+          "3914",
+          "3913",
+          "0",
+          "3890",
+          "7,11,0",
+          "7,11,0",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "239",
+          "AA_TargetHasNoLoot",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "239",
+          "3875",
+          "7,11,0",
+          "0",
+          "1",
+          "3875",
+          "eInvSlot_Backpack"
+        ],
+        [
+          "239",
+          "3875",
+          "7,11,0",
+          "0",
+          "1",
+          "3875",
+          "eInvSlot_Backpack"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "239"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 646,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3875",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 647,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3875",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_MassiveDay",
+        "target_id": "3858",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 648,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3875",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_MassiveDay",
+        "target_id": "3914",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 736,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3875",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "7,11>11,8",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "CatalogLoot/240": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "240",
+          "False",
+          "11"
+        ],
+        [
+          "240",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "240",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "240",
+          "3920",
+          "3958",
+          "3957",
+          "0",
+          "0",
+          "7,11,0",
+          "7,11,0",
+          "True"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "240",
+          "3920",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "240",
+          "3920",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "240"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 840,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3920",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 932,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3920",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2161",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Success"
+      }
+    ]
+  },
+  "CatalogLoot/241": {
+    "observed": {
+      "LOOTWITNESSES": [
+        [
+          "241",
+          "False",
+          "11"
+        ],
+        [
+          "241",
+          "True",
+          "11"
+        ]
+      ],
+      "LOOTAVAILABLE": [
+        [
+          "241",
+          "True",
+          "True",
+          "0"
+        ]
+      ],
+      "LOOTMOVE": [
+        [
+          "241",
+          "3963",
+          "4002",
+          "4001",
+          "0",
+          "3978",
+          "7,11,0",
+          "31,11,0",
+          "True"
+        ]
+      ],
+      "LOOTVALID": [
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ],
+        [
+          "241",
+          "AA_NotInRange",
+          "AA_NoTargets",
+          "0"
+        ]
+      ],
+      "LOOTRESULT": [
+        [
+          "241",
+          "3963",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ],
+        [
+          "241",
+          "3963",
+          "7,11,0",
+          "1",
+          "0",
+          "0",
+          "eInvSlot_Unknown"
+        ]
+      ],
+      "LOOTREPLAY": [
+        [
+          "241"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 1060,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3963",
+        "unit": "Sectoid",
+        "ability": "StandardMove",
+        "target_id": "0",
+        "multi": "",
+        "ap": "2,1",
+        "tiles": "8,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1061,
+        "round": "1",
+        "active_team": "0",
+        "actor_id": "3963",
+        "unit": "Sectoid",
+        "ability": "ARFMPYP_MassiveDay",
+        "target_id": "3958",
+        "multi": "",
+        "ap": "1,1",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 1149,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3963",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2154",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "7,11>7,11",
+        "hit": "eHit_Crit"
+      }
+    ]
+  },
+  "MindCooldown/265": {
+    "observed": {
+      "MINDCOOLDOWN": [
+        [
+          "265",
+          "3852",
+          "5",
+          "AA_CoolingDown",
+          "0"
+        ]
+      ],
+      "MINDREADY": [
+        [
+          "265",
+          "3843",
+          "2154",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2161",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2168",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2175",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2182",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2189",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2196",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2203",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2210",
+          "30",
+          "45",
+          "100",
+          "5"
+        ],
+        [
+          "265",
+          "3843",
+          "2217",
+          "30",
+          "45",
+          "100",
+          "5"
+        ]
+      ],
+      "MINDFIRE": [
+        [
+          "265",
+          "ARFMDESW_BrutalityDoctrine",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ],
+        [
+          "265",
+          "PA_TwilightGasMortarShells",
+          "AdvMEC_M2",
+          "False",
+          "False"
+        ]
+      ]
+    },
+    "actions": [
+      {
+        "frame": 545,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3843",
+        "unit": "Sectoid",
+        "ability": "StandardShot",
+        "target_id": "2217",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "56,3>56,3",
+        "hit": "eHit_Success"
+      },
+      {
+        "frame": 554,
+        "round": "1",
+        "active_team": "16",
+        "actor_id": "3884",
+        "unit": "AdvMEC_M2",
+        "ability": "StandardShot",
+        "target_id": "2182",
+        "multi": "",
+        "ap": "2,0",
+        "tiles": "51,0>51,0",
+        "hit": "eHit_Success"
+      }
+    ]
+  }
+}

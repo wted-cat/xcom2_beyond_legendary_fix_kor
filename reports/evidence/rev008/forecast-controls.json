@@ -1,0 +1,1132 @@
+{
+  "owners": {
+    "ChosenAssassinM3": [
+      "2154",
+      "StandardShot",
+      "26",
+      "17"
+    ],
+    "ChosenSniperM3": [
+      "2154",
+      "HunterRifleShot",
+      "26",
+      "18"
+    ],
+    "ChosenWarlockM3": [
+      "2154",
+      "StandardShot",
+      "26",
+      "17"
+    ]
+  },
+  "registered_traits": {
+    "ChosenAssassinM3": {
+      "ARFMLodestoneAegirine": 1,
+      "ARFMLodestoneAmethyst": 1,
+      "ARFMLodestoneCitrine": 1,
+      "ARFMLodestoneCovellite": 1,
+      "ARFMLodestoneElbaite": 1,
+      "ARFMLodestoneLazurite": 1,
+      "ARFMLodestoneDemantoid": 1,
+      "ARFMLodestoneErythrite": 1,
+      "ARFMKeystoneCavansite": 1,
+      "ARFMKeystoneGahnite": 1,
+      "ARFMKeystoneIolite": 1,
+      "ARFMKeystoneRhodolite": 1,
+      "ARFMKeystoneTinzenite": 1,
+      "ARFMKeystoneCreedite": 1,
+      "ARFMKeystoneBaryte": 1,
+      "ARFMKeystoneEuclase": 1,
+      "ARFMCapstoneZoisite": 1,
+      "SoulHarvester": 1,
+      "ARFMLodestoneAdamite": 1,
+      "ARFMCapstoneRoselite": 2,
+      "ARFMCapstoneFlint": 1,
+      "ARFMCapstoneTanzanite": 1,
+      "ARFMCapstoneAugelite": 2,
+      "ARFMCapstoneBrookite": 0,
+      "ARFMCapstoneAlmandine": 1,
+      "ARFMCapstoneAzurite": 2
+    },
+    "ChosenSniperM3": {
+      "ARFMLodestoneAegirine": 1,
+      "ARFMLodestoneAmethyst": 1,
+      "ARFMLodestoneCitrine": 1,
+      "ARFMLodestoneCovellite": 1,
+      "ARFMLodestoneElbaite": 1,
+      "ARFMLodestoneLazurite": 1,
+      "ARFMLodestoneDemantoid": 1,
+      "ARFMLodestoneErythrite": 1,
+      "ARFMKeystoneCavansite": 1,
+      "ARFMKeystoneGahnite": 1,
+      "ARFMKeystoneIolite": 1,
+      "ARFMKeystoneRhodolite": 1,
+      "ARFMKeystoneTinzenite": 1,
+      "ARFMKeystoneCreedite": 1,
+      "ARFMKeystoneBaryte": 1,
+      "ARFMKeystoneEuclase": 1,
+      "ARFMCapstoneZoisite": 1,
+      "SoulHarvester": 1,
+      "ARFMLodestoneAdamite": 1,
+      "ARFMCapstoneRoselite": 2,
+      "ARFMCapstoneFlint": 1,
+      "ARFMCapstoneTanzanite": 1,
+      "ARFMCapstoneAugelite": 2,
+      "ARFMCapstoneBrookite": 0,
+      "ARFMCapstoneAlmandine": 1,
+      "ARFMCapstoneAzurite": 2
+    },
+    "ChosenWarlockM3": {
+      "ARFMLodestoneAegirine": 1,
+      "ARFMLodestoneAmethyst": 1,
+      "ARFMLodestoneCitrine": 1,
+      "ARFMLodestoneCovellite": 1,
+      "ARFMLodestoneElbaite": 1,
+      "ARFMLodestoneLazurite": 1,
+      "ARFMLodestoneDemantoid": 1,
+      "ARFMLodestoneErythrite": 1,
+      "ARFMKeystoneCavansite": 1,
+      "ARFMKeystoneGahnite": 1,
+      "ARFMKeystoneIolite": 1,
+      "ARFMKeystoneRhodolite": 1,
+      "ARFMKeystoneTinzenite": 1,
+      "ARFMKeystoneCreedite": 1,
+      "ARFMKeystoneBaryte": 1,
+      "ARFMKeystoneEuclase": 1,
+      "ARFMCapstoneZoisite": 1,
+      "SoulHarvester": 1,
+      "ARFMLodestoneAdamite": 1,
+      "ARFMCapstoneRoselite": 2,
+      "ARFMCapstoneFlint": 1,
+      "ARFMCapstoneTanzanite": 1,
+      "ARFMCapstoneAugelite": 2,
+      "ARFMCapstoneBrookite": 0,
+      "ARFMCapstoneAlmandine": 1,
+      "ARFMCapstoneAzurite": 2
+    }
+  },
+  "attached_effects": {
+    "ChosenAssassinM3": {
+      "ARFMKeystoneBaryte": [
+        "ARFMBaryteKeystone"
+      ],
+      "ARFMLodestoneAegirine": [
+        "ARFMLodestoneAegirine"
+      ],
+      "ARFMLodestoneAmethyst": [
+        "ARFMLodestoneAmethyst"
+      ],
+      "ARFMLodestoneCitrine": [
+        "ARFMLodestoneCitrine"
+      ],
+      "ARFMLodestoneCovellite": [
+        "ARFMLodestoneCovellite"
+      ],
+      "ARFMLodestoneElbaite": [
+        "ARFMLodestoneElbaite"
+      ],
+      "ARFMLodestoneLazurite": [
+        "ARFMLodestoneLazurite"
+      ],
+      "ARFMLodestoneDemantoid": [
+        "ARFMLodestoneDemantoid"
+      ],
+      "ARFMLodestoneErythrite": [
+        "ARFMLodestoneErythrite"
+      ],
+      "ARFMKeystoneCavansite": [
+        "ARFMCavansiteKeystone"
+      ],
+      "ARFMKeystoneGahnite": [
+        "ARFMGahniteKeystone"
+      ],
+      "ARFMKeystoneIolite": [
+        "ARFMIoliteKeystone"
+      ],
+      "ARFMKeystoneRhodolite": [
+        "ARFMRhodoliteKeystone"
+      ],
+      "ARFMKeystoneTinzenite": [
+        "ARFMKeystoneTinzenite"
+      ],
+      "ARFMKeystoneCreedite": [
+        "ARFMCreediteKeystone"
+      ],
+      "ARFMCapstoneZoisite": [
+        "ARFMCapstoneZoisite"
+      ],
+      "SoulHarvester": [
+        "SoulHarvester"
+      ]
+    },
+    "ChosenSniperM3": {
+      "ARFMCapstoneFlint": [
+        "ARFMCapstoneFlint"
+      ],
+      "ARFMLodestoneAegirine": [
+        "ARFMLodestoneAegirine"
+      ],
+      "ARFMLodestoneAmethyst": [
+        "ARFMLodestoneAmethyst"
+      ],
+      "ARFMLodestoneCitrine": [
+        "ARFMLodestoneCitrine"
+      ],
+      "ARFMLodestoneCovellite": [
+        "ARFMLodestoneCovellite"
+      ],
+      "ARFMLodestoneElbaite": [
+        "ARFMLodestoneElbaite"
+      ],
+      "ARFMLodestoneLazurite": [
+        "ARFMLodestoneLazurite"
+      ],
+      "ARFMLodestoneDemantoid": [
+        "ARFMLodestoneDemantoid"
+      ],
+      "ARFMLodestoneErythrite": [
+        "ARFMLodestoneErythrite"
+      ],
+      "ARFMKeystoneCavansite": [
+        "ARFMCavansiteKeystone"
+      ],
+      "ARFMKeystoneGahnite": [
+        "ARFMGahniteKeystone"
+      ],
+      "ARFMKeystoneIolite": [
+        "ARFMIoliteKeystone"
+      ],
+      "ARFMKeystoneRhodolite": [
+        "ARFMRhodoliteKeystone"
+      ],
+      "ARFMKeystoneTinzenite": [
+        "ARFMKeystoneTinzenite"
+      ],
+      "ARFMKeystoneCreedite": [
+        "ARFMCreediteKeystone"
+      ],
+      "ARFMKeystoneBaryte": [
+        "ARFMBaryteKeystone"
+      ],
+      "ARFMCapstoneZoisite": [
+        "ARFMCapstoneZoisite"
+      ],
+      "SoulHarvester": [
+        "SoulHarvester"
+      ]
+    },
+    "ChosenWarlockM3": {
+      "ARFMLodestoneAegirine": [
+        "ARFMLodestoneAegirine"
+      ],
+      "ARFMLodestoneAmethyst": [
+        "ARFMLodestoneAmethyst"
+      ],
+      "ARFMLodestoneCitrine": [
+        "ARFMLodestoneCitrine"
+      ],
+      "ARFMLodestoneCovellite": [
+        "ARFMLodestoneCovellite"
+      ],
+      "ARFMLodestoneElbaite": [
+        "ARFMLodestoneElbaite"
+      ],
+      "ARFMLodestoneLazurite": [
+        "ARFMLodestoneLazurite"
+      ],
+      "ARFMLodestoneDemantoid": [
+        "ARFMLodestoneDemantoid"
+      ],
+      "ARFMLodestoneErythrite": [
+        "ARFMLodestoneErythrite"
+      ],
+      "ARFMKeystoneCavansite": [
+        "ARFMCavansiteKeystone"
+      ],
+      "ARFMKeystoneGahnite": [
+        "ARFMGahniteKeystone"
+      ],
+      "ARFMKeystoneIolite": [
+        "ARFMIoliteKeystone"
+      ],
+      "ARFMKeystoneRhodolite": [
+        "ARFMRhodoliteKeystone"
+      ],
+      "ARFMKeystoneTinzenite": [
+        "ARFMKeystoneTinzenite"
+      ],
+      "ARFMKeystoneCreedite": [
+        "ARFMCreediteKeystone"
+      ],
+      "ARFMKeystoneBaryte": [
+        "ARFMBaryteKeystone"
+      ],
+      "ARFMCapstoneZoisite": [
+        "ARFMCapstoneZoisite"
+      ],
+      "SoulHarvester": [
+        "SoulHarvester"
+      ]
+    }
+  },
+  "baselines_and_single_traits": [
+    [
+      "ChosenAssassinM3",
+      -26,
+      [
+        "None",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -26,
+      [
+        "None",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -26,
+      [
+        "None",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -25,
+      [
+        "ARFMCapstoneRoselite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -25,
+      [
+        "ARFMCapstoneRoselite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -25,
+      [
+        "ARFMCapstoneRoselite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -24,
+      [
+        "ARFMCapstoneFlint",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -24,
+      [
+        "ARFMCapstoneFlint",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -24,
+      [
+        "ARFMCapstoneFlint",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -23,
+      [
+        "ARFMCapstoneTanzanite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -23,
+      [
+        "ARFMCapstoneTanzanite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -23,
+      [
+        "ARFMCapstoneTanzanite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -22,
+      [
+        "ARFMCapstoneAugelite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -22,
+      [
+        "ARFMCapstoneAugelite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -22,
+      [
+        "ARFMCapstoneAugelite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -21,
+      [
+        "ARFMCapstoneBrookite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -21,
+      [
+        "ARFMCapstoneBrookite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -21,
+      [
+        "ARFMCapstoneBrookite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -20,
+      [
+        "ARFMCapstoneZoisite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -20,
+      [
+        "ARFMCapstoneZoisite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -20,
+      [
+        "ARFMCapstoneZoisite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -19,
+      [
+        "ARFMCapstoneAlmandine",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -19,
+      [
+        "ARFMCapstoneAlmandine",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -19,
+      [
+        "ARFMCapstoneAlmandine",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -18,
+      [
+        "ARFMCapstoneAzurite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -18,
+      [
+        "ARFMCapstoneAzurite",
+        "None",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -18,
+      [
+        "ARFMCapstoneAzurite",
+        "None",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -17,
+      [
+        "None",
+        "ARFMKeystoneCavansite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -17,
+      [
+        "None",
+        "ARFMKeystoneCavansite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -17,
+      [
+        "None",
+        "ARFMKeystoneCavansite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -16,
+      [
+        "None",
+        "ARFMKeystoneGahnite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -16,
+      [
+        "None",
+        "ARFMKeystoneGahnite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -16,
+      [
+        "None",
+        "ARFMKeystoneGahnite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -15,
+      [
+        "None",
+        "ARFMKeystoneIolite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -15,
+      [
+        "None",
+        "ARFMKeystoneIolite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -15,
+      [
+        "None",
+        "ARFMKeystoneIolite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -14,
+      [
+        "None",
+        "ARFMKeystoneRhodolite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -14,
+      [
+        "None",
+        "ARFMKeystoneRhodolite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -14,
+      [
+        "None",
+        "ARFMKeystoneRhodolite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,4,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -13,
+      [
+        "None",
+        "ARFMKeystoneTinzenite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,2,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -13,
+      [
+        "None",
+        "ARFMKeystoneTinzenite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,2,4,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -13,
+      [
+        "None",
+        "ARFMKeystoneTinzenite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,2,4,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -12,
+      [
+        "None",
+        "ARFMKeystoneCreedite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -12,
+      [
+        "None",
+        "ARFMKeystoneCreedite",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -12,
+      [
+        "None",
+        "ARFMKeystoneCreedite",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -11,
+      [
+        "None",
+        "ARFMKeystoneBaryte",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "70,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -11,
+      [
+        "None",
+        "ARFMKeystoneBaryte",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "69,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -11,
+      [
+        "None",
+        "ARFMKeystoneBaryte",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "66,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -10,
+      [
+        "None",
+        "ARFMKeystoneEuclase",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -10,
+      [
+        "None",
+        "ARFMKeystoneEuclase",
+        "None",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -10,
+      [
+        "None",
+        "ARFMKeystoneEuclase",
+        "None",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -9,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAdamite",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -9,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAdamite",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -9,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAdamite",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -8,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAegirine",
+        "100,95,8,10,999,999,1002,1002",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -8,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAegirine",
+        "100,47,8,10,999,999,1002,1002",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -8,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAegirine",
+        "100,95,8,10,999,999,1002,1002",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -7,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAmethyst",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -7,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAmethyst",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -7,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneAmethyst",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -6,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCitrine",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -6,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCitrine",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -6,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCitrine",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -5,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCovellite",
+        "100,95,11,13,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -5,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCovellite",
+        "100,47,11,13,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -5,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneCovellite",
+        "100,95,11,13,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -4,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneElbaite",
+        "100,95,68,70,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -4,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneElbaite",
+        "100,47,68,70,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -4,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneElbaite",
+        "100,95,68,70,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -3,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneLazurite",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -3,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneLazurite",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -3,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneLazurite",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -2,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneDemantoid",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -2,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneDemantoid",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -2,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneDemantoid",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenAssassinM3",
+      -1,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneErythrite",
+        "100,95,8,10,0,0,3,3",
+        "94,0,3,6,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenSniperM3",
+      -1,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneErythrite",
+        "100,47,8,10,0,0,3,3",
+        "93,0,3,5,0,0,0,0"
+      ]
+    ],
+    [
+      "ChosenWarlockM3",
+      -1,
+      [
+        "None",
+        "None",
+        "ARFMLodestoneErythrite",
+        "100,95,8,10,0,0,3,3",
+        "90,0,3,5,0,0,0,0"
+      ]
+    ]
+  ]
+}

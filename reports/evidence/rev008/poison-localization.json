@@ -1,0 +1,1370 @@
+{
+  "DemocracyProtects": {
+    "int": {
+      "name": "Democracy Protects"
+    },
+    "kor": {
+      "name": "민주주의의 수호"
+    }
+  },
+  "DemocracyLiberates": {
+    "int": {
+      "name": "Democractic Liberators"
+    },
+    "kor": {
+      "name": "민주주의의 해방자들"
+    }
+  },
+  "DemocracyUnifies": {
+    "int": {
+      "name": "Democracy Unifies All"
+    },
+    "kor": {
+      "name": "민주주의는 모두를 통합하리라"
+    }
+  },
+  "Pinpoint": {
+    "int": {
+      "name": "Pinpoint Accuracy"
+    },
+    "kor": {
+      "name": "정밀한 조준"
+    }
+  },
+  "StubbornMule": {
+    "int": {
+      "name": "Stubborn As A Mule"
+    },
+    "kor": {
+      "name": "무식한 맷집"
+    }
+  },
+  "SlickerThanOil": {
+    "int": {
+      "name": "Slicker Than Oil"
+    },
+    "kor": {
+      "name": "기름칠한 듯한 움직임"
+    }
+  },
+  "ShieldbearerArmor": {
+    "int": {
+      "name": "Tougher Than A Brick Outhouse"
+    },
+    "kor": {
+      "name": "화장실 벽돌보다 단단함"
+    }
+  },
+  "SectoidFortress": {
+    "int": {
+      "name": "The Sectoid Needs No Pants"
+    },
+    "kor": {
+      "name": "섹토이드에게는 바지가 필요하지 않다"
+    }
+  },
+  "StationaryTyrants": {
+    "int": {
+      "name": "Stationary Tyrants"
+    },
+    "kor": {
+      "name": "부동의 폭군"
+    }
+  },
+  "PsiCaptains": {
+    "int": {
+      "name": "Prima Mentalis"
+    },
+    "kor": {
+      "name": "지휘관의 정신력"
+    }
+  },
+  "PsiLancers": {
+    "int": {
+      "name": "Tyranny In Motion"
+    },
+    "kor": {
+      "name": "움직이는 폭정"
+    }
+  },
+  "PsiBearers": {
+    "int": {
+      "name": "The Cult Of Noon"
+    },
+    "kor": {
+      "name": "정오의 교단"
+    }
+  },
+  "NinetiesBlues": {
+    "int": {
+      "name": "Nineties Blues"
+    },
+    "kor": {
+      "name": "90년대의 블루스"
+    }
+  },
+  "CaptainGrapeshot": {
+    "int": {
+      "name": "With A Whiff Of Grapeshot"
+    },
+    "kor": {
+      "name": "포도탄의 향기와 함께"
+    }
+  },
+  "StartedBlasting": {
+    "int": {
+      "name": "Anyway, I Started Blasting"
+    },
+    "kor": {
+      "name": "어쨌든, 나는 쏘기 시작했다"
+    }
+  },
+  "MotivationalExecutions": {
+    "int": {
+      "name": "Motivational Executions"
+    },
+    "kor": {
+      "name": "의욕을 고취시키는 처형"
+    }
+  },
+  "PuddingEmpire": {
+    "int": {
+      "name": "Revenge Of The Pudding Empire"
+    },
+    "kor": {
+      "name": "푸딩 제국의 복수"
+    }
+  },
+  "MassiveDay": {
+    "int": {
+      "name": "Massive Day For The Unemployed",
+      "description": "Sectoids gain the ability to steal loot drops."
+    },
+    "kor": {
+      "name": "실업자들의 전성시대",
+      "description": "섹토이드가 전리품을 훔칠 수 있게 됩니다."
+    }
+  },
+  "SectoidTeaParty": {
+    "int": {
+      "name": "Sectoid Tea Party"
+    },
+    "kor": {
+      "name": "섹토이드의 다과회"
+    }
+  },
+  "SnakeOilers": {
+    "int": {
+      "name": "Snake Oilers"
+    },
+    "kor": {
+      "name": "기름을 두른 뱀"
+    }
+  },
+  "LiddyBoxing": {
+    "int": {
+      "name": "Boxing Bugs"
+    },
+    "kor": {
+      "name": "복싱을 배운 벌레"
+    }
+  },
+  "PoliceBrutality": {
+    "int": {
+      "name": "Police Brutality"
+    },
+    "kor": {
+      "name": "잔혹한 경찰"
+    }
+  },
+  "SaltAndPepper": {
+    "int": {
+      "name": "Salt And Pepper"
+    },
+    "kor": {
+      "name": "소금과 후추"
+    }
+  },
+  "SillyLittleBleeder": {
+    "int": {
+      "name": "Silly Little Bleeder"
+    },
+    "kor": {
+      "name": "작고 어리석은 놈"
+    }
+  },
+  "TimeWar": {
+    "int": {
+      "name": "Date Time Error"
+    },
+    "kor": {
+      "name": "시간의 오류"
+    }
+  },
+  "AvoidSnipes": {
+    "int": {
+      "name": "Moving Different"
+    },
+    "kor": {
+      "name": "이질적인 움직임"
+    }
+  },
+  "NoOrdinaryRabbit": {
+    "int": {
+      "name": "That's No Ordinary Rabbit"
+    },
+    "kor": {
+      "name": "평범한 놈이 아니다"
+    }
+  },
+  "CodexSadness": {
+    "int": {
+      "name": "Codex Vexari",
+      "description": "Being hit by Psionic bombs will prevent most explosives from being used."
+    },
+    "kor": {
+      "name": "고난의 코덱스",
+      "description": "사이오닉 폭탄에 맞으면 대부분의 폭발물을 사용할 수 없게 됩니다."
+    }
+  },
+  "ViperShields": {
+    "int": {
+      "name": "Unwilling Sacrifices"
+    },
+    "kor": {
+      "name": "원치 않는 희생"
+    }
+  },
+  "IndomitableForce": {
+    "int": {
+      "name": "Indomitable Force"
+    },
+    "kor": {
+      "name": "무적의 힘"
+    }
+  },
+  "Soulfuse": {
+    "int": {
+      "name": "Deadly Memes"
+    },
+    "kor": {
+      "name": "치명적 밈"
+    }
+  },
+  "Paynonets": {
+    "int": {
+      "name": "Paynonets"
+    },
+    "kor": {
+      "name": "총검의 대가"
+    }
+  },
+  "GhostSignal": {
+    "int": {
+      "name": "Ghost Signal",
+      "description": "Spectres gain the ability to hijack mechanized units."
+    },
+    "kor": {
+      "name": "유령 신호",
+      "description": "스펙터는 기계 유닛을 탈취할 수 있습니다."
+    }
+  },
+  "EliteBashars": {
+    "int": {
+      "name": "Elite Bashars"
+    },
+    "kor": {
+      "name": "정예 전도자"
+    }
+  },
+  "UniqueBashars": {
+    "int": {
+      "name": "Unique Bashars"
+    },
+    "kor": {
+      "name": "고유 전도자"
+    }
+  },
+  "MundaneBashars": {
+    "int": {
+      "name": "Mundane Bashars"
+    },
+    "kor": {
+      "name": "평범한 전도자"
+    }
+  },
+  "WeGotTheRockets": {
+    "int": {
+      "name": "We Got The Rockets",
+      "description": "ADVENT Rockets and Micro Missiles have an expanded detonation radius."
+    },
+    "kor": {
+      "name": "우리에게는 로켓이 있다",
+      "description": "어드밴트의 로켓과 초소형 미사일의 폭발 반경이 확장됩니다."
+    }
+  },
+  "BedlamBlasting": {
+    "int": {
+      "name": "Bedlam Blasting",
+      "description": "Alien Grenades have an exapnded detonation radius."
+    },
+    "kor": {
+      "name": "대혼란 폭발",
+      "description": "외계인 수류탄의 폭발 반경이 확장됩니다."
+    }
+  },
+  "NightmareFuel": {
+    "int": {
+      "name": "Nightmare Fuel"
+    },
+    "kor": {
+      "name": "악몽의 연료"
+    }
+  },
+  "PainTrain": {
+    "int": {
+      "name": "Trauma Amplifiers"
+    },
+    "kor": {
+      "name": "외상 증폭기"
+    }
+  },
+  "HighCaliber": {
+    "int": {
+      "name": "High Caliber"
+    },
+    "kor": {
+      "name": "대구경"
+    }
+  },
+  "WillToSurvive": {
+    "int": {
+      "name": "Will To Survive"
+    },
+    "kor": {
+      "name": "생존 의지"
+    }
+  },
+  "HereticBane": {
+    "int": {
+      "name": "Suffer Not The Heretic"
+    },
+    "kor": {
+      "name": "이단자를 심판하라"
+    }
+  },
+  "BetrayerBane": {
+    "int": {
+      "name": "Purge The Betrayers"
+    },
+    "kor": {
+      "name": "배신자를 척결하라"
+    }
+  },
+  "UnbelieverBane": {
+    "int": {
+      "name": "Cleanse The Unclean"
+    },
+    "kor": {
+      "name": "불결한 자를 정화하라"
+    }
+  },
+  "Dreadnaughts": {
+    "int": {
+      "name": "Juggernauts"
+    },
+    "kor": {
+      "name": "저거너트"
+    }
+  },
+  "Spinebreakers": {
+    "int": {
+      "name": "Spinebreakers",
+      "description": "Berserker melee attacks deal increased damage to primary targets and now damage targets in an area of effect."
+    },
+    "kor": {
+      "name": "척추 파괴자",
+      "description": "버서커의 근접 공격이 주요 목표에 추가 피해를 주며, 이제 광역 피해도 입힙니다."
+    }
+  },
+  "AdventCrits": {
+    "int": {
+      "name": "Absolutely Critical"
+    },
+    "kor": {
+      "name": "절대적인 치명타"
+    }
+  },
+  "EdgeOfMind": {
+    "int": {
+      "name": "Edge of Mind"
+    },
+    "kor": {
+      "name": "날카로운 정신"
+    }
+  },
+  "PyresOfDawn": {
+    "int": {
+      "name": "Pyres of Dawn"
+    },
+    "kor": {
+      "name": "새벽의 화로"
+    }
+  },
+  "GrailCurse": {
+    "int": {
+      "name": "Grail Curse",
+      "description": "Psionic Bombs deprive Soldiers of their ability charges."
+    },
+    "kor": {
+      "name": "성배의 저주",
+      "description": "사이오닉 폭탄은 병사의 능력 사용 횟수를 빼앗습니다."
+    }
+  },
+  "StunningField": {
+    "int": {
+      "name": "Lightning Storms"
+    },
+    "kor": {
+      "name": "번개 폭풍"
+    }
+  },
+  "BlindingRockets": {
+    "int": {
+      "name": "Blinding Detonations"
+    },
+    "kor": {
+      "name": "섬광 폭발"
+    }
+  },
+  "ArchonSteroid": {
+    "int": {
+      "name": "Battle Premonitions"
+    },
+    "kor": {
+      "name": "전투 예지"
+    }
+  },
+  "Beaglebusting": {
+    "int": {
+      "name": "Beagle Busting"
+    },
+    "kor": {
+      "name": "비글 붕괴"
+    }
+  },
+  "Battleborn": {
+    "int": {
+      "name": "Battle Born"
+    },
+    "kor": {
+      "name": "전장 태생"
+    }
+  },
+  "Battlehaunt": {
+    "int": {
+      "name": "Holy Warriors"
+    },
+    "kor": {
+      "name": "성스러운 전사"
+    }
+  },
+  "PYPDroneOverlordsUnlock": {
+    "int": {
+      "name": "Drone Overlords"
+    },
+    "kor": {
+      "name": "드론 오버로드"
+    }
+  },
+  "ChemicalPinions": {
+    "int": {
+      "name": "Chemical Pinions"
+    },
+    "kor": {
+      "name": "화학적 날개"
+    }
+  },
+  "SoulPyres": {
+    "int": {
+      "name": "Soul Pyres"
+    },
+    "kor": {
+      "name": "영혼의 화로"
+    }
+  },
+  "DeepPenetration": {
+    "int": {
+      "name": "Deep Penetration"
+    },
+    "kor": {
+      "name": "깊은 관통"
+    }
+  },
+  "BackBreakers": {
+    "int": {
+      "name": "Back Breakers"
+    },
+    "kor": {
+      "name": "등뼈 부수기"
+    }
+  },
+  "BewilderingShocks": {
+    "int": {
+      "name": "Bewildering Shocks"
+    },
+    "kor": {
+      "name": "혼란의 충격"
+    }
+  },
+  "DeathCurse": {
+    "int": {
+      "name": "Death Curse"
+    },
+    "kor": {
+      "name": "죽음의 저주"
+    }
+  },
+  "PYPExecutionUnlock": {
+    "int": {
+      "name": "Summary Execution"
+    },
+    "kor": {
+      "name": "즉결 처형"
+    }
+  },
+  "PYPMarkedForDeathUnlock": {
+    "int": {
+      "name": "Marked For Death"
+    },
+    "kor": {
+      "name": "죽음의 표식"
+    }
+  },
+  "SectopodGymrats": {
+    "int": {
+      "name": "Advanced Algorithms"
+    },
+    "kor": {
+      "name": "진보된 알고리즘"
+    }
+  },
+  "SectopodMania": {
+    "int": {
+      "name": "Predictive Targeting"
+    },
+    "kor": {
+      "name": "예측 타격"
+    }
+  },
+  "SectopodShoes": {
+    "int": {
+      "name": "Vital Tracking"
+    },
+    "kor": {
+      "name": "생명 추적"
+    }
+  },
+  "SpectreFifthEye": {
+    "int": {
+      "name": "The Fifth Eye Curse"
+    },
+    "kor": {
+      "name": "다섯 번째 눈의 저주"
+    }
+  },
+  "SpectreRegen": {
+    "int": {
+      "name": "Enigmatic Engineering",
+      "description": "Spectres will restore themselves to full health when Vanishing."
+    },
+    "kor": {
+      "name": "수수께끼 공학",
+      "description": "스펙터는 은신 시 체력을 완전히 회복합니다."
+    }
+  },
+  "DarkEmbrace": {
+    "int": {
+      "name": "Dark Embrace"
+    },
+    "kor": {
+      "name": "어둠의 포옹"
+    }
+  },
+  "BlindingAcid": {
+    "int": {
+      "name": "Biohazard Blitz"
+    },
+    "kor": {
+      "name": "생물학적 위험 돌진"
+    }
+  },
+  "StunningStrikes": {
+    "int": {
+      "name": "Crushing Momentum"
+    },
+    "kor": {
+      "name": "강력한 기세"
+    }
+  },
+  "AndromedonWarpBeacon": {
+    "int": {
+      "name": "Warp Beacons"
+    },
+    "kor": {
+      "name": "왜곡 신호기"
+    }
+  },
+  "SpookyFlame": {
+    "int": {
+      "name": "Chemicals Of Terror"
+    },
+    "kor": {
+      "name": "공포의 화학물질"
+    }
+  },
+  "CripplingFlame": {
+    "int": {
+      "name": "Haber's Legacy"
+    },
+    "kor": {
+      "name": "항구의 유산"
+    }
+  },
+  "RuinousFlame": {
+    "int": {
+      "name": "Deadly Haze"
+    },
+    "kor": {
+      "name": "치명적인 연기"
+    }
+  },
+  "SpectreTeleport": {
+    "int": {
+      "name": "Haunting Presence"
+    },
+    "kor": {
+      "name": "불길한 존재"
+    }
+  },
+  "SuperSectoids": {
+    "int": {
+      "name": "Super Sectoids"
+    },
+    "kor": {
+      "name": "슈퍼 섹토이드"
+    }
+  },
+  "MutonSuppressionShot": {
+    "int": {
+      "name": "Oppression"
+    },
+    "kor": {
+      "name": "억압"
+    }
+  },
+  "SolidSectopod": {
+    "int": {
+      "name": "Solid Sectopods"
+    },
+    "kor": {
+      "name": "견고한 섹토포드"
+    }
+  },
+  "GatekeeperSupershell": {
+    "int": {
+      "name": "Super Shells"
+    },
+    "kor": {
+      "name": "초강화 외부 장갑"
+    }
+  },
+  "AndromedonPlating": {
+    "int": {
+      "name": "Reinforced Plating"
+    },
+    "kor": {
+      "name": "강화 장갑"
+    }
+  },
+  "PurifierUnicorn": {
+    "int": {
+      "name": "Purification Planning"
+    },
+    "kor": {
+      "name": "정화 계획"
+    }
+  },
+  "MutonTapdancer": {
+    "int": {
+      "name": "Seventh Sense"
+    },
+    "kor": {
+      "name": "제 7의 감각"
+    }
+  },
+  "Stunmancy": {
+    "int": {
+      "name": "Close Quarters Combat"
+    },
+    "kor": {
+      "name": "근접 전투"
+    }
+  },
+  "CHAGatekeeperGirlboss": {
+    "int": {
+      "name": "Atomizer Beams"
+    },
+    "kor": {
+      "name": "원자 광선"
+    }
+  },
+  "MurderDrool": {
+    "int": {
+      "name": "Hypertoxicitiy"
+    },
+    "kor": {
+      "name": "과독"
+    }
+  },
+  "Zerkernaut": {
+    "int": {
+      "name": "Juggernautical"
+    },
+    "kor": {
+      "name": "파괴자"
+    }
+  },
+  "CHAMutonReposition": {
+    "int": {
+      "name": "Defensive Tactics"
+    },
+    "kor": {
+      "name": "방어 전술"
+    }
+  },
+  "CHASnekSnuggles": {
+    "int": {
+      "name": "Lethal Coils"
+    },
+    "kor": {
+      "name": "치명적인 똬리틀기"
+    }
+  },
+  "ZombieRoids": {
+    "int": {
+      "name": "Necromantic Rituals"
+    },
+    "kor": {
+      "name": "강령 의식"
+    }
+  },
+  "CHASpectreTrouble": {
+    "int": {
+      "name": "Spectre Troubles"
+    },
+    "kor": {
+      "name": "스펙터 문제 해결 시스템"
+    }
+  },
+  "CHAAndromedonGigachad": {
+    "int": {
+      "name": "Elite Combatants"
+    },
+    "kor": {
+      "name": "정예 전투원"
+    }
+  },
+  "CHAEnhancedWarframes": {
+    "int": {
+      "name": "Enhanced Warframes"
+    },
+    "kor": {
+      "name": "강화 전쟁 프레임"
+    }
+  },
+  "AndromedonDoubleTap": {
+    "int": {
+      "name": "Twin Chambers"
+    },
+    "kor": {
+      "name": "쌍둥이 체임버"
+    }
+  },
+  "CHAAwakenMyPoddies": {
+    "int": {
+      "name": "Awaken My Masters"
+    },
+    "kor": {
+      "name": "깨어나십시오, 주인이시여"
+    }
+  },
+  "CHALiddyRoids": {
+    "int": {
+      "name": "The New Breed"
+    },
+    "kor": {
+      "name": "새로운 품종"
+    }
+  },
+  "CHARestorationProtocols": {
+    "int": {
+      "name": "Restoration Protocols"
+    },
+    "kor": {
+      "name": "복구 프로토콜"
+    }
+  },
+  "CHAMutonBrutal": {
+    "int": {
+      "name": "Unchecked Brutality"
+    },
+    "kor": {
+      "name": "통제 불능의 잔혹함"
+    }
+  },
+  "CHASuperArchons": {
+    "int": {
+      "name": "Barrage Protocols"
+    },
+    "kor": {
+      "name": "포격 프로토콜"
+    }
+  },
+  "CHASafetyProtocols": {
+    "int": {
+      "name": "Safety Protocols"
+    },
+    "kor": {
+      "name": "안전 프로토콜"
+    }
+  },
+  "CHAPriorityTargeting": {
+    "int": {
+      "name": "Priority Targeting"
+    },
+    "kor": {
+      "name": "우선 표적 지정"
+    }
+  },
+  "CHAAdvancedTraining": {
+    "int": {
+      "name": "Advanced Training"
+    },
+    "kor": {
+      "name": "고급 훈련"
+    }
+  },
+  "CHARoboArmor": {
+    "int": {
+      "name": "Warsteel Alloys"
+    },
+    "kor": {
+      "name": "전쟁 강철 합금"
+    }
+  },
+  "CHAAlienSealedArmor": {
+    "int": {
+      "name": "Armor Sealing"
+    },
+    "kor": {
+      "name": "밀폐된 장갑복"
+    }
+  },
+  "CHAPsychicScreens": {
+    "int": {
+      "name": "Psychic Shielding"
+    },
+    "kor": {
+      "name": "사이오닉 보호"
+    }
+  },
+  "CHARoboMadness": {
+    "int": {
+      "name": "Advanced Tactical Processors"
+    },
+    "kor": {
+      "name": "고급 전술 프로세서"
+    }
+  },
+  "CHAWoodpecker": {
+    "int": {
+      "name": "Smart Munitions"
+    },
+    "kor": {
+      "name": "스마트 탄약"
+    }
+  },
+  "CHANetworkRepairs": {
+    "int": {
+      "name": "Network Repairs"
+    },
+    "kor": {
+      "name": "네트워크 수리"
+    }
+  },
+  "CHAArchonTurbo": {
+    "int": {
+      "name": "Blood Frenzy"
+    },
+    "kor": {
+      "name": "핏빛 광란"
+    }
+  },
+  "CHATacticalAnal": {
+    "int": {
+      "name": "Tactical Analysis"
+    },
+    "kor": {
+      "name": "전술 분석"
+    }
+  },
+  "CHAStunlancerCounter": {
+    "int": {
+      "name": "Advanced Melee Combat Training"
+    },
+    "kor": {
+      "name": "고급 근접 전투 훈련"
+    }
+  },
+  "CHASlipperyStalkers": {
+    "int": {
+      "name": "Slippery Stalkers",
+      "description": "Sectoids and Vipers acquire a stack of untouchable and inflict a point of rupture on critical attacks."
+    },
+    "kor": {
+      "name": "포격 프로토콜",
+      "description": "아르콘은 수레바퀴 능력 사용 후 추가로 공격 계열 행동을 할 수 있습니다."
+    }
+  },
+  "CHAFacelessJelly": {
+    "int": {
+      "name": "Biological Augmentation"
+    },
+    "kor": {
+      "name": "생물학적 증강"
+    }
+  },
+  "CHAMutonSkin": {
+    "int": {
+      "name": "Blast Resistant Skin"
+    },
+    "kor": {
+      "name": "폭발 저항 피부"
+    }
+  },
+  "CHAPriestProtein": {
+    "int": {
+      "name": "Power Through Faith"
+    },
+    "kor": {
+      "name": "믿음의 힘"
+    }
+  },
+  "CHAICEProtocols": {
+    "int": {
+      "name": "ICE Protocols"
+    },
+    "kor": {
+      "name": "ICE 프로토콜"
+    }
+  },
+  "CHAMutonCQC": {
+    "int": {
+      "name": "Close Quarters Combat"
+    },
+    "kor": {
+      "name": "근접 전투"
+    }
+  },
+  "CHATroopyFace": {
+    "int": {
+      "name": "Deep Cover Protocols"
+    },
+    "kor": {
+      "name": "완전 엄폐 프로토콜"
+    }
+  },
+  "CHAIncinerationPods": {
+    "int": {
+      "name": "Incineration Pods"
+    },
+    "kor": {
+      "name": "소각 포드"
+    }
+  },
+  "CHASpeedyGonzales": {
+    "int": {
+      "name": "Adaptive Musculature",
+      "description": "Faceless and Berserkers gain an additional move-only action point."
+    },
+    "kor": {
+      "name": "적응형 근육 조직",
+      "description": "페이스리스와 버서커는 추가로 이동 전용 행동력을 얻습니다."
+    }
+  },
+  "MacroMissiles": {
+    "int": {
+      "name": "Shaped Detonations"
+    },
+    "kor": {
+      "name": "성형작약 폭발"
+    }
+  },
+  "TerrainMapping": {
+    "int": {
+      "name": "Terrain Mapping"
+    },
+    "kor": {
+      "name": "지형 매핑"
+    }
+  },
+  "MECArmor": {
+    "int": {
+      "name": "Alloyed Armor"
+    },
+    "kor": {
+      "name": "합금 장갑판"
+    }
+  },
+  "HitterMuton": {
+    "int": {
+      "name": "Heavy Hitters"
+    },
+    "kor": {
+      "name": "강력한 타격자"
+    }
+  },
+  "BrutalistMuton": {
+    "int": {
+      "name": "Brutalist Strength",
+      "description": "Muton attacks will never graze."
+    },
+    "kor": {
+      "name": "잔혹한 근력",
+      "description": "뮤톤의 공격은 절대 찰과상을 입히지 않습니다."
+    }
+  },
+  "ReactiveMuton": {
+    "int": {
+      "name": "Hyper Reactive"
+    },
+    "kor": {
+      "name": "초반응"
+    }
+  },
+  "ShieldbearerPerceptionLink": {
+    "int": {
+      "name": "Mind Link - Perception"
+    },
+    "kor": {
+      "name": "정신 연계 - 지각"
+    }
+  },
+  "ShieldbearerPrecisionLink": {
+    "int": {
+      "name": "Mind Link - Precision"
+    },
+    "kor": {
+      "name": "정신 연계 - 정밀"
+    }
+  },
+  "ShieldbearerTacticLink": {
+    "int": {
+      "name": "Mind Link - Tactics"
+    },
+    "kor": {
+      "name": "정신 연계 - 전술"
+    }
+  },
+  "LancerPerceptionLink": {
+    "int": {
+      "name": "Mind Link - Perception"
+    },
+    "kor": {
+      "name": "정신 연계 - 지각"
+    }
+  },
+  "LancerPrecisionLink": {
+    "int": {
+      "name": "Mind Link - Precision"
+    },
+    "kor": {
+      "name": "정신 연계 - 정밀"
+    }
+  },
+  "LancerTacticLink": {
+    "int": {
+      "name": "Mind Link - Tactics"
+    },
+    "kor": {
+      "name": "정신 연계 - 전술"
+    }
+  },
+  "PriestPerceptionLink": {
+    "int": {
+      "name": "Mind Link - Perception"
+    },
+    "kor": {
+      "name": "정신 연계 - 지각"
+    }
+  },
+  "PriestPrecisionLink": {
+    "int": {
+      "name": "Mind Link - Precision"
+    },
+    "kor": {
+      "name": "정신 연계 - 정밀"
+    }
+  },
+  "PriestTacticLink": {
+    "int": {
+      "name": "Mind Link - Tactics"
+    },
+    "kor": {
+      "name": "정신 연계 - 전술"
+    }
+  },
+  "OfficerPerceptionLink": {
+    "int": {
+      "name": "Mind Link - Perception"
+    },
+    "kor": {
+      "name": "정신 연계 - 지각"
+    }
+  },
+  "OfficerPrecisionLink": {
+    "int": {
+      "name": "Mind Link - Precision"
+    },
+    "kor": {
+      "name": "정신 연계 - 정밀"
+    }
+  },
+  "OfficerTacticLink": {
+    "int": {
+      "name": "Mind Link - Tactics"
+    },
+    "kor": {
+      "name": "정신 연계 - 전술"
+    }
+  },
+  "TrooperPerceptionLink": {
+    "int": {
+      "name": "Mind Link - Perception"
+    },
+    "kor": {
+      "name": "정신 연계 - 지각"
+    }
+  },
+  "TrooperPrecisionLink": {
+    "int": {
+      "name": "Mind Link - Precision"
+    },
+    "kor": {
+      "name": "정신 연계 - 정밀"
+    }
+  },
+  "TrooperTacticLink": {
+    "int": {
+      "name": "Mind Link - Tactics"
+    },
+    "kor": {
+      "name": "정신 연계 - 전술"
+    }
+  },
+  "VoidPriest": {
+    "int": {
+      "name": "Void Priests"
+    },
+    "kor": {
+      "name": "공허의 사제"
+    }
+  },
+  "BattlePriest": {
+    "int": {
+      "name": "Battle Priests"
+    },
+    "kor": {
+      "name": "전투 사제"
+    }
+  },
+  "UmbraPriest": {
+    "int": {
+      "name": "Umbra Priests"
+    },
+    "kor": {
+      "name": "그림자 사제"
+    }
+  },
+  "OfficerDefense": {
+    "int": {
+      "name": "Defensive Tactics"
+    },
+    "kor": {
+      "name": "방어 전술"
+    }
+  },
+  "OfficerDamage": {
+    "int": {
+      "name": "Acceleration Chambers"
+    },
+    "kor": {
+      "name": "가속 체임버"
+    }
+  },
+  "OfficerAim": {
+    "int": {
+      "name": "Smart Scopes"
+    },
+    "kor": {
+      "name": "스마트 조준경"
+    }
+  },
+  "TrooperDefense": {
+    "int": {
+      "name": "Defensive Tactics"
+    },
+    "kor": {
+      "name": "방어 전술"
+    }
+  },
+  "TrooperDamage": {
+    "int": {
+      "name": "Acceleration Chambers"
+    },
+    "kor": {
+      "name": "가속 체임버"
+    }
+  },
+  "TrooperAim": {
+    "int": {
+      "name": "Smart Scopes",
+      "description": "Troopers gain bonus aim."
+    },
+    "kor": {
+      "name": "스마트 조준경",
+      "description": "어드밴트 병사가 조준 보너스를 얻습니다."
+    }
+  },
+  "SectoidPsi": {
+    "int": {
+      "name": "Mnemonics"
+    },
+    "kor": {
+      "name": "기억술"
+    }
+  },
+  "SectoidDamage": {
+    "int": {
+      "name": "Amplifiers"
+    },
+    "kor": {
+      "name": "증폭기"
+    }
+  },
+  "SectoidAim": {
+    "int": {
+      "name": "Calibration"
+    },
+    "kor": {
+      "name": "조정"
+    }
+  },
+  "StunlancerDefense": {
+    "int": {
+      "name": "Defensive Tactics"
+    },
+    "kor": {
+      "name": "방어 전술"
+    }
+  },
+  "StunlancerMove": {
+    "int": {
+      "name": "Vanguards"
+    },
+    "kor": {
+      "name": "선봉대"
+    }
+  },
+  "StunlancerAim": {
+    "int": {
+      "name": "Eagle Eyes"
+    },
+    "kor": {
+      "name": "매의 눈"
+    }
+  },
+  "PurifierCranialReinforcement": {
+    "int": {
+      "name": "Cranial Reinforcement"
+    },
+    "kor": {
+      "name": "두개골 강화"
+    }
+  },
+  "PurifierRegeneration": {
+    "int": {
+      "name": "Regeneratives"
+    },
+    "kor": {
+      "name": "재생력"
+    }
+  },
+  "PurifierArmor": {
+    "int": {
+      "name": "Armor"
+    },
+    "kor": {
+      "name": "방어구"
+    }
+  },
+  "ActivateTrooperPlasmaGrenades": {
+    "int": {
+      "name": "Plasma Grenades"
+    },
+    "kor": {
+      "name": "플라즈마 수류탄"
+    }
+  },
+  "ActivateTrooperGasGrenades": {
+    "int": {
+      "name": "Gas Grenades"
+    },
+    "kor": {
+      "name": "가스 수류탄"
+    }
+  },
+  "ActivateTrooperAcidGrenades": {
+    "int": {
+      "name": "Acid Grenades"
+    },
+    "kor": {
+      "name": "산성 수류탄"
+    }
+  },
+  "ActivateStunlancerPlasmaGrenades": {
+    "int": {
+      "name": "Plasma Grenades"
+    },
+    "kor": {
+      "name": "플라즈마 수류탄"
+    }
+  },
+  "ActivateStunlancerGasGrenades": {
+    "int": {
+      "name": "Gas Grenades"
+    },
+    "kor": {
+      "name": "가스 수류탄"
+    }
+  },
+  "ActivateStunlancerAcidGrenades": {
+    "int": {
+      "name": "Acid Grenades"
+    },
+    "kor": {
+      "name": "산성 수류탄"
+    }
+  }
+}

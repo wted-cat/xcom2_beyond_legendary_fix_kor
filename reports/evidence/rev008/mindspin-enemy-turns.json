@@ -1,0 +1,354 @@
+{
+  "263": {
+    "session": "RollConfirm",
+    "ready": {
+      "2154": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2161": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2168": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2175": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2182": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2189": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2196": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2203": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2210": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      },
+      "2217": {
+        "caster": 3854,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 0
+      }
+    },
+    "cast": [
+      {
+        "frame": 564,
+        "target": "2189",
+        "caster": 3854,
+        "result": "eHit_Success",
+        "tier": 3
+      }
+    ],
+    "enemy_abilities": [
+      [
+        564,
+        "Mindspin",
+        "2189"
+      ]
+    ],
+    "fire": [
+      {
+        "skill": "ARFMDESW_BrutalityDoctrine",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      },
+      {
+        "skill": "PA_TwilightGasMortarShells",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      }
+    ],
+    "cooldown_check": [],
+    "finished": true,
+    "checks": {
+      "completed": true,
+      "present_targets": true,
+      "score": true,
+      "cooldown": true,
+      "fire_classes": true,
+      "fire_control": true,
+      "cast_at_ready_target": true,
+      "certain_hit": true
+    },
+    "pass": true
+  },
+  "264": {
+    "session": "RollConfirm",
+    "ready": {
+      "2154": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2161": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2168": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2175": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2182": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2189": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2196": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2203": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2210": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      },
+      "2217": {
+        "caster": 3974,
+        "attack": 30,
+        "defense": 45,
+        "score": 60,
+        "cooldown": 0
+      }
+    },
+    "cast": [
+      {
+        "frame": 820,
+        "target": "2182",
+        "caster": 3974,
+        "result": "eHit_Miss",
+        "tier": 0
+      }
+    ],
+    "enemy_abilities": [
+      [
+        820,
+        "Mindspin",
+        "2182"
+      ]
+    ],
+    "fire": [
+      {
+        "skill": "ARFMDESW_BrutalityDoctrine",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      },
+      {
+        "skill": "PA_TwilightGasMortarShells",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      }
+    ],
+    "cooldown_check": [],
+    "finished": true,
+    "checks": {
+      "completed": true,
+      "present_targets": true,
+      "score": true,
+      "cooldown": true,
+      "fire_classes": true,
+      "fire_control": true,
+      "cast_at_ready_target": true
+    },
+    "pass": true
+  },
+  "265": {
+    "session": "MindCooldown",
+    "ready": {
+      "2154": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2161": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2168": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2175": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2182": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2189": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2196": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2203": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2210": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      },
+      "2217": {
+        "caster": 3843,
+        "attack": 30,
+        "defense": 45,
+        "score": 100,
+        "cooldown": 5
+      }
+    },
+    "cast": [],
+    "enemy_abilities": [
+      [
+        545,
+        "StandardShot",
+        "2217"
+      ]
+    ],
+    "fire": [
+      {
+        "skill": "ARFMDESW_BrutalityDoctrine",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      },
+      {
+        "skill": "PA_TwilightGasMortarShells",
+        "target": "AdvMEC_M2",
+        "fear": false,
+        "hit": false
+      }
+    ],
+    "cooldown_check": [
+      {
+        "ability": 3852,
+        "cooldown": 5,
+        "availability": "AA_CoolingDown",
+        "available_targets": 0
+      }
+    ],
+    "finished": true,
+    "checks": {
+      "completed": true,
+      "present_targets": true,
+      "score": true,
+      "cooldown": true,
+      "fire_classes": true,
+      "fire_control": true,
+      "submitted_cooldown": true,
+      "fallback": true
+    },
+    "pass": true
+  }
+}

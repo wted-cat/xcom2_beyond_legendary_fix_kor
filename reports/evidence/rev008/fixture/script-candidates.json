@@ -1,0 +1,36 @@
+{
+  "ARFMDarkEvents": [
+    {
+      "module": "ARFMDarkEvents",
+      "path": "2795578857/Script/ARFMDarkEvents.u",
+      "sha256": "68d19020323e73d0082e8190ad0df36ba888c01e05104b9954cd43b8cdb12da1"
+    }
+  ],
+  "ARFMAdventPack": [
+    {
+      "module": "ARFMAdventPack",
+      "path": "3512490242/Script/ARFMAdventPack.u",
+      "sha256": "b26518ab8609d824045b573220c25e06ff1d1bfac2257593015949a98e2423aa"
+    }
+  ],
+  "ARFMTeslaTrooper": [
+    {
+      "module": "ARFMTeslaTrooper",
+      "path": "3228174264/Script/ARFMTeslaTrooper.u",
+      "sha256": "18a5c385fdb0ed161930eb2476de90b99233b54f6ca3d96adc25cd5adaba47c6"
+    }
+  ],
+  "ARFMAbandoned": [
+    {
+      "module": "ARFMAbandoned",
+      "path": "3692300149/Script/ARFMAbandoned.u",
+      "sha256": "88301f8c89e607fd7c851ed719f8848e7513a368489fb8d3fc25f4724dd3e791"
+    }
+  ],
+  "CoarseEnemyAIAndEncounters": [
+    {
+      "path": "Game/XComGame/Mods/CoarseEnemyAIAndEncounters/Script/CoarseEnemyAIAndEncounters.u",
+      "sha256": "ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454"
+    }
+  ]
+}

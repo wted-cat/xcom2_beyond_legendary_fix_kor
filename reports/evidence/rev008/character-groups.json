@@ -1,0 +1,3582 @@
+{
+  "Soldier": [
+    "XCOMSoldier",
+    "True"
+  ],
+  "TutorialCentral": [
+    "None",
+    "True"
+  ],
+  "StrategyCentral": [
+    "None",
+    "False"
+  ],
+  "Civilian": [
+    "None",
+    "False"
+  ],
+  "FacelessCivilian": [
+    "None",
+    "False"
+  ],
+  "HostileCivilian": [
+    "None",
+    "False"
+  ],
+  "FriendlyVIPCivilian": [
+    "None",
+    "False"
+  ],
+  "Soldier_VIP": [
+    "None",
+    "False"
+  ],
+  "Scientist_VIP": [
+    "None",
+    "False"
+  ],
+  "Engineer_VIP": [
+    "None",
+    "False"
+  ],
+  "HostileVIPCivilian": [
+    "None",
+    "False"
+  ],
+  "Scientist": [
+    "None",
+    "False"
+  ],
+  "HeadScientist": [
+    "None",
+    "False"
+  ],
+  "Engineer": [
+    "None",
+    "False"
+  ],
+  "HeadEngineer": [
+    "None",
+    "False"
+  ],
+  "Clerk": [
+    "None",
+    "False"
+  ],
+  "CommanderVIP": [
+    "None",
+    "False"
+  ],
+  "StasisSuitVIP": [
+    "None",
+    "False"
+  ],
+  "GremlinMk1": [
+    "None",
+    "False"
+  ],
+  "GremlinMk2": [
+    "None",
+    "False"
+  ],
+  "GremlinMk3": [
+    "None",
+    "False"
+  ],
+  "XComTurretM1": [
+    "None",
+    "False"
+  ],
+  "XComTurretM2": [
+    "None",
+    "False"
+  ],
+  "AdvCaptainM1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvCaptainM2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvCaptainM3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvMEC_M1": [
+    "AdventMEC",
+    "False"
+  ],
+  "AdvMEC_M2": [
+    "AdventMEC",
+    "False"
+  ],
+  "AdvPsiWitchM2": [
+    "AdventPsiWitch",
+    "False"
+  ],
+  "AdvPsiWitchM3": [
+    "AdventPsiWitch",
+    "False"
+  ],
+  "AdvShieldBearerM2": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvShieldBearerM3": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvStunLancerM1": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AdvStunLancerM2": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AdvStunLancerM3": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AdvTrooperM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvTrooperM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvTrooperM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvTurretM1": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvTurretM2": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvTurretM3": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvShortTurretM1": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvShortTurretM2": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvShortTurretM3": [
+    "AdventTurret",
+    "False"
+  ],
+  "AdvShortTurret": [
+    "AdventTurret",
+    "False"
+  ],
+  "Andromedon": [
+    "Andromedon",
+    "False"
+  ],
+  "AndromedonRobot": [
+    "AndromedonRobot",
+    "False"
+  ],
+  "Archon": [
+    "Archon",
+    "False"
+  ],
+  "Berserker": [
+    "Berserker",
+    "False"
+  ],
+  "Chryssalid": [
+    "Chryssalid",
+    "False"
+  ],
+  "Cyberus": [
+    "Cyberus",
+    "False"
+  ],
+  "Faceless": [
+    "Faceless",
+    "False"
+  ],
+  "Gatekeeper": [
+    "Gatekeeper",
+    "False"
+  ],
+  "Muton": [
+    "Muton",
+    "False"
+  ],
+  "Sectoid": [
+    "Sectoid",
+    "False"
+  ],
+  "Sectopod": [
+    "Sectopod",
+    "False"
+  ],
+  "PrototypeSectopod": [
+    "Sectopod",
+    "False"
+  ],
+  "Viper": [
+    "Viper",
+    "False"
+  ],
+  "PsiZombie": [
+    "PsiZombie",
+    "False"
+  ],
+  "PsiZombieHuman": [
+    "PsiZombie",
+    "False"
+  ],
+  "TheLost": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasher": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowler": [
+    "TheLost",
+    "False"
+  ],
+  "AdventTroopTransport": [
+    "None",
+    "False"
+  ],
+  "ChryssalidCocoon": [
+    "Chryssalid",
+    "False"
+  ],
+  "ChryssalidCocoonHuman": [
+    "Chryssalid",
+    "False"
+  ],
+  "AdvCounterOpM1": [
+    "AdventCounterOp",
+    "False"
+  ],
+  "AdvCounterOpM2": [
+    "AdventCounterOp",
+    "False"
+  ],
+  "AdvCounterOpM3": [
+    "AdventCounterOp",
+    "False"
+  ],
+  "AdvCounterOpCommanderM1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvCounterOpCommanderM2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvCounterOpCommanderM3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvGeneralM1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvGeneralM2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvGeneralM3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "MimicBeacon": [
+    "None",
+    "False"
+  ],
+  "TestDummyPanic": [
+    "AdventTrooper",
+    "False"
+  ],
+  "Council": [
+    "Speaker",
+    "False"
+  ],
+  "Denmother": [
+    "Speaker",
+    "False"
+  ],
+  "ShipAI": [
+    "Speaker",
+    "False"
+  ],
+  "AdventSpokesman": [
+    "Speaker",
+    "False"
+  ],
+  "Firebrand": [
+    "Speaker",
+    "False"
+  ],
+  "Ethereal": [
+    "Speaker",
+    "False"
+  ],
+  "TutorialOsei": [
+    "Speaker",
+    "False"
+  ],
+  "TutorialRamirez": [
+    "Speaker",
+    "False"
+  ],
+  "TutorialKelly": [
+    "Speaker",
+    "False"
+  ],
+  "Speaker": [
+    "Speaker",
+    "False"
+  ],
+  "PropagandaAnnouncer": [
+    "Speaker",
+    "False"
+  ],
+  "AngelisEthereal": [
+    "Speaker",
+    "False"
+  ],
+  "ShadowShen": [
+    "Speaker",
+    "False"
+  ],
+  "EmptyHead": [
+    "Speaker",
+    "False"
+  ],
+  "ReaperSoldier": [
+    "XCOMSoldier",
+    "True"
+  ],
+  "SkirmisherSoldier": [
+    "XCOMSoldier",
+    "True"
+  ],
+  "TemplarSoldier": [
+    "XCOMSoldier",
+    "True"
+  ],
+  "LostAndAbandonedElena": [
+    "None",
+    "True"
+  ],
+  "LostAndAbandonedMox": [
+    "None",
+    "True"
+  ],
+  "ChosenAssassin": [
+    "ChosenAssassin",
+    "False"
+  ],
+  "ChosenAssassinM2": [
+    "ChosenAssassin",
+    "False"
+  ],
+  "ChosenAssassinM3": [
+    "ChosenAssassin",
+    "False"
+  ],
+  "ChosenAssassinM4": [
+    "ChosenAssassin",
+    "False"
+  ],
+  "ChosenWarlock": [
+    "ChosenWarlock",
+    "False"
+  ],
+  "ChosenWarlockM2": [
+    "ChosenWarlock",
+    "False"
+  ],
+  "ChosenWarlockM3": [
+    "ChosenWarlock",
+    "False"
+  ],
+  "ChosenWarlockM4": [
+    "ChosenWarlock",
+    "False"
+  ],
+  "ChosenSniper": [
+    "ChosenSniper",
+    "False"
+  ],
+  "ChosenSniperM2": [
+    "ChosenSniper",
+    "False"
+  ],
+  "ChosenSniperM3": [
+    "ChosenSniper",
+    "False"
+  ],
+  "ChosenSniperM4": [
+    "ChosenSniper",
+    "False"
+  ],
+  "CivilianMilitia": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "CivilianMilitiaM2": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "CivilianMilitiaM3": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "VolunteerArmyMilitia": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "VolunteerArmyMilitiaM2": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "VolunteerArmyMilitiaM3": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "TheLostHP2": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP3": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP4": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP5": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP6": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP7": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP8": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP9": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP10": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP11": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHP12": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP2": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP3": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP4": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP5": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP6": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP7": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP8": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP9": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP10": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP11": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP12": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP13": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP14": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP15": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP16": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP17": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP18": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP19": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP20": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP21": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostDasherHP22": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP4": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP5": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP6": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP7": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP8": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP9": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP10": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP11": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP12": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP13": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP14": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP15": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP16": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP17": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP18": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP19": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP20": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP21": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostHowlerHP22": [
+    "TheLost",
+    "False"
+  ],
+  "SpectreM1": [
+    "Spectre",
+    "False"
+  ],
+  "SpectreM2": [
+    "Spectre",
+    "False"
+  ],
+  "ShadowbindUnit": [
+    "Shadowbind",
+    "False"
+  ],
+  "ShadowbindUnitM2": [
+    "Shadowbind",
+    "False"
+  ],
+  "AdvPurifierM1": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdvPurifierM2": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdvPurifierM3": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdvPriestM1": [
+    "AdventPriest",
+    "False"
+  ],
+  "AdvPriestM2": [
+    "AdventPriest",
+    "False"
+  ],
+  "AdvPriestM3": [
+    "AdventPriest",
+    "False"
+  ],
+  "SpectralStunLancerM1": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "SpectralStunLancerM3": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "SpectralStunLancerM2": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "SpectralStunLancerM4": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "SpectralZombieM1": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralZombieM2": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralZombieM3": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralZombieM4": [
+    "SpectralZombie",
+    "False"
+  ],
+  "ReaperLeader": [
+    "Speaker",
+    "False"
+  ],
+  "SkirmisherLeader": [
+    "Speaker",
+    "False"
+  ],
+  "TemplarLeader": [
+    "Speaker",
+    "False"
+  ],
+  "ReaperElena": [
+    "Speaker",
+    "False"
+  ],
+  "SkirmisherMox": [
+    "Speaker",
+    "False"
+  ],
+  "TemplarJeriah": [
+    "Speaker",
+    "False"
+  ],
+  "ResistanceDJ": [
+    "Speaker",
+    "False"
+  ],
+  "Singer": [
+    "Speaker",
+    "False"
+  ],
+  "AdvTrooperMP": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvCaptainMP": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvStunLancerMP": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AdvShieldBearerMP": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvMEC_MP": [
+    "AdventMEC",
+    "False"
+  ],
+  "AdvPurifierMP": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdvPriestMP": [
+    "AdventPriest",
+    "False"
+  ],
+  "SectoidMP": [
+    "Sectoid",
+    "False"
+  ],
+  "FacelessMP": [
+    "Faceless",
+    "False"
+  ],
+  "ViperMP": [
+    "Viper",
+    "False"
+  ],
+  "MutonMP": [
+    "Muton",
+    "False"
+  ],
+  "CyberusMP": [
+    "Cyberus",
+    "False"
+  ],
+  "BerserkerMP": [
+    "Berserker",
+    "False"
+  ],
+  "ArchonMP": [
+    "Archon",
+    "False"
+  ],
+  "ChryssalidMP": [
+    "Chryssalid",
+    "False"
+  ],
+  "AndromedonMP": [
+    "Andromedon",
+    "False"
+  ],
+  "SectopodMP": [
+    "Sectopod",
+    "False"
+  ],
+  "GatekeeperMP": [
+    "Gatekeeper",
+    "False"
+  ],
+  "SpectreMP": [
+    "Spectre",
+    "False"
+  ],
+  "PsiZombieMP": [
+    "PsiZombie",
+    "False"
+  ],
+  "PsiZombieHumanMP": [
+    "PsiZombie",
+    "False"
+  ],
+  "AndromedonRobotMP": [
+    "AndromedonRobot",
+    "False"
+  ],
+  "ChryssalidCocoonMP": [
+    "Chryssalid",
+    "False"
+  ],
+  "ChryssalidCocoonHumanMP": [
+    "Chryssalid",
+    "False"
+  ],
+  "ShadowbindUnitMP": [
+    "Shadowbind",
+    "False"
+  ],
+  "BerserkerQueen": [
+    "BerserkerQueen",
+    "False"
+  ],
+  "ArchonKing": [
+    "ArchonKing",
+    "False"
+  ],
+  "ViperKing": [
+    "ViperKing",
+    "False"
+  ],
+  "ViperNeonate": [
+    "ViperNeonate",
+    "False"
+  ],
+  "NestCentral": [
+    "None",
+    "True"
+  ],
+  "DrVahlen": [
+    "Speaker",
+    "False"
+  ],
+  "SparkSoldier": [
+    "None",
+    "True"
+  ],
+  "LostTowersSpark": [
+    "None",
+    "True"
+  ],
+  "FeralMEC_M1": [
+    "FeralMEC",
+    "False"
+  ],
+  "Sectopod_Markov": [
+    "Sectopod",
+    "False"
+  ],
+  "LostTowersTurretM1": [
+    "AdventTurret",
+    "False"
+  ],
+  "LostTowersShen": [
+    "None",
+    "True"
+  ],
+  "RovR": [
+    "None",
+    "False"
+  ],
+  "SparkBitMk1": [
+    "None",
+    "False"
+  ],
+  "SparkBitMk2": [
+    "None",
+    "False"
+  ],
+  "SparkBitMk3": [
+    "None",
+    "False"
+  ],
+  "JulianUnknown": [
+    "Speaker",
+    "False"
+  ],
+  "Julian": [
+    "Speaker",
+    "False"
+  ],
+  "JulianSectopod": [
+    "Speaker",
+    "False"
+  ],
+  "Spark": [
+    "Speaker",
+    "False"
+  ],
+  "PsiZombieCivilian": [
+    "PsiZombie",
+    "False"
+  ],
+  "NeonateChryssalid": [
+    "Chryssalid",
+    "False"
+  ],
+  "NarrativeCentral": [
+    "None",
+    "True"
+  ],
+  "LadderShen": [
+    "None",
+    "True"
+  ],
+  "JaneKelly": [
+    "None",
+    "True"
+  ],
+  "PeterOsei": [
+    "None",
+    "True"
+  ],
+  "AnaRamirez": [
+    "None",
+    "True"
+  ],
+  "Shen_Gremlin_CV": [
+    "None",
+    "False"
+  ],
+  "Shen_Gremlin_MG": [
+    "None",
+    "False"
+  ],
+  "Shen_Gremlin_BM": [
+    "None",
+    "False"
+  ],
+  "PirateDJ_VIP": [
+    "None",
+    "False"
+  ],
+  "BlackMarketTrader_VIP": [
+    "None",
+    "False"
+  ],
+  "LilyShen_VIP": [
+    "None",
+    "False"
+  ],
+  "JaneKelly_VIP": [
+    "None",
+    "False"
+  ],
+  "PeterOsei_VIP": [
+    "None",
+    "False"
+  ],
+  "AnaRamirez_VIP": [
+    "None",
+    "False"
+  ],
+  "Tygan_VIP": [
+    "None",
+    "False"
+  ],
+  "AdventSniperM1": [
+    "AdventSniper",
+    "False"
+  ],
+  "AdventSniperM2": [
+    "AdventSniper",
+    "False"
+  ],
+  "AdventSniperM3": [
+    "AdventSniper",
+    "False"
+  ],
+  "AdventDuelistM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdventDuelistM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdventDuelistM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AshAdvWarlockM1": [
+    "AdventWarlock",
+    "False"
+  ],
+  "AshAdvWarlockM2": [
+    "AdventWarlock",
+    "False"
+  ],
+  "AshAdvWarlockM3": [
+    "AdventWarlock",
+    "False"
+  ],
+  "AshAdvWarlockM4": [
+    "AdventWarlock",
+    "False"
+  ],
+  "AshCursedStunLancerM1": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AshCursedStunLancerM2": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AshCursedStunLancerM3": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "AshArmoredTrooperM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AshArmoredTrooperM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AshArmoredTrooperM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AshPsiAbominationM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshPsiAbominationM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshPsiAbominationM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenTrooperM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenTrooperM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenTrooperM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedTrooperM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedTrooperM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedTrooperM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenStunLancerM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenStunLancerM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenStunLancerM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedStunLancerM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedStunLancerM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenCursedStunLancerM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenWarlockM1": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenWarlockM2": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenWarlockM3": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshRisenWarlockM4": [
+    "PsiZombie",
+    "False"
+  ],
+  "AshFlameViperM1": [
+    "AshFlameViper",
+    "False"
+  ],
+  "AshFlameViperM2": [
+    "AshFlameViper",
+    "False"
+  ],
+  "AshFlameViperM3": [
+    "AshFlameViper",
+    "False"
+  ],
+  "AdvMedicM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvMedicM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvMedicM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "CelatidGrub": [
+    "Celatid",
+    "False"
+  ],
+  "CelatidPupa": [
+    "Celatid",
+    "False"
+  ],
+  "CelatidAdult": [
+    "Celatid",
+    "False"
+  ],
+  "CelatidTurret": [
+    "CelatidTurret",
+    "False"
+  ],
+  "CelatidTurretMk2": [
+    "CelatidTurret",
+    "False"
+  ],
+  "CelatidTurretMk3": [
+    "CelatidTurret",
+    "False"
+  ],
+  "AdventPathfinder": [
+    "AdventPathfinder",
+    "False"
+  ],
+  "AdventPathfinderT2": [
+    "AdventPathfinder",
+    "False"
+  ],
+  "AdventPathfinderT3": [
+    "AdventPathfinder",
+    "False"
+  ],
+  "AdventPathfinderT4": [
+    "AdventPathfinder",
+    "False"
+  ],
+  "AdventPathfinderCaptain": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderCaptainT2": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderCaptainT3": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderCaptainT4": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderSearchTeamCaptain": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderSearchTeamCaptainT2": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdventPathfinderSearchTeamCaptainT3": [
+    "AdventPathfinderCaptain",
+    "False"
+  ],
+  "AdvRaptorM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvRaptorM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvRaptorM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvWraithM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvWraithM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvWraithM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvDestroyerM1": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvDestroyerM2": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvDestroyerM3": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "PsiDroneM1": [
+    "PsiDrone",
+    "False"
+  ],
+  "PsiDroneM2": [
+    "PsiDrone",
+    "False"
+  ],
+  "PsiDroneM3": [
+    "PsiDrone",
+    "False"
+  ],
+  "XCOMPsiDrone": [
+    "PsiDrone",
+    "False"
+  ],
+  "BerserkerOmega": [
+    "BerserkerOmega",
+    "False"
+  ],
+  "IridarVO": [
+    "Speaker",
+    "False"
+  ],
+  "EUBerserker": [
+    "EUBerserker",
+    "False"
+  ],
+  "SHIV_M1": [
+    "SHIV_M1",
+    "True"
+  ],
+  "SHIV_M2": [
+    "SHIV_M1",
+    "True"
+  ],
+  "SHIV_tesla": [
+    "SHIV_M1",
+    "False"
+  ],
+  "AdventCryoPriestM2": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdventCryoPriestM3": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdvBioCaptainM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioCaptainM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioCaptainM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioAssaultTrooperM2": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvBioAssaultTrooperM3": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvBioAssaultTrooperM2B": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvBioAssaultTrooperM3B": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "AdvBioRocketTrooperM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioRocketTrooperM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioTrooperM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioTrooperM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioTrooperM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "BioMEC": [
+    "AdventMEC",
+    "False"
+  ],
+  "BioViperSilver": [
+    "Viper",
+    "False"
+  ],
+  "BioViperGold": [
+    "Viper",
+    "False"
+  ],
+  "BioFaceless": [
+    "Faceless",
+    "False"
+  ],
+  "BioFacelessM2": [
+    "Faceless",
+    "False"
+  ],
+  "BioZerker": [
+    "Berserker",
+    "False"
+  ],
+  "AdvBioTrooperFakeM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioTrooperFakeM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvBioTrooperFakeM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "BioLost": [
+    "BioLost",
+    "False"
+  ],
+  "BioLostBleeder": [
+    "BioLost",
+    "False"
+  ],
+  "AdvBioGeneralM1A": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM2A": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM3A": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM2B": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM3B": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM1C": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM2C": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM3C": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM2D": [
+    "AdventGeneral",
+    "False"
+  ],
+  "AdvBioGeneralM3D": [
+    "AdventGeneral",
+    "False"
+  ],
+  "BioMecTrooper": [
+    "AdventMEC",
+    "False"
+  ],
+  "PurgePriest": [
+    "PurgePriest",
+    "False"
+  ],
+  "PurgeBishop": [
+    "PurgeBishop",
+    "False"
+  ],
+  "ExaltedPurgePriest": [
+    "PurgePriest",
+    "False"
+  ],
+  "ExaltedPurgeArchbishop": [
+    "PurgePriest",
+    "False"
+  ],
+  "IRIStormriderVO": [
+    "Speaker",
+    "False"
+  ],
+  "MutonM2_LW": [
+    "Muton",
+    "False"
+  ],
+  "MutonM3_LW": [
+    "Muton",
+    "False"
+  ],
+  "NajaM1": [
+    "Viper",
+    "False"
+  ],
+  "NajaM2": [
+    "Viper",
+    "False"
+  ],
+  "NajaM3": [
+    "Viper",
+    "False"
+  ],
+  "SidewinderM1": [
+    "Viper",
+    "False"
+  ],
+  "SidewinderM2": [
+    "Viper",
+    "False"
+  ],
+  "SidewinderM3": [
+    "Viper",
+    "False"
+  ],
+  "ViperM2_LW": [
+    "Viper",
+    "False"
+  ],
+  "ViperM3_LW": [
+    "Viper",
+    "False"
+  ],
+  "ArchonM2_LW": [
+    "Archon",
+    "False"
+  ],
+  "SectoidM2_LW": [
+    "Sectoid",
+    "False"
+  ],
+  "AdvGunnerM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGunnerM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGunnerM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvSentryM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvSentryM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvSentryM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGrenadierM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGrenadierM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGrenadierM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvHeavyEngineer": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvRocketeerM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvRocketeerM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvRocketeerM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvMEC_M3_LW": [
+    "AdventMEC",
+    "False"
+  ],
+  "AdvMECArcherM1": [
+    "AdventMEC",
+    "False"
+  ],
+  "AdvMECArcherM2": [
+    "AdventMEC",
+    "False"
+  ],
+  "LWDroneM1": [
+    "AdventDrone",
+    "False"
+  ],
+  "LWDroneM2": [
+    "AdventDrone",
+    "False"
+  ],
+  "ChryssalidSoldier": [
+    "Chryssalid",
+    "False"
+  ],
+  "HiveQueen": [
+    "Chryssalid",
+    "False"
+  ],
+  "AdvSergeantM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvSergeantM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvGeneralM1_LW": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvGeneralM2_LW": [
+    "AdventCaptain",
+    "False"
+  ],
+  "AdvCommando": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvShockTroop": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvScout": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdvVanguard": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ChosenAssassinM5": [
+    "ChosenAssassin",
+    "False"
+  ],
+  "ChosenSniperM5": [
+    "ChosenSniper",
+    "False"
+  ],
+  "ChosenWarlockM5": [
+    "ChosenWarlock",
+    "False"
+  ],
+  "Rebel": [
+    "None",
+    "False"
+  ],
+  "FacelessRebel": [
+    "None",
+    "False"
+  ],
+  "FacelessRebelProxy": [
+    "None",
+    "False"
+  ],
+  "RebelSoldierProxy": [
+    "None",
+    "True"
+  ],
+  "RebelSoldierProxyM2": [
+    "None",
+    "True"
+  ],
+  "RebelSoldierProxyM3": [
+    "None",
+    "True"
+  ],
+  "ResistanceMEC": [
+    "None",
+    "False"
+  ],
+  "TheLostBrute": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP10_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP11_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP12_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP13_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP14_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP15_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP16_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP18_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP21_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP23_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostBruteHP25_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrappler": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP2_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP3_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP4_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP5_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP6_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP7_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP8_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP9_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP10_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP11_LW": [
+    "TheLost",
+    "False"
+  ],
+  "TheLostGrapplerHP12_LW": [
+    "TheLost",
+    "False"
+  ],
+  "Advent_Courier": [
+    "AdventCourier",
+    "False"
+  ],
+  "AdventCustodian": [
+    "AdventCustodian",
+    "False"
+  ],
+  "AdventCustodianMaster": [
+    "AdventCustodianMaster",
+    "False"
+  ],
+  "Mk2_Custodian": [
+    "Mk2_Custodian",
+    "False"
+  ],
+  "ExaltedCustodian": [
+    "ExaltedCustodian",
+    "False"
+  ],
+  "ExaltedCustodian_Grandmaster": [
+    "ExaltedCustodian_Grandmaster",
+    "False"
+  ],
+  "Muton_Hunter": [
+    "Muton_Hunter",
+    "False"
+  ],
+  "Muton_Prowler": [
+    "Muton_Prowler",
+    "False"
+  ],
+  "BU_ResistanceMEC": [
+    "None",
+    "True"
+  ],
+  "BU_MECArcher": [
+    "None",
+    "True"
+  ],
+  "BU_MECPyroclast": [
+    "None",
+    "True"
+  ],
+  "BU_JunkSPARK": [
+    "None",
+    "True"
+  ],
+  "BU_AdventDrone": [
+    "None",
+    "True"
+  ],
+  "BU_HunterDrone": [
+    "None",
+    "True"
+  ],
+  "BU_EnigmaDrone": [
+    "None",
+    "True"
+  ],
+  "BU_CelatidTurretCV": [
+    "CelatidTurret",
+    "True"
+  ],
+  "BU_CelatidTurretMG": [
+    "CelatidTurret",
+    "True"
+  ],
+  "BU_CelatidTurretBM": [
+    "CelatidTurret",
+    "True"
+  ],
+  "BU_PhaseDrone": [
+    "PsiDrone",
+    "True"
+  ],
+  "BU_SHIV": [
+    "SHIV_M1",
+    "True"
+  ],
+  "BU_AlloySHIV": [
+    "SHIV_M1",
+    "True"
+  ],
+  "BU_EleriumSHIV": [
+    "SHIV_M1",
+    "True"
+  ],
+  "BU_FrostMEC": [
+    "None",
+    "True"
+  ],
+  "BU_FrostDroid": [
+    "None",
+    "True"
+  ],
+  "BU_PrototypeGatlingMEC": [
+    "None",
+    "True"
+  ],
+  "BU_MilitaryGatlingMEC": [
+    "None",
+    "True"
+  ],
+  "BU_ChryssalidHound": [
+    "None",
+    "True"
+  ],
+  "Muton_Harrier": [
+    "Muton Harrier",
+    "False"
+  ],
+  "Muton_Beleaguer": [
+    "Muton Beleaguer",
+    "False"
+  ],
+  "Muton_Harrier_Captain": [
+    "Muton Harrier Captain",
+    "False"
+  ],
+  "Muton_Beleaguer_Captain": [
+    "Muton Beleaguer Captain",
+    "False"
+  ],
+  "Muton_Devastator": [
+    "Muton Devastator",
+    "False"
+  ],
+  "DromeDome_Fire": [
+    "Andromedon",
+    "False"
+  ],
+  "DromeDome_Robot_Fire": [
+    "AndromedonRobot",
+    "False"
+  ],
+  "DromeDome_Poison": [
+    "Andromedon",
+    "False"
+  ],
+  "DromeDome_Robot_Poison": [
+    "AndromedonRobot",
+    "False"
+  ],
+  "DromeDome_Cryo": [
+    "Andromedon",
+    "False"
+  ],
+  "DromeDome_Robot_Cryo": [
+    "AndromedonRobot",
+    "False"
+  ],
+  "FrostChryssalidW_M1": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostChryssalidW_M2": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostChryssalidW_M3": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostChryssalidB_M1": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostChryssalidB_M2": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostChryssalidB_M3": [
+    "Chryssalid",
+    "False"
+  ],
+  "FrostMEC_M1": [
+    "AdventMEC",
+    "False"
+  ],
+  "FrostMEC_M2": [
+    "AdventMEC",
+    "False"
+  ],
+  "FrostMEC_M3": [
+    "AdventMEC",
+    "False"
+  ],
+  "FrostSectoid_M2": [
+    "Sectoid",
+    "False"
+  ],
+  "FrostSectoid_M3": [
+    "Sectoid",
+    "False"
+  ],
+  "FrostViper_M2": [
+    "Viper",
+    "False"
+  ],
+  "FrostViper_M3": [
+    "Viper",
+    "False"
+  ],
+  "FrostMuton_M2": [
+    "Muton",
+    "False"
+  ],
+  "FrostMuton_M3": [
+    "Muton",
+    "False"
+  ],
+  "FrostBerserker_M2": [
+    "Berserker",
+    "False"
+  ],
+  "FrostBerserker_M3": [
+    "Berserker",
+    "False"
+  ],
+  "FrostAndromedon": [
+    "Andromedon",
+    "False"
+  ],
+  "FrostMamba": [
+    "Viper",
+    "False"
+  ],
+  "FrostArchon": [
+    "Archon",
+    "False"
+  ],
+  "MiniFrostkeeper": [
+    "Gatekeeper",
+    "False"
+  ],
+  "FrostTrooper_M1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostTrooper_M2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostTrooper_M3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostDroid_M1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostDroid_M2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostDroid_M3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostPriest_M1": [
+    "AdventPriest",
+    "False"
+  ],
+  "FrostPriest_M2": [
+    "AdventPriest",
+    "False"
+  ],
+  "FrostPriest_M3": [
+    "AdventPriest",
+    "False"
+  ],
+  "FrostPuddingTrooper_M2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostPuddingTrooper_M3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostLancer_M1": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostLancer_M2": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostLancer_M3": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostPsiLancer_M1": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostPsiLancer_M2": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostPsiLancer_M3": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "FrostPurifier_M1": [
+    "PurifierMelee",
+    "False"
+  ],
+  "FrostPurifier_M2": [
+    "PurifierMelee",
+    "False"
+  ],
+  "FrostPurifier_M3": [
+    "PurifierMelee",
+    "False"
+  ],
+  "FrostDroidShield_M2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostDroidShield_M3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostTech_M2": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "FrostTech_M3": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "FrostCodex_M2": [
+    "Cyberus",
+    "False"
+  ],
+  "FrostCodex_M3": [
+    "Cyberus",
+    "False"
+  ],
+  "FrostCaptain_M1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostCaptain_M2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostCaptain_M3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostHitman_M1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostHitman_M2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostHitman_M3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "FrostHardliner_M1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostHardliner_M2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostHardliner_M3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "FrostAdder_M1": [
+    "Viper",
+    "False"
+  ],
+  "FrostAdder_M2": [
+    "Viper",
+    "False"
+  ],
+  "FrostAdder_M3": [
+    "Viper",
+    "False"
+  ],
+  "FrostBruiser_M2": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "FrostBruiser_M3": [
+    "AdventShieldBearer",
+    "False"
+  ],
+  "FrostNecromancer_M1": [
+    "Sectoid",
+    "False"
+  ],
+  "FrostNecromancer_M2": [
+    "Sectoid",
+    "False"
+  ],
+  "FrostNecromancer_M3": [
+    "Sectoid",
+    "False"
+  ],
+  "FrostBomber_M1": [
+    "Muton",
+    "False"
+  ],
+  "FrostBomber_M2": [
+    "Muton",
+    "False"
+  ],
+  "FrostBomber_M3": [
+    "Muton",
+    "False"
+  ],
+  "FrostSpectre_M2": [
+    "Spectre",
+    "False"
+  ],
+  "FrostSpectre_M3": [
+    "Spectre",
+    "False"
+  ],
+  "FrostCobra": [
+    "Viper",
+    "False"
+  ],
+  "FrostAbomination": [
+    "FrostAbomination",
+    "False"
+  ],
+  "SpectralFrostZombie_M1": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralFrostZombie_M2": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralFrostZombie_M3": [
+    "SpectralZombie",
+    "False"
+  ],
+  "SpectralFrostZombie_M4": [
+    "SpectralZombie",
+    "False"
+  ],
+  "FrostZombie_M1": [
+    "PsiZombie",
+    "False"
+  ],
+  "FrostZombie_M2": [
+    "PsiZombie",
+    "False"
+  ],
+  "FrostZombie_M3": [
+    "PsiZombie",
+    "False"
+  ],
+  "FrostPudding_M1": [
+    "Faceless",
+    "False"
+  ],
+  "FrostPudding_M2": [
+    "Faceless",
+    "False"
+  ],
+  "FrostPudding_M3": [
+    "Faceless",
+    "False"
+  ],
+  "FrostShadowbindUnit_M2": [
+    "Shadowbind",
+    "False"
+  ],
+  "FrostShadowbindUnit_M3": [
+    "Shadowbind",
+    "False"
+  ],
+  "AshMutonDestroyerM1": [
+    "Muton",
+    "False"
+  ],
+  "AshMutonDestroyerM2": [
+    "Muton",
+    "False"
+  ],
+  "AshMutonDestroyerM3": [
+    "Muton",
+    "False"
+  ],
+  "AshMutonDestroyerM4": [
+    "Muton",
+    "False"
+  ],
+  "AssaultTrooperT1": [
+    "AssaultTrooperT1",
+    "False"
+  ],
+  "AssaultTrooperT2": [
+    "AssaultTrooperT2",
+    "False"
+  ],
+  "AssaultTrooperT3": [
+    "AssaultTrooperT3",
+    "False"
+  ],
+  "AssaultTrooperCaptn": [
+    "AssaultTrooperCaptn",
+    "False"
+  ],
+  "AHWElder": [
+    "Ethereal",
+    "False"
+  ],
+  "GatlingMec": [
+    "GatlingMec",
+    "False"
+  ],
+  "AHWAdvPraetorian": [
+    "Praetorian",
+    "False"
+  ],
+  "AHWAdvPraetorianLieutenant": [
+    "PraetorianLieutenant",
+    "False"
+  ],
+  "AHWAdvPraetorianVanguard": [
+    "PraetorianShieldMaiden",
+    "False"
+  ],
+  "AHWAdvPraetorianHazmat": [
+    "PraetorianHazmat",
+    "False"
+  ],
+  "AHWAdvPraetorianCaptain": [
+    "PraetorianCaptain",
+    "False"
+  ],
+  "AHWPraetorianSectopod": [
+    "PraetorianSectopod",
+    "False"
+  ],
+  "AHWElderRevived": [
+    "Ethereal",
+    "False"
+  ],
+  "ARFMAdvColonel": [
+    "AdventCaptain",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP2": [
+    "Chryssalid",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP4": [
+    "Chryssalid",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP6": [
+    "Chryssalid",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP8": [
+    "Chryssalid",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP10": [
+    "Chryssalid",
+    "False"
+  ],
+  "ARFMFeralChryssalidHP12": [
+    "Chryssalid",
+    "False"
+  ],
+  "SectoidAbjurer_M1": [
+    "Sectoid",
+    "False"
+  ],
+  "SectoidAbjurer_M2": [
+    "Sectoid",
+    "False"
+  ],
+  "SectoidAbjurer_M3": [
+    "Sectoid",
+    "False"
+  ],
+  "Fuller_Override_ResistanceDrone_M1": [
+    "AdventDrone",
+    "False"
+  ],
+  "Fuller_Override_ResistanceDrone_M2": [
+    "AdventDrone",
+    "False"
+  ],
+  "Fuller_Override_ResistanceSectopod": [
+    "Sectopod",
+    "False"
+  ],
+  "PR_DroneMK1": [
+    "PR_Drone",
+    "False"
+  ],
+  "PR_DroneMK2": [
+    "PR_Drone",
+    "False"
+  ],
+  "PR_DroneMK3": [
+    "PR_Drone",
+    "False"
+  ],
+  "PR_ResistanceMecMK1": [
+    "PR_ResistanceMec",
+    "False"
+  ],
+  "PR_ResistanceMecMK2": [
+    "PR_ResistanceMec",
+    "False"
+  ],
+  "PR_ResistanceMecMK3": [
+    "PR_ResistanceMec",
+    "False"
+  ],
+  "WarlockMilitiaRifle": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "WarlockMilitiaShotgun": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "WarlockMilitiaBullpup": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "WarlockMilitiaCannon": [
+    "CivilianMilitia",
+    "False"
+  ],
+  "AHWAltar": [
+    "Altar",
+    "False"
+  ],
+  "AHWAndromelidMagnaM1": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM1T2": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM1T3": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM1T4": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM2": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM2T2": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM2T3": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM2T4": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM3": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM3T2": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM3T3": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWAndromelidMagnaM3T4": [
+    "Andromelid",
+    "False"
+  ],
+  "AndromelidRobot": [
+    "Andromelid",
+    "False"
+  ],
+  "AHWArchonMagnaM1": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM2": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM3": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM4": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM1T2": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM2T2": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM3T2": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM4T2": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM1T3": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM2T3": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM3T3": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM4T3": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM1T4": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM2T4": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM3T4": [
+    "Seraph",
+    "False"
+  ],
+  "AHWArchonMagnaM4T4": [
+    "Seraph",
+    "False"
+  ],
+  "AHWCyberdisc": [
+    "Cyberdisc",
+    "False"
+  ],
+  "AHWCyberdiscT2": [
+    "Cyberdisc",
+    "False"
+  ],
+  "AHWCyberdiscT3": [
+    "Cyberdisc",
+    "False"
+  ],
+  "AHWCyberdiscT4": [
+    "Cyberdisc",
+    "False"
+  ],
+  "AHWCyberdiscResistance": [
+    "Cyberdisc",
+    "False"
+  ],
+  "AHWFloater": [
+    "Floater",
+    "False"
+  ],
+  "AHWFloaterT2": [
+    "Floater",
+    "False"
+  ],
+  "AHWFloaterT3": [
+    "Floater",
+    "False"
+  ],
+  "AHWFloaterT4": [
+    "Floater",
+    "False"
+  ],
+  "AHWGunship": [
+    "Gunship",
+    "False"
+  ],
+  "AHWGunshipT2": [
+    "Gunship",
+    "False"
+  ],
+  "AHWGunshipT3": [
+    "Gunship",
+    "False"
+  ],
+  "AHWGunshipT4": [
+    "Gunship",
+    "False"
+  ],
+  "AHWHeavyFloater": [
+    "HeavyFloater",
+    "False"
+  ],
+  "AHWHeavyFloaterT2": [
+    "HeavyFloater",
+    "False"
+  ],
+  "AHWHeavyFloaterT3": [
+    "HeavyFloater",
+    "False"
+  ],
+  "AHWHeavyFloaterT4": [
+    "HeavyFloater",
+    "False"
+  ],
+  "AHWOutsiderMagna": [
+    "Outsider",
+    "False"
+  ],
+  "AHWOutsiderMagnaT2": [
+    "Outsider",
+    "False"
+  ],
+  "AHWOutsiderMagnaT3": [
+    "Outsider",
+    "False"
+  ],
+  "AHWOutsiderMagnaT4": [
+    "Outsider",
+    "False"
+  ],
+  "AHWIncubatorMagna": [
+    "Incubator",
+    "False"
+  ],
+  "AHWIncubatorMagnaT2": [
+    "Incubator",
+    "False"
+  ],
+  "AHWIncubatorMagnaT3": [
+    "Incubator",
+    "False"
+  ],
+  "AHWIncubatorMagnaT4": [
+    "Incubator",
+    "False"
+  ],
+  "AHWLegate": [
+    "Legate",
+    "False"
+  ],
+  "AHWMechapede": [
+    "Mechapede",
+    "False"
+  ],
+  "AHWHeavyMechtoid": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWHeavyMechtoidT2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWHeavyMechtoidT3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWHeavyMechtoidT4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM1": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM5": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM1T2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM2T2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM3T2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM4T2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM5T2": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM1T3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM2T3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM3T3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM4T3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM5T3": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM1T4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM2T4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM3T4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM4T4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMechtoidMagnaM5T4": [
+    "Mechtoid",
+    "False"
+  ],
+  "AHWMutonMagnaElite": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagna": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaT2": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaT3": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaT4": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaM1": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaM1T2": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaM1T3": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWMutonMagnaM1T4": [
+    "RequiemMuton",
+    "False"
+  ],
+  "AHWNavigator": [
+    "Navigator",
+    "False"
+  ],
+  "AHWNavigatorT2": [
+    "Navigator",
+    "False"
+  ],
+  "AHWNavigatorT3": [
+    "Navigator",
+    "False"
+  ],
+  "AHWNavigatorT4": [
+    "Navigator",
+    "False"
+  ],
+  "AHWChryssalidMagnaM2": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaM2T2": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaM2T3": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaM2T4": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagna": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaT2": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaT3": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWChryssalidMagnaT4": [
+    "Nightmare",
+    "False"
+  ],
+  "AHWNiven": [
+    "Niven",
+    "False"
+  ],
+  "AHWNivenT2": [
+    "Niven",
+    "False"
+  ],
+  "AHWNivenT3": [
+    "Niven",
+    "False"
+  ],
+  "AHWNivenT4": [
+    "Niven",
+    "False"
+  ],
+  "AHWNivenResistance": [
+    "Niven",
+    "False"
+  ],
+  "AHWSeeker": [
+    "Seeker",
+    "False"
+  ],
+  "AHWSeekerT2": [
+    "Seeker",
+    "False"
+  ],
+  "AHWSeekerT3": [
+    "Seeker",
+    "False"
+  ],
+  "AHWSeekerT4": [
+    "Seeker",
+    "False"
+  ],
+  "AHWServitor": [
+    "Servitor",
+    "False"
+  ],
+  "AHWServitorT2": [
+    "Servitor",
+    "False"
+  ],
+  "AHWServitorT3": [
+    "Servitor",
+    "False"
+  ],
+  "AHWServitorT4": [
+    "Servitor",
+    "False"
+  ],
+  "AHWViperMagnaM1": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM5": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM6": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM7": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM8": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM9": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM1T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM2T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM3T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM4T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM5T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM6T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM7T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM8T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM9T2": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM1T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM2T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM3T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM4T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM5T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM6T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM7T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM8T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM9T3": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM1T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM2T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM3T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM4T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM5T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM6T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM7T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM8T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWViperMagnaM9T4": [
+    "Taipan",
+    "False"
+  ],
+  "AHWBerserkerMagna": [
+    "Titan",
+    "False"
+  ],
+  "AHWBerserkerMagnaT2": [
+    "Titan",
+    "False"
+  ],
+  "AHWBerserkerMagnaT3": [
+    "Titan",
+    "False"
+  ],
+  "AHWBerserkerMagnaT4": [
+    "Titan",
+    "False"
+  ],
+  "AHWSuperTurret": [
+    "RequiemTurret",
+    "False"
+  ],
+  "AHWShriekerTurret": [
+    "RequiemTurret",
+    "False"
+  ],
+  "AHWTeleporterTurret": [
+    "RequiemTurret",
+    "False"
+  ],
+  "AHWDeathFogTurret": [
+    "RequiemTurret",
+    "False"
+  ],
+  "AHWMissileTurret": [
+    "RequiemTurret",
+    "False"
+  ],
+  "AHWRequiemBitTemplate": [
+    "None",
+    "False"
+  ],
+  "AHWSpectralBugM1": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM3": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM4": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM1T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM2T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM3T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM4T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM5T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM6T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM7T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AHWSpectralBugM8T2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "PRPA_Stunlancer": [
+    "PRPA_Stunlancer",
+    "True"
+  ],
+  "PRPA_Priest": [
+    "PRPA_Priest",
+    "True"
+  ],
+  "PRPA_Officer": [
+    "PRPA_Officer",
+    "True"
+  ],
+  "PRPA_Purifier": [
+    "PRPA_Purifier",
+    "True"
+  ],
+  "PRPA_Shieldbearer": [
+    "PRPA_Shieldbearer",
+    "True"
+  ],
+  "PRPA_BarrierTrooper": [
+    "PRPA_BarrierTrooper",
+    "True"
+  ],
+  "PRPA_BioAssaultTrooper": [
+    "PRPA_BioAssaultTrooper",
+    "True"
+  ],
+  "PRPA_BioCaptain": [
+    "PRPA_BioCaptain",
+    "True"
+  ],
+  "PRPA_BioRocketTrooper": [
+    "PRPA_BioRocketTrooper",
+    "True"
+  ],
+  "PRPA_FrostCaptain": [
+    "PRPA_FrostCaptain",
+    "True"
+  ],
+  "PRPA_FrostHardliner": [
+    "PRPA_FrostHardliner",
+    "True"
+  ],
+  "PRPA_FrostLancer": [
+    "PRPA_FrostLancer",
+    "True"
+  ],
+  "PRPA_FrostPurifier": [
+    "PRPA_FrostPurifier",
+    "True"
+  ],
+  "PRPA_FrostTechnician": [
+    "PRPA_FrostTechnician",
+    "True"
+  ],
+  "PRPA_FrostTechnicianVIP": [
+    "PRPA_FrostTechnicianVIP",
+    "True"
+  ],
+  "PRPA_RaptorCommando": [
+    "PRPA_RaptorCommando",
+    "True"
+  ],
+  "PRPA_WraithCommando": [
+    "PRPA_WraithCommando",
+    "True"
+  ],
+  "PRPA_DestroyerCommando": [
+    "PRPA_DestroyerCommando",
+    "True"
+  ],
+  "PRPA_AssaultTrooper": [
+    "PRPA_AssaultTrooper",
+    "True"
+  ],
+  "PRPA_Pathfinder": [
+    "PRPA_Pathfinder",
+    "True"
+  ],
+  "PRPA_PathfinderHunter": [
+    "PRPA_PathfinderHunter",
+    "True"
+  ],
+  "PRPA_ShockTrooper": [
+    "PRPA_ShockTrooper",
+    "True"
+  ],
+  "PRPA_XCOMPsiDroneMK1": [
+    "PRPA_PsiDrone",
+    "False"
+  ],
+  "PRPA_XCOMPsiDroneMK2": [
+    "PRPA_PsiDrone",
+    "False"
+  ],
+  "PRPA_XCOMPsiDroneMK3": [
+    "PRPA_PsiDrone",
+    "False"
+  ],
+  "PRPA_XCOMFrostDroidMK1": [
+    "PRPA_FrostDroid",
+    "False"
+  ],
+  "PRPA_XCOMFrostDroidMK2": [
+    "PRPA_FrostDroid",
+    "False"
+  ],
+  "PRPA_XCOMFrostDroidMK3": [
+    "PRPA_FrostDroid",
+    "False"
+  ],
+  "PRPA_XCOMFrostMecMK1": [
+    "PRPA_FrostMec",
+    "False"
+  ],
+  "PRPA_XCOMFrostMecMK2": [
+    "PRPA_FrostMec",
+    "False"
+  ],
+  "PRPA_XCOMFrostMecMK3": [
+    "PRPA_FrostMec",
+    "False"
+  ],
+  "XComMecSoldier": [
+    "MECTrooper",
+    "True"
+  ],
+  "SkirmXComMecSoldier": [
+    "MECTrooper",
+    "True"
+  ],
+  "ReqVIPFaceless": [
+    "None",
+    "False"
+  ],
+  "PA_Berserker": [
+    "Berserker",
+    "True"
+  ],
+  "PA_Faceless": [
+    "Faceless",
+    "True"
+  ],
+  "PA_MutonHunter": [
+    "Muton",
+    "True"
+  ],
+  "PA_MutonProwler": [
+    "Muton",
+    "True"
+  ],
+  "PA_MutonHarrier": [
+    "Muton",
+    "True"
+  ],
+  "PA_MutonBeleaguer": [
+    "Muton",
+    "True"
+  ],
+  "PA_Sidewinder": [
+    "Viper",
+    "True"
+  ],
+  "PA_Naja": [
+    "Viper",
+    "True"
+  ],
+  "PA_FrostAdder": [
+    "Viper",
+    "True"
+  ],
+  "PA_FrostBomber": [
+    "Muton",
+    "True"
+  ],
+  "PA_FrostNecromancer": [
+    "Sectoid",
+    "True"
+  ],
+  "PA_SectoidAbjurer": [
+    "Sectoid",
+    "True"
+  ],
+  "PA_Archon": [
+    "Archon",
+    "True"
+  ],
+  "PA_Sectoid": [
+    "Sectoid",
+    "True"
+  ],
+  "PA_Muton": [
+    "Muton",
+    "True"
+  ],
+  "PA_Viper": [
+    "Viper",
+    "True"
+  ],
+  "PA_Viper2": [
+    "Viper",
+    "True"
+  ],
+  "PA_Andromedon": [
+    "Andromedon",
+    "True"
+  ],
+  "PA_FrostAdder2": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_FrostMamba": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_FrostMambaVIP": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_BossSnake": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_MutonSapper": [
+    "PA_Muton",
+    "True"
+  ],
+  "PA_MutonSapperVIP": [
+    "PA_Muton",
+    "True"
+  ],
+  "PA_Taipan": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_BossMuton": [
+    "PA_Muton",
+    "True"
+  ],
+  "PA_ViperCommando": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_Floater": [
+    "PA_Archon",
+    "True"
+  ],
+  "PA_Seraphim": [
+    "PA_Archon",
+    "True"
+  ],
+  "PA_BossSectoid": [
+    "PA_Sectoid",
+    "True"
+  ],
+  "PA_Lurker": [
+    "PA_Chryssalid",
+    "True"
+  ],
+  "PA_Python": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_Desolator": [
+    "PA_Andromedon",
+    "True"
+  ],
+  "PA_FrostViper": [
+    "PA_Viper",
+    "True"
+  ],
+  "PA_MutonInfiltrator": [
+    "PA_Muton",
+    "True"
+  ],
+  "M31_SpectralZombie_M1": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_SpectralZombie_M2": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_SpectralZombie_M3": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_AdvSpectralZombie_M1": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_AdvSpectralZombie_M2": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_AdvSpectralZombie_M3": [
+    "SpectralZombie",
+    "False"
+  ],
+  "M31_SpectralLancer_M1": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_SpectralLancer_M2": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_SpectralLancer_M3": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_AdvSpectralLancer_M1": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_AdvSpectralLancer_M2": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_AdvSpectralLancer_M3": [
+    "SpectralStunLancer",
+    "False"
+  ],
+  "M31_SpectralCreature_M1": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "M31_SpectralCreature_M2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "M31_SpectralCreature_M3": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "M31_AdvSpectralCreature_M1": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "M31_AdvSpectralCreature_M2": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "M31_AdvSpectralCreature_M3": [
+    "SpectralChryssalid",
+    "False"
+  ],
+  "AdventCryoPriestM1": [
+    "AdventPurifier",
+    "False"
+  ],
+  "AdventCryoRocketeerM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdventCryoRocketeerM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "AdventCryoRocketeerM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "PrototypeGatlingMec": [
+    "GatlingMec",
+    "False"
+  ],
+  "ARFMAdvKnightM1": [
+    "AdventPriest",
+    "False"
+  ],
+  "ARFMAdvKnightM2": [
+    "AdventPriest",
+    "False"
+  ],
+  "ARFMAdvKnightM3": [
+    "AdventPriest",
+    "False"
+  ],
+  "ARFMAdvTorcherM1": [
+    "AdventPurifier",
+    "False"
+  ],
+  "ARFMAdvTorcherM2": [
+    "AdventPurifier",
+    "False"
+  ],
+  "ARFMAdvTorcherM3": [
+    "AdventPurifier",
+    "False"
+  ],
+  "ARFMAdvOutriderM1": [
+    "AdventCaptain",
+    "False"
+  ],
+  "ARFMAdvOutriderM2": [
+    "AdventCaptain",
+    "False"
+  ],
+  "ARFMAdvOutriderM3": [
+    "AdventCaptain",
+    "False"
+  ],
+  "ARFMAdvKriegsmarineM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvKriegsmarineM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvKriegsmarineM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvRunnerM1": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvRunnerM2": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvRunnerM3": [
+    "AdventTrooper",
+    "False"
+  ],
+  "ARFMAdvArtilleryM1": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "ARFMAdvArtilleryM2": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "ARFMAdvArtilleryM3": [
+    "AdventStunLancer",
+    "False"
+  ],
+  "ARFMAbandonedWretchM1": [
+    "AbandonedWretch",
+    "False"
+  ],
+  "ARFMAbandonedWretchM2": [
+    "AbandonedWretch",
+    "False"
+  ],
+  "ARFMAbandonedWretchM3": [
+    "AbandonedWretch",
+    "False"
+  ],
+  "ARFMAbandonedM1": [
+    "Abandoned",
+    "False"
+  ],
+  "ARFMAbandonedM2": [
+    "Abandoned",
+    "False"
+  ],
+  "ARFMAbandonedM3": [
+    "Abandoned",
+    "False"
+  ]
+}

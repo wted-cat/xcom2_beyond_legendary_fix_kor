@@ -1,0 +1,318 @@
+{
+  "ARFMTeslaKillZone": {
+    "kor": {
+      "source": "3467891753\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"고전압\"",
+        "LocLongDescription=\"위험 지역을 설정해, 해당 지역에서 움직이거나 행동하는 모든 것들을 공격합니다.\"",
+        "LocHelpText=\"위험 지역을 설정해, 해당 지역에서 움직이거나 행동하는 모든 것들을 공격합니다.\""
+      ]
+    }
+  },
+  "ARFMKnightParryActivate": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"헌신의 방패\"",
+        "LocLongDescription=\"어드밴트 기사를 대상으로 한 다음 공격을 막아냅니다.\"",
+        "LocHelpText=\"어드밴트 기사를 대상으로 한 다음 공격을 막아냅니다.\""
+      ]
+    },
+    "int": {
+      "source": "3512490242\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Shielded By Devotion\"",
+        "LocLongDescription=\"Parry the next attack made against the ADVENT Knight.\"",
+        "LocHelpText=\"Parry the next attack made against the ADVENT Knight.\""
+      ]
+    }
+  },
+  "ARFMPYP_GhostSignal": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"유령 신호\"",
+        "LocLongDescription=\"기계 유닛을 탈취하려고 시도합니다.\"",
+        "LocHelpText=\"기계 유닛을 탈취하려고 시도합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Ghost Signal\"",
+        "LocLongDescription=\"Attempt to hijack a mechanized unit.\"",
+        "LocHelpText=\"Attempt to hijack a mechanized unit.\""
+      ]
+    }
+  },
+  "ARFMPYP_TimeShift": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"시간 이동\"",
+        "LocLongDescription=\"대상을 자신의 턴이 시작된 위치로 이동시킨 후, 이 유닛이 가장 마지막으로 입은 피해를 돌려줍니다.\"",
+        "LocHelpText=\"대상을 자신의 턴이 시작된 위치로 이동시킨 후, 이 유닛이 가장 마지막으로 입은 피해를 돌려줍니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Time Shift\"",
+        "LocLongDescription=\"Displace a target to the location in which your turn began, and inflict the last damage suffered upon them.\"",
+        "LocHelpText=\"Displace a target to the location in which your turn began, and inflict the last damage suffered upon them.\""
+      ]
+    }
+  },
+  "ARFMDedicationPower": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"헌신: 권능\"",
+        "LocLongDescription=\"XCOM과의 전투에서 승리할 시 이 선택된 자는 더욱 강력해집니다. 이 선택된 자에게 쓰러진 병사는 출혈 상태가 되지 않습니다.\"",
+        "LocHelpText=\"XCOM과의 전투에서 승리할 시 이 선택된 자는 더욱 강력해집니다. 이 선택된 자에게 쓰러진 병사는 출혈 상태가 되지 않습니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Dedication: Power\"",
+        "LocLongDescription=\"For every victory against XCOM, this Chosen grows more powerful. Soldiers will no longer automatically bleedout when felled by this Chosen.\"",
+        "LocHelpText=\"For every victory against XCOM, this Chosen grows more powerful. Soldiers will no longer automatically bleedout when felled by this Chosen.\""
+      ]
+    }
+  },
+  "ARFMDedicationChange": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"헌신: 변화\"",
+        "LocLongDescription=\"XCOM과 마주칠 시 이 선택된 자는 진화합니다. 이 선택된 자에게 쓰러진 병사는 출혈 상태가 되지 않습니다.\"",
+        "LocHelpText=\"XCOM에게 패배할 시 이 선택된 자는 진화합니다. 이 선택된 자에게 쓰러진 병사는 출혈 상태가 되지 않습니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Dedication: Change\"",
+        "LocLongDescription=\"For every encounter with XCOM, this Chosen evolves. Soldiers will no longer automatically bleedout when felled by this Chosen.\"",
+        "LocHelpText=\"For every encounter against XCOM, this Chosen evolves. Soldiers will no longer automatically bleedout when felled by this Chosen.\""
+      ]
+    }
+  },
+  "TPYChosenTeleport": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"변화: 아스트랄 도약\"",
+        "LocLongDescription=\"지정한 위치로 공간이동합니다.\"",
+        "LocHelpText=\"지정한 위치로 공간이동합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Change: Astral Jaunt\"",
+        "LocLongDescription=\"Teleport to a target location.\"",
+        "LocHelpText=\"Teleport to a target location.\""
+      ]
+    }
+  },
+  "ARFMPYP_SectoidLauncher": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"기절 로켓 발사기\"",
+        "LocLongDescription=\"지정한 위치에 기절 로켓을 발사합니다.\"",
+        "LocHelpText=\"지정한 위치에 기절 로켓을 발사합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Stun Launcher\"",
+        "LocLongDescription=\"Fire a Stun Rocket at a target location.\"",
+        "LocHelpText=\"Fire a Stun Rocket at a target location.\""
+      ]
+    }
+  },
+  "ARFMCapstoneRoselite": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"로제석 캡스톤\"",
+        "LocLongDescription=\"다중 공격 능력을 얻어, 일반 사격, 일반 근접 공격, 추적 사격 후 추가 사격을 가합니다.\"",
+        "LocHelpText=\"다중 공격 능력을 얻어, 일반 사격, 일반 근접 공격, 추적 사격 후 추가 사격을 가합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Roselite Capstone\"",
+        "LocLongDescription=\"Gain Multiattacks, firing a followup shot after any Standard Attack, Standard Melee, or Tracking Shot taken.\"",
+        "LocHelpText=\"Gain Multiattacks, firing a followup shot after any Standard Attack, Standard Melee, or Tracking Shot taken.\""
+      ]
+    }
+  },
+  "ARFMAdvKnightM3": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "strCharacterName=\"정예 기사\""
+      ]
+    },
+    "int": {
+      "source": "3512490242\\Localization\\XComGame.int",
+      "info": [
+        "strCharacterName=\"Elite Knight\""
+      ]
+    }
+  },
+  "ARFMAdvKnightM2": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "strCharacterName=\"고급 기사\""
+      ]
+    },
+    "int": {
+      "source": "3512490242\\Localization\\XComGame.int",
+      "info": [
+        "strCharacterName=\"Advanced Knight\""
+      ]
+    }
+  },
+  "ARFMAbandonedWretchM3": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "strCharacterName=\"버려진 구울\""
+      ]
+    }
+  },
+  "ARFMPYP_DroneOverlords": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"드론 지배자\"",
+        "LocLongDescription=\"적은 기절한 병사에게 조준 +50, 혼란 상태의 병사에게 조준 +10을 얻습니다.\"",
+        "LocHelpText=\"적은 기절한 병사에게 조준 +50, 혼란 상태의 병사에게 조준 +10을 얻습니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Drone Overlords\"",
+        "LocLongDescription=\"Enemies gain +50 Aim against Stunned Soldiers, and +10 Aim against Disoriented Soldiers.\"",
+        "LocHelpText=\"Enemies gain +50 Aim against Stunned Soldiers, and +10 Aim against Disoriented Soldiers.\""
+      ]
+    }
+  },
+  "ARFMPYP_SummaryExecution": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"즉결 처형\"",
+        "LocLongDescription=\"정신 지배된 병사에 대한 공격은 죽음의 일격이 됩니다.\"",
+        "LocHelpText=\"정신 지배된 병사에 대한 공격은 죽음의 일격이 됩니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Summary Execution\"",
+        "LocLongDescription=\"Attacks against Mind Controlled soldiers become Deathblows.\"",
+        "LocHelpText=\"Attacks against Mind Controlled soldiers become Deathblows.\""
+      ]
+    }
+  },
+  "ARFMPYP_MarkedForDeath": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"죽음의 표식\"",
+        "LocLongDescription=\"표식이 생성된 병사에게 가해지는 공격은 두 배의 피해를 입힙니다.\"",
+        "LocHelpText=\"표식이 생성된 병사에게 가해지는 공격은 두 배의 피해를 입힙니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Marked For Death\"",
+        "LocLongDescription=\"Attacks against Marked Soldiers deal Double Damage.\"",
+        "LocHelpText=\"Attacks against Marked Soldiers deal Double Damage.\""
+      ]
+    }
+  },
+  "TPYDuplicateUnit": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"추억: 성례\"",
+        "LocLongDescription=\"인간형 대상을 복제하여 낮은 체력을 가진 복제본을 생성합니다.\"",
+        "LocHelpText=\"인간형 대상을 복제하여 낮은 체력을 가진 복제본을 생성합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Rememberance: Sacrament\"",
+        "LocLongDescription=\"Duplicate a target humanoid and create them with reduced health.\"",
+        "LocHelpText=\"Duplicate a target humanoid and create them with reduced health.\""
+      ]
+    }
+  },
+  "TPYChosenCommand": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"감각: 권위\"",
+        "LocLongDescription=\"아군이 즉시 행동을 취하게 합니다.\"",
+        "LocHelpText=\"아군이 즉시 행동을 취하게 합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Sensation: Authority\"",
+        "LocLongDescription=\"Make an ally immediately take action.\"",
+        "LocHelpText=\"Make an ally immediately take action.\""
+      ]
+    }
+  },
+  "TPYChosenWave": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"권능: 파쇄\"",
+        "LocLongDescription=\"강력한 근거리 공격을 가합니다.\"",
+        "LocHelpText=\"강력한 근거리 공격을 가합니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Power: Sunder\"",
+        "LocLongDescription=\"Powerful short range attack.\"",
+        "LocHelpText=\"Powerful short range attack.\""
+      ]
+    }
+  },
+  "TPYChosenGroundpound": {
+    "kor": {
+      "source": "2930215312\\Localization\\XComGame.kor",
+      "info": [
+        "LocFriendlyName=\"계몽: 눈부신 영광\"",
+        "LocLongDescription=\"범위 내의 대상들을 실명시키거나 혼란 상태에 빠뜨립니다.\"",
+        "LocHelpText=\"범위 내의 대상들을 실명시키거나 혼란 상태에 빠뜨립니다.\""
+      ]
+    },
+    "int": {
+      "source": "2795578857\\Localization\\XComGame.int",
+      "info": [
+        "LocFriendlyName=\"Enlightenment: Blinding Glory\"",
+        "LocLongDescription=\"Blind and or stun targets in an area.\"",
+        "LocHelpText=\"Blind and or stun targets in an area.\""
+      ]
+    }
+  }
+}

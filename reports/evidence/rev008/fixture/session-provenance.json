@@ -1,0 +1,486 @@
+{
+  "drivers": {
+    "driver_CatalogLoot": [
+      "release ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454",
+      "started CatalogLoot 49 22248",
+      "finished CatalogLoot True 1 232"
+    ],
+    "driver_ChosenRoles": [
+      "started ChosenRoles 43 17156",
+      "finished ChosenRoles True 1 467"
+    ],
+    "driver_ChosenStones": [
+      "release package 40b7c913f57a76ff0d08e98ccc1ae82c0d90c676145b790c5cb535e25fcd498e",
+      "started ChosenStones 43 8936",
+      "finished ChosenStones True 1 1294"
+    ],
+    "driver_ExtraFinal": [
+      "extra final package d6651f1fe297cbb2c31fe0aaeb4ae2d2e2bbd9520949056603492aa31fc8aace",
+      "started ExtraRoster 49 372",
+      "finished ExtraRoster True 1 202"
+    ],
+    "driver_ExtraRoster": [],
+    "driver_FieldRoster": [
+      "release package 40b7c913f57a76ff0d08e98ccc1ae82c0d90c676145b790c5cb535e25fcd498e",
+      "started FieldRoster 45 19640",
+      "finished FieldRoster True 1 983"
+    ],
+    "driver_FinalInteractions": [],
+    "driver_FinalPowers": [
+      "forecast fixture f0876cbe992d7b7986e65cf199eec0da2ec35c1c3fadc926cb144e55530dd988",
+      "release package 40b7c913f57a76ff0d08e98ccc1ae82c0d90c676145b790c5cb535e25fcd498e",
+      "started FinalPowers 42 18156",
+      "finished FinalPowers True 1 640"
+    ],
+    "driver_FinalRecovered": [
+      "final package 2cfd9f0e3e40677db03f9e83ce6d6c65259373125181e402e79a9851c69ff158 fixture 06120280cf0c8149fe5a9c23c9d7c70d6051f32d9b4697ba355e44a7f350a144",
+      "AttachmentBefore package 5532d090537edc1dcea48ce737089d9f16351da16062f84b0fcc8b76380b8f75",
+      "started AttachmentBefore 49 17720",
+      "finished AttachmentBefore True 1 339",
+      "restored final package 2cfd9f0e3e40677db03f9e83ce6d6c65259373125181e402e79a9851c69ff158",
+      "started FinalGroup1 49 4216",
+      "finished FinalGroup1 True 1 355",
+      "verified group FinalGroup1 [250, 253, 251, 252]",
+      "started FinalGroup2 49 14668",
+      "finished FinalGroup2 True 1 327",
+      "verified group FinalGroup2 [238, 239, 240, 241, 175, 177, 247, 248]",
+      "started FinalGroup3 49 9808",
+      "finished FinalGroup3 True 1 1045",
+      "verified group FinalGroup3 [198, 199, 190, 191, 192, 193, 194, 195, 196, 197]",
+      "started FinalGroup4 49 14652",
+      "finished FinalGroup4 True 1 441",
+      "verified group FinalGroup4 [200, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219]",
+      "started FinalGroup5 49 7804",
+      "finished FinalGroup5 True 1 264",
+      "verified group FinalGroup5 [220, 221, 222, 223, 224, 225]",
+      "started FinalGroup6 49 9224",
+      "finished FinalGroup6 True 1 274",
+      "verified group FinalGroup6 [226, 227, 228, 229, 230, 231]",
+      "started FinalGroup7 49 20260",
+      "finished FinalGroup7 True 1 276",
+      "verified group FinalGroup7 [232, 233, 234, 235, 236, 237]",
+      "finished FinalInteractions True"
+    ],
+    "driver_MatrixBase": [
+      "started MatrixBase 42 17248",
+      "finished MatrixBase True 1 393"
+    ],
+    "driver_MindCooldown": [
+      "release ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454",
+      "started MindCooldown 49 21912",
+      "finished MindCooldown True 1 186"
+    ],
+    "driver_PoisonOrder": [
+      "release package b4feb415637564cce555d7e9cab5bbbc66704a52c35a5c076af46f99bc56e626",
+      "poison fixture 425edf4ca7cc1ee986002bb40ae93fa4d8663a7b95a8990277c82ba93939c402",
+      "started PoisonOrder 49 5116",
+      "finished PoisonOrder False 0 2842"
+    ],
+    "driver_PoisonTail": [
+      "closed private long-running field after its completed case",
+      "tail package b4feb415637564cce555d7e9cab5bbbc66704a52c35a5c076af46f99bc56e626",
+      "started PoisonOrderTail 49 5624",
+      "finished PoisonOrderTail True 1 315",
+      "completed two real fields 41",
+      "final result 0"
+    ],
+    "driver_PowersAfter": [
+      "started PowersAfter 49 19988",
+      "finished PowersAfter True 1 824"
+    ],
+    "driver_PowersBefore": [
+      "started PowersBefore 49 17624",
+      "finished PowersBefore True 1 471"
+    ],
+    "driver_ReleaseHandoff": [
+      "{'successful': True, 'after': 'FinalGroup2', 'before': 'FinalGroup3', 'time': '2026-11-24T23:08:03.982971', 'old_package': '2cfd9f0e3e40677db03f9e83ce6d6c65259373125181e402e79a9851c69ff158', 'new_package': 'd6651f1fe297cbb2c31fe0aaeb4ae2d2e2bbd9520949056603492aa31fc8aace'}"
+    ],
+    "driver_ReplayLatest": [
+      "observer {'fixture': 'EightProbe33.u', 'first': 53, 'last': 66}",
+      "final replay package d6651f1fe297cbb2c31fe0aaeb4ae2d2e2bbd9520949056603492aa31fc8aace",
+      "started FinalReplay 49 22212",
+      "finished FinalReplay True 1 628"
+    ],
+    "driver_RollAfter": [
+      "release ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454",
+      "started RollAfter 49 17772",
+      "finished RollAfter False 0 451",
+      "case 200 interrupted while setting up a second large Chosen group on the previous map, keeping completed cases only",
+      "started RollPartB 49 17108",
+      "finished RollPartB True 1 451",
+      "started RollPartC 49 19256",
+      "finished RollPartC True 1 309",
+      "finished RollAfter True verified split fields [261, 262, 250, 253, 251, 252, 190, 200, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 254, 260, 255, 256]"
+    ],
+    "driver_RollConfirm": [
+      "release ae9c8de89d67142c530c29eb0bf7cd855e5f398e5b1a74fc71083ede6935c454",
+      "started RollConfirm 49 21708",
+      "finished RollConfirm True 1 262"
+    ],
+    "driver_Supplement": [
+      "supplement and before-roll package d6651f1fe297cbb2c31fe0aaeb4ae2d2e2bbd9520949056603492aa31fc8aace",
+      "started FinalSupplement 49 22240",
+      "finished FinalSupplement True 1 184",
+      "properly set fields True"
+    ]
+  },
+  "sdk": {
+    "ReleaseEight04": [
+      "[0006.88] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight06": [
+      "[0006.40] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight07": [
+      "[0007.73] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight09": [
+      "[0006.70] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight12": [
+      "[0006.95] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight13": [
+      "[0007.02] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe23": [
+      "[0006.82] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe27": [
+      "[0006.81] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe33": [
+      "[0006.69] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe36": [
+      "[0006.19] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe37": [
+      "[0006.66] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "ReleaseEight14": [
+      "[0006.39] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe38": [
+      "[0006.52] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ],
+    "EightProbe39": [
+      "[0006.68] Log: Success - 0 error(s), 0 warning(s) (0 Unique Errors, 0 Unique Warnings)"
+    ]
+  },
+  "final_fields": [
+    {
+      "session": "FinalGroup1",
+      "sha256": "651fc546dc7d1139d725c177da9bb63dd1700b0143f82eb108a6005e081a4836",
+      "complete": true,
+      "cases": [
+        [
+          "250",
+          "3",
+          "True"
+        ],
+        [
+          "253",
+          "3",
+          "True"
+        ],
+        [
+          "251",
+          "3",
+          "True"
+        ],
+        [
+          "252",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup2",
+      "sha256": "fe4b19c763dbc2d081a0410886b624644d0d27acdf7130d18a42e6512484c661",
+      "complete": true,
+      "cases": [
+        [
+          "238",
+          "3",
+          "True"
+        ],
+        [
+          "239",
+          "3",
+          "True"
+        ],
+        [
+          "240",
+          "3",
+          "True"
+        ],
+        [
+          "241",
+          "3",
+          "True"
+        ],
+        [
+          "175",
+          "3",
+          "True"
+        ],
+        [
+          "177",
+          "3",
+          "True"
+        ],
+        [
+          "247",
+          "3",
+          "True"
+        ],
+        [
+          "248",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup3",
+      "sha256": "c45d4860225b4e628ed8924f9857f320916bcc5981ab4e16397d023a9655180f",
+      "complete": true,
+      "cases": [
+        [
+          "198",
+          "3",
+          "True"
+        ],
+        [
+          "199",
+          "3",
+          "True"
+        ],
+        [
+          "190",
+          "3",
+          "True"
+        ],
+        [
+          "191",
+          "3",
+          "True"
+        ],
+        [
+          "192",
+          "3",
+          "True"
+        ],
+        [
+          "193",
+          "3",
+          "True"
+        ],
+        [
+          "194",
+          "3",
+          "True"
+        ],
+        [
+          "195",
+          "3",
+          "True"
+        ],
+        [
+          "196",
+          "3",
+          "True"
+        ],
+        [
+          "197",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup4",
+      "sha256": "5663cce3a804ab904ce0c2865702ad18a0e7da236d044faa0af8c403f90f4440",
+      "complete": true,
+      "cases": [
+        [
+          "200",
+          "3",
+          "True"
+        ],
+        [
+          "210",
+          "3",
+          "True"
+        ],
+        [
+          "211",
+          "3",
+          "True"
+        ],
+        [
+          "212",
+          "3",
+          "True"
+        ],
+        [
+          "213",
+          "3",
+          "True"
+        ],
+        [
+          "214",
+          "3",
+          "True"
+        ],
+        [
+          "215",
+          "3",
+          "True"
+        ],
+        [
+          "216",
+          "3",
+          "True"
+        ],
+        [
+          "217",
+          "3",
+          "True"
+        ],
+        [
+          "218",
+          "3",
+          "True"
+        ],
+        [
+          "219",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup5",
+      "sha256": "6df83f9274671143b0e019def40954a690e290945c2be35e5af8936189871dcf",
+      "complete": true,
+      "cases": [
+        [
+          "220",
+          "3",
+          "True"
+        ],
+        [
+          "221",
+          "3",
+          "True"
+        ],
+        [
+          "222",
+          "3",
+          "True"
+        ],
+        [
+          "223",
+          "3",
+          "True"
+        ],
+        [
+          "224",
+          "3",
+          "True"
+        ],
+        [
+          "225",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup6",
+      "sha256": "f15026cb626c382a66b1d7fe6bc5da3d6e0c83046c04b441b4dd02341aca8254",
+      "complete": true,
+      "cases": [
+        [
+          "226",
+          "3",
+          "True"
+        ],
+        [
+          "227",
+          "3",
+          "True"
+        ],
+        [
+          "228",
+          "3",
+          "True"
+        ],
+        [
+          "229",
+          "3",
+          "True"
+        ],
+        [
+          "230",
+          "3",
+          "True"
+        ],
+        [
+          "231",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    },
+    {
+      "session": "FinalGroup7",
+      "sha256": "a9ed374ada1e73628ec4aea1efb851f423574be11122de192f56e643d13b8a5e",
+      "complete": true,
+      "cases": [
+        [
+          "232",
+          "3",
+          "True"
+        ],
+        [
+          "233",
+          "3",
+          "True"
+        ],
+        [
+          "234",
+          "3",
+          "True"
+        ],
+        [
+          "235",
+          "3",
+          "True"
+        ],
+        [
+          "236",
+          "3",
+          "True"
+        ],
+        [
+          "237",
+          "3",
+          "True"
+        ]
+      ],
+      "engine": "Version: 8917"
+    }
+  ],
+  "before_comparison_archive": "57bd134c268677c87bde43e61c8612f2d60e9514530364c933103d53c50d1730",
+  "phase_note": "PoisonOrder를 배치 231 완료 후 정상 종료하고 이전 빌드의 232~237을 새 전장에서 이어서 실행했다. 프레임은 전장별 번호다. FinalInteractions는 7개 독립 전장의 원문 순차 결합이다. FinalGroup1·2는 능력치 대결 수정 직전, FinalGroup3부터 예측에 능력치 보정을 복원한 빌드로 실행했다. 실제 주사위까지 고친 배포 스크립트의 재시험은 RollAfter에 있다. release-handoff.json에 전환 전후 해시가 있다."
+}

@@ -1,0 +1,17 @@
+﻿버전,배치,유닛,객체,카드 능력,효과,명중 가산,찰과상 배제,행동력 종류·수
+before,251,Sectoid,4417,ARFMPYP_SectoidPsi,ARFM_Effect_AimAugment,0,False,
+before,252,Sectoid,4702,ARFMPYP_SectoidPsi,ARFM_Effect_AimAugment,0,False,
+final,251,Sectoid,4831,ARFMPYP_SectoidPsi,ARFM_Effect_RollAugment,0,False,
+final,251,Sectoid,4831,ARFMDESW_SlipperyStalkers,X2Effect_CoarseSlipperyStalkers,0,False,
+final,251,Viper,4874,ARFMDESW_SlipperyStalkers,X2Effect_CoarseSlipperyStalkers,0,False,
+final,251,Berserker,4921,ARFMDESW_SpeedyGonzales,X2Effect_TurnStartActionPoints,0,False,"Move,1"
+final,251,Faceless,4962,ARFMDESW_SpeedyGonzales,X2Effect_TurnStartActionPoints,0,False,"Move,1"
+final,251,Muton,4996,ARFMPYP_BrutalistMuton,ARFM_Effect_NeverGraze,0,True,
+final,251,AdvTrooperM3,5056,ARFMPYP_TrooperAim,ARFM_Effect_AimAugment,20,False,
+final,252,Sectoid,5117,ARFMPYP_SectoidPsi,ARFM_Effect_RollAugment,0,False,
+final,252,Sectoid,5117,ARFMDESW_SlipperyStalkers,X2Effect_CoarseSlipperyStalkers,0,False,
+final,252,Viper,5158,ARFMDESW_SlipperyStalkers,X2Effect_CoarseSlipperyStalkers,0,False,
+final,252,Berserker,5205,ARFMDESW_SpeedyGonzales,X2Effect_TurnStartActionPoints,0,False,"Move,1"
+final,252,Faceless,5246,ARFMDESW_SpeedyGonzales,X2Effect_TurnStartActionPoints,0,False,"Move,1"
+final,252,Muton,5280,ARFMPYP_BrutalistMuton,ARFM_Effect_NeverGraze,0,True,
+final,252,AdvTrooperM3,5340,ARFMPYP_TrooperAim,ARFM_Effect_AimAugment,20,False,

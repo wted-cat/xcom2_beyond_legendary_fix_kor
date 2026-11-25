@@ -1,0 +1,21 @@
+{
+  "paired": 1728,
+  "per_role": {
+    "ChosenAssassinM3": 576,
+    "ChosenSniperM3": 576,
+    "ChosenWarlockM3": 576
+  },
+  "invalid": [],
+  "order_diff": [],
+  "individual_controls": 78,
+  "distinct_role_forecasts": {
+    "ChosenAssassinM3": 12,
+    "ChosenSniperM3": 16,
+    "ChosenWarlockM3": 16
+  },
+  "missing_traits": {
+    "ChosenAssassinM3": [],
+    "ChosenSniperM3": [],
+    "ChosenWarlockM3": []
+  }
+}

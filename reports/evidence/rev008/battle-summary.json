@@ -1,0 +1,30 @@
+{
+  "chosen_active_witnesses": 15,
+  "native_forecast_targets": [
+    [
+      "ChosenAssassinM3",
+      "StandardShot",
+      "Soldier",
+      "AA_Success",
+      "100,95,71,73,999,999,1002,1002"
+    ],
+    [
+      "ChosenSniperM3",
+      "HunterRifleShot",
+      "Soldier",
+      "AA_Success",
+      "100,95,71,73,999,999,1002,1002"
+    ],
+    [
+      "ChosenWarlockM3",
+      "StandardShot",
+      "Soldier",
+      "AA_Success",
+      "100,95,71,73,999,999,1002,1002"
+    ]
+  ],
+  "loot_complete": true,
+  "passive_groups": 200,
+  "duplicate_groups": 0,
+  "changed_groups": 0
+}

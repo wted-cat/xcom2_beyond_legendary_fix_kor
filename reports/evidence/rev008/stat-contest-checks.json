@@ -1,0 +1,82 @@
+{
+  "templates": [
+    [
+      "ARFMPYP_SectoidPsi",
+      "ARFM_Effect_RollAugment",
+      "0",
+      "40",
+      "20",
+      "ARFMRollAugment",
+      true
+    ],
+    [
+      "ARFMPYP_LancerStun",
+      "ARFM_Effect_RollAugment",
+      "0",
+      "40",
+      "20",
+      "ARFMRollAugment",
+      true
+    ],
+    [
+      "ARFMPYP_BerserkerRoll",
+      "ARFM_Effect_RollAugment",
+      "0",
+      "40",
+      "20",
+      "ARFMRollAugment",
+      true
+    ],
+    [
+      "ARFMPYP_MutonRoll",
+      "ARFM_Effect_RollAugment",
+      "0",
+      "40",
+      "20",
+      "ARFMRollAugment",
+      true
+    ],
+    [
+      "ARFMPYP_SectoidAim",
+      "ARFM_Effect_AimAugment",
+      "20",
+      "0",
+      "20",
+      "ARFMPYPAimAugment",
+      true
+    ],
+    [
+      "ARFMPYP_TrooperAim",
+      "ARFM_Effect_AimAugment",
+      "20",
+      "0",
+      "20",
+      "ARFMPYPAimAugment",
+      true
+    ]
+  ],
+  "failed": [],
+  "mindspin_forecasts": [
+    [
+      "253",
+      "Sectoid",
+      "Mindspin",
+      "75",
+      "Base Chance:75,Psi Offense:30,Will:-30,"
+    ],
+    [
+      "251",
+      "Sectoid",
+      "Mindspin",
+      "115",
+      ":40,Base Chance:75,Psi Offense:30,Will:-30,"
+    ],
+    [
+      "252",
+      "Sectoid",
+      "Mindspin",
+      "115",
+      ":40,Base Chance:75,Psi Offense:30,Will:-30,"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+﻿버전,기술,난이도 변형,보조 표적 방식,보유 능력별 추가 반경(m),조건 수,첫 보유 조건,폭탄 이벤트 위치
+before,PsiBombStage1,PsiBombStage1,XMBAbilityMultiTarget_Radius_7,"VoidFlood:2.0000,",0,,-1
+before,Vanish,Vanish,None,,0,,-1
+before,DevastatingPunch,DevastatingPunch,None,,0,,-1
+before,AHWMagnaDevastatingPunch,AHWMagnaDevastatingPunch,None,,0,,-1
+before,MicroMissiles,MicroMissiles,XMBAbilityMultiTarget_Radius_10,"ARFMPYP_WeGotTheRockets:1.5100,",0,,-1
+before,RocketLauncher,RocketLauncher,XMBAbilityMultiTarget_Radius_36,"ShadowOps_DangerZone:2.0000,",0,,-1
+before,ThrowGrenade,ThrowGrenade,XMBAbilityMultiTarget_Radius_32,"ShadowOps_DangerZone:2.0000,dangerzone:2.0000,VolatileMix:1.0000,MistyMadness_LW:2.0000,M31_Warbringer:1.0000,",0,,-1
+before,LaunchGrenade,LaunchGrenade,XMBAbilityMultiTarget_Radius_33,"ShadowOps_DangerZone:2.0000,GrimyAirBurst:2.0000,VolatileMix:1.0000,MistyMadness_LW:2.0000,M31_Warbringer:1.0000,",0,,-1
+before,AHWKosmaLauncher,AHWKosmaLauncher,XMBAbilityMultiTarget_Radius_436,,0,,-1
+before,ARFMPYP_BrutalistMuton,ARFMPYP_BrutalistMuton,None,,1,BrutalistMuton,-1
+before,ARFMPYP_TrooperAim,ARFMPYP_TrooperAim,None,,1,ARFMPYP_TrooperRoll,-1
+final,PsiBombStage1,PsiBombStage1,XMBAbilityMultiTarget_Radius_7,"VoidFlood:2.0000,",0,,0
+final,Vanish,Vanish,None,,0,,-1
+final,DevastatingPunch,DevastatingPunch,X2AbilityMultiTarget_Radius_553,,0,,-1
+final,AHWMagnaDevastatingPunch,AHWMagnaDevastatingPunch,X2AbilityMultiTarget_Radius_554,,0,,-1
+final,MicroMissiles,MicroMissiles,XMBAbilityMultiTarget_Radius_10,"ARFMPYP_WeGotTheRockets:1.5100,",0,,-1
+final,RocketLauncher,RocketLauncher,XMBAbilityMultiTarget_Radius_36,"ShadowOps_DangerZone:2.0000,ARFMPYP_WeGotTheRockets:1.5100,",0,,-1
+final,ThrowGrenade,ThrowGrenade,XMBAbilityMultiTarget_Radius_32,"ShadowOps_DangerZone:2.0000,dangerzone:2.0000,VolatileMix:1.0000,MistyMadness_LW:2.0000,M31_Warbringer:1.0000,ARFMPYP_BedlamBlasting:1.5100,ARFMTPY_JANMegaNades:4.5100,",0,,-1
+final,LaunchGrenade,LaunchGrenade,XMBAbilityMultiTarget_Radius_33,"ShadowOps_DangerZone:2.0000,GrimyAirBurst:2.0000,VolatileMix:1.0000,MistyMadness_LW:2.0000,M31_Warbringer:1.0000,ARFMPYP_BedlamBlasting:1.5100,",0,,-1
+final,AHWKosmaLauncher,AHWKosmaLauncher,XMBAbilityMultiTarget_Radius_436,"ARFMPYP_BedlamBlasting:1.5100,",0,,-1
+final,ARFMPYP_BrutalistMuton,ARFMPYP_BrutalistMuton,None,,1,ARFMPYP_BrutalistMuton,-1
+final,ARFMPYP_TrooperAim,ARFMPYP_TrooperAim,None,,1,ARFMPYP_TrooperAim,-1

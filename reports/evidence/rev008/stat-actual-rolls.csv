@@ -1,0 +1,9 @@
+﻿수정 전후,배치,유닛,실제 계산기,카드 제외 판정,예측,시행,단일 성공,복수 표적 성공,카드,기대 일치
+before,261,Sectoid,X2AbilityToHitCalc_StatCheck_UnitVsUnit,0,40,128,0,0,True,True
+before,261,Sectoid,X2AbilityToHitCalc_StatCheck_UnitVsUnit,60,100,128,75,70,True,True
+before,262,Sectoid,X2AbilityToHitCalc_StatCheck_UnitVsUnit,0,0,128,0,0,False,True
+before,262,Sectoid,X2AbilityToHitCalc_StatCheck_UnitVsUnit,60,60,128,77,73,False,True
+final,261,Sectoid,X2AbilityToHitCalc_CoarseYearningUnitRoll,0,40,128,52,50,True,True
+final,261,Sectoid,X2AbilityToHitCalc_CoarseYearningUnitRoll,60,100,128,128,128,True,True
+final,262,Sectoid,X2AbilityToHitCalc_CoarseYearningUnitRoll,0,0,128,0,0,False,True
+final,262,Sectoid,X2AbilityToHitCalc_CoarseYearningUnitRoll,60,60,128,79,81,False,True

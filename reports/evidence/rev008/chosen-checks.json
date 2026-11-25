@@ -1,0 +1,17 @@
+{
+  "expected": 1728,
+  "native_records": 1728,
+  "missing": [],
+  "duplicates": [],
+  "failed": [],
+  "cover_rows": 292,
+  "cover_failed": [],
+  "cover_observations": {
+    "ARFMDedicationPower/CT_None/0,0": 135,
+    "ARFMDedicationChange/CT_None/0,0": 135,
+    "ARFMDedicationPower/CT_MidLevel/24,24": 11,
+    "ARFMDedicationChange/CT_MidLevel/10,10": 11
+  },
+  "field_loadouts": 30,
+  "fully_owned": 30
+}

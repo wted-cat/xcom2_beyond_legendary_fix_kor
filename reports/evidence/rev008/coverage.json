@@ -1,0 +1,131 @@
+{
+  "ABILITY": {
+    "logged": 571,
+    "ARFM": 555,
+    "TPY": 7
+  },
+  "CHAR": {
+    "logged": 895,
+    "ARFM": 31,
+    "TPY": 0
+  },
+  "ITEM": {
+    "logged": 180,
+    "ARFM": 28,
+    "TPY": 0
+  },
+  "STRATEGY": {
+    "logged": 270,
+    "ARFM": 69,
+    "TPY": 28
+  },
+  "NODEDEF": {
+    "logged": 6095,
+    "ARFM": 65,
+    "TPY": 88
+  },
+  "ARFM_ability_status": {
+    "등록": 449,
+    "등록 / 과거 전투": 12,
+    "턴 외": 47,
+    "보유": 10,
+    "적 턴": 14,
+    "생성 / 과거 전투": 1,
+    "생성": 22
+  },
+  "ARFM_characters_placed": 31,
+  "ARFM_characters_hostile_turn_action": 31,
+  "all_ability_ids": 6259,
+  "field_runs": {
+    "MatrixBase": {
+      "complete": true,
+      "cases": 12,
+      "game_log_sha256": "fb291dea65e9258c4ef36696371fa6d85196c2f9d85e64ec2446f6b577950f74"
+    },
+    "ChosenRoles": {
+      "complete": true,
+      "cases": 15,
+      "game_log_sha256": "14868c0b0f9b7b0f03b83549334975a69bd558ce39ab5642721ae934e01e6fea"
+    },
+    "PowersBefore": {
+      "complete": true,
+      "cases": 15,
+      "game_log_sha256": "0c040890c22148f620c4c757b559707a67eeb5e46cbcc06248a439338ba56aeb"
+    },
+    "PowersAfter": {
+      "complete": true,
+      "cases": 30,
+      "game_log_sha256": "ef021cb7366763672ec9fd64d96bf41a7f6d0720f50e8b86f9351b5b05261f0d"
+    },
+    "FieldRoster": {
+      "complete": true,
+      "cases": 25,
+      "game_log_sha256": "f6519697de4577da22b5bf1660c69445dc4d5fb0d5d25d3e5f41e3c386e1b4d0"
+    },
+    "ChosenStones": {
+      "complete": true,
+      "cases": 10,
+      "game_log_sha256": "918e5ff1c16e06442cacb93c02856eaab85a438a11e03c1d4f5ea3bdd23a5fbd"
+    },
+    "FinalPowers": {
+      "complete": true,
+      "cases": 19,
+      "game_log_sha256": "9acebcfd21c440822e7bdbe02b10cb01fcaf4950b3d45ba05a2d65c3b0ef029e"
+    },
+    "PoisonOrder": {
+      "complete": false,
+      "cases": 35,
+      "game_log_sha256": "a41095937b37a6e998fff8c7c14d3f93181f41e0f18b49843e94fd3ec26caf34"
+    },
+    "PoisonOrderTail": {
+      "complete": true,
+      "cases": 6,
+      "game_log_sha256": "b76483734f0c39f650a1272803fb61943b8025c7e1a51b0cf9710b548dac2e54"
+    },
+    "AttachmentBefore": {
+      "complete": true,
+      "cases": 4,
+      "game_log_sha256": "355650e16942b78bd2444bd52d91a55ac7f8dac2ec1c5911d3eb661ae5f07f6c"
+    },
+    "FinalInteractions": {
+      "complete": true,
+      "cases": 51,
+      "game_log_sha256": "c1b2c0db0cf8b3b8f1670b701c4d3e4f10fcf80509f98ec44fbf50fb9d98fdc1"
+    },
+    "ExtraRoster": {
+      "complete": true,
+      "cases": 2,
+      "game_log_sha256": "7d39171aa29696a3a5969de8960b711e43e943039e83c11dd5407d5ec30972a6"
+    },
+    "FinalReplay": {
+      "complete": true,
+      "cases": 14,
+      "game_log_sha256": "cd9012bf4e72434f9e4879f34873a8af9e70f9c7587918d0fbe42a8ef9c7371e"
+    },
+    "FinalSupplement": {
+      "complete": true,
+      "cases": 3,
+      "game_log_sha256": "f598c73d356f15111b7cd5cae56959c5ac9511bd34843372cf511f5f9b213b7b"
+    },
+    "RollAfter": {
+      "complete": true,
+      "cases": 22,
+      "game_log_sha256": "8aecf3a7c86431e04edcbc320d82458779249b1c5b9d12907f9c23bf037dc267"
+    },
+    "RollConfirm": {
+      "complete": true,
+      "cases": 3,
+      "game_log_sha256": "4761d9db10a3279949ed89c1081309661a34f519e251a3f249a69dc7d1fe3a64"
+    },
+    "CatalogLoot": {
+      "complete": true,
+      "cases": 4,
+      "game_log_sha256": "bbb7da4b8928fbabf59e243d86c03bc1e3200f80be193846314a5ff6a107bd00"
+    },
+    "MindCooldown": {
+      "complete": true,
+      "cases": 1,
+      "game_log_sha256": "aa568e6ad04633cd78dbb4cf6d80368ebe587d3dad7bd6c29da0e23f387bff2d"
+    }
+  }
+}

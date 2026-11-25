@@ -1,0 +1,79 @@
+{
+  "RollPassA": {
+    "sha256": "6182d5d915438aceebc7c327dae3578fdf8c73ec4ce88b8d2c81fa831fea01a9",
+    "completed_trials": [
+      261,
+      262,
+      250,
+      253,
+      251,
+      252,
+      190
+    ],
+    "finished": false,
+    "exception_code": "0xc00000fd",
+    "incomplete_scenario": 200
+  },
+  "RollPartB": {
+    "sha256": "235760561535506ba6736458f489ca8b916f2012817f6f3ac9ae7d07db07060d",
+    "completed_trials": [
+      200,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      254,
+      260
+    ],
+    "finished": true
+  },
+  "RollPartC": {
+    "sha256": "834f0ce99e2bf8edd019c2e91d1ab9360dce0acc7291853d724a3c092e3d6282",
+    "completed_trials": [
+      255,
+      256
+    ],
+    "finished": true
+  },
+  "FinalSupplement": {
+    "sha256": "f598c73d356f15111b7cd5cae56959c5ac9511bd34843372cf511f5f9b213b7b",
+    "completed_trials": [
+      260,
+      261,
+      262
+    ],
+    "finished": true
+  },
+  "RollConfirm": {
+    "sha256": "4761d9db10a3279949ed89c1081309661a34f519e251a3f249a69dc7d1fe3a64",
+    "completed_trials": [
+      263,
+      264,
+      265
+    ],
+    "finished": true
+  },
+  "CatalogLoot": {
+    "sha256": "bbb7da4b8928fbabf59e243d86c03bc1e3200f80be193846314a5ff6a107bd00",
+    "completed_trials": [
+      238,
+      239,
+      240,
+      241
+    ],
+    "finished": true
+  },
+  "MindCooldown": {
+    "sha256": "aa568e6ad04633cd78dbb4cf6d80368ebe587d3dad7bd6c29da0e23f387bff2d",
+    "completed_trials": [
+      265
+    ],
+    "finished": true
+  }
+}

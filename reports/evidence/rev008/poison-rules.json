@@ -1,0 +1,2937 @@
+{
+  "Bind": [
+    "",
+    "+ARFMPYP_ViperShields,",
+    "X2Effect_PersistentStatChange:Bind:eDupe_Refresh:False,X2Effect_ViperBindSustained:BindSustainedEffect:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,ARFM_Effect_Bodyshield:ARFMBodyShield:eDupe_Ignore:False,"
+  ],
+  "SectopodLightningField": [
+    "",
+    "+ARFMPYP_StunningField,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "PsiBombStage1": [
+    "",
+    "+ARFMPYP_CodexSadness,+ARFMPYP_GrailCurse,",
+    "X2Effect_DisableWeapon:,X2Effect_ClearUnitValue:,X2Effect_ClearUnitValue:,X2Effect_RemoveEffects:,ARFM_Effect_Malfunction:,ARFM_Aspect_Grail:,"
+  ],
+  "MicroMissiles": [
+    "",
+    "+ARFMPYP_BlindingRockets,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_Blind:Blinded:eDupe_Refresh:False,"
+  ],
+  "EnergyShield": [
+    "",
+    "+ARFMPYP_Beaglebusting,",
+    "X2Effect_EnergyShield:EnergyShieldEffect:eDupe_Refresh:False,X2Effect_CoarseEnergyShield:ARFMPYPBeagleBusting:eDupe_Allow:False,"
+  ],
+  "EnergyShieldMk3": [
+    "",
+    "+ARFMPYP_Beaglebusting,",
+    "X2Effect_EnergyShield:EnergyShieldEffect:eDupe_Refresh:False,X2Effect_CoarseEnergyShield:ARFMPYPBeagleBusting:eDupe_Allow:False,"
+  ],
+  "HolyWarriorM1": [
+    "",
+    "+ARFMPYP_Battlehaunt,",
+    "X2Effect_PersistentStatChange:HolyWarriorEffect:eDupe_Ignore:False,X2Effect_CoarseHolyWarrior:ARFMPYPBattlehaunt:eDupe_Ignore:True,"
+  ],
+  "HolyWarriorM2": [
+    "",
+    "+ARFMPYP_Battlehaunt,",
+    "X2Effect_PersistentStatChange:HolyWarriorEffect:eDupe_Ignore:False,X2Effect_CoarseHolyWarrior:ARFMPYPBattlehaunt:eDupe_Ignore:True,"
+  ],
+  "HolyWarriorM3": [
+    "",
+    "+ARFMPYP_Battlehaunt,",
+    "X2Effect_PersistentStatChange:HolyWarriorEffect:eDupe_Ignore:False,X2Effect_CoarseHolyWarrior:ARFMPYPBattlehaunt:eDupe_Ignore:True,"
+  ],
+  "AdvPurifierFlamethrower": [
+    "",
+    "+ARFMPYP_SpookyFlame,+ARFMPYP_CripplingFlame,+ARFMPYP_RuinousFlame,+ARFMPYP_PyresOfDawn,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_RemoveEffectsByDamageType:,X2Effect_ApplyFireToWorld:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ApplyExplosiveFalloffWeaponDamage:,X2Effect_RemoveEffectsByDamageType:,X2Effect_Shattered:Shattered:eDupe_Ignore:False,ARFM_Effect_Decrepitude:ARFMPYPDecrepitude:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,ARFM_Aspect_Dawn:,"
+  ],
+  "AcidBlob": [
+    "",
+    "+ARFMPYP_BlindingAcid,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyAcidToWorld:,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_ApplyExplosiveFalloffWeaponDamage:,X2Effect_Blind:Blinded:eDupe_Refresh:False,"
+  ],
+  "BigDamnPunch": [
+    "",
+    "+ARFMPYP_StunningStrikes,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Stunned:Stunned:eDupe_Allow:False,"
+  ],
+  "BlazingPinionsStage2": [
+    "",
+    "+ARFMPYP_ChemicalPinions,+ARFMPYP_ChemicalPinions,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ApplyFireToWorld:,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_ApplyAcidToWorld:,"
+  ],
+  "DevastatingPunch": [
+    "",
+    "+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateBrainDamage:eDupe_Allow:False,X2Effect_Knockback:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateBrainDamage:eDupe_Allow:False,"
+  ],
+  "MindScorch": [
+    "",
+    "+ARFMPYP_EdgeOfMind,",
+    "X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ImmediateMultiTargetAbilityActivation:ImmediateDisorientOrPanic:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ImmediateMultiTargetAbilityActivation:ImmediateDisorientOrPanic:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,ARFM_Aspect_Edge:,"
+  ],
+  "Mindspin": [
+    "",
+    "+ARFMPYP_Soulfuse,+ARFMPYP_SoulPyres,+ARFMPYP_EdgeOfMind,",
+    "X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,X2Effect_MindControl:MindControl:eDupe_Ignore:False,X2Effect_RemoveEffects:,X2Effect_TriggerEvent:,X2Effect_Burning:Burning:eDupe_Refresh:False,ARFM_Aspect_Edge:,"
+  ],
+  "Bayonet": [
+    "",
+    "+ARFMPYP_BackBreakers,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateStunImpair:eDupe_Allow:False,X2Effect_TargetDamageDistanceBonus:Bayonet:eDupe_Refresh:False,"
+  ],
+  "CounterattackBayonet": [
+    "",
+    "+ARFMPYP_BackBreakers,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateStunImpair:eDupe_Allow:False,X2Effect_TargetDamageDistanceBonus:CounterattackBayonet:eDupe_Refresh:False,"
+  ],
+  "Vanish": [
+    "",
+    "+ARFMPYP_SpectreRegen,",
+    "X2Effect_RemoveEffects:,X2Effect_Vanish:Vanish:eDupe_Allow:False,X2Effect_ApplyMedikitHeal:,"
+  ],
+  "Horror": [
+    "",
+    "+ARFMPYP_SpectreFifthEye,+ARFMPYP_DeathCurse,",
+    "X2Effect_PerkAttachForFX:HorrorWillLossEffect:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_LifeSteal:,X2Effect_Marked:ARFMKnockMark:eDupe_Refresh:False,ARFM_Effect_DeathCurse:ARFMPYPDeathCurse:eDupe_Ignore:False,"
+  ],
+  "Shadowbind": [
+    "",
+    "+ARFMPYP_DarkEmbrace,",
+    "X2Effect_RemoveEffects:,X2Effect_OverrideDeathAction:ShadowbindUnconcious:eDupe_Allow:False,X2Effect_Persistent:Unconscious:eDupe_Ignore:False,X2Effect_SpawnShadowbindUnit:SpawnShadowbindUnit:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ShadowbindM2": [
+    "",
+    "+ARFMPYP_DarkEmbrace,",
+    "X2Effect_RemoveEffects:,X2Effect_OverrideDeathAction:ShadowbindUnconcious:eDupe_Allow:False,X2Effect_Persistent:Unconscious:eDupe_Ignore:False,X2Effect_SpawnShadowbindUnit:SpawnShadowbindUnit:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "StunLance": [
+    "",
+    "+ARFMPYP_BewilderingShocks,+ARFMPYP_PainTrain,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateStunImpair:eDupe_Allow:False,X2Effect_Bewildered:StunLance:eDupe_Allow:False,ARFM_Effect_PainTrain:,"
+  ],
+  "ViperNeonateBindAbility": [
+    "",
+    "+ARFMPYP_ViperShields,",
+    "X2Effect_PersistentStatChange:Bind:eDupe_Refresh:False,X2Effect_ViperBindSustained:BindSustainedEffect:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,ARFM_Effect_Bodyshield:ARFMBodyShield:eDupe_Ignore:False,"
+  ],
+  "KingBind": [
+    "",
+    "+ARFMPYP_ViperShields,",
+    "X2Effect_PersistentStatChange:Bind:eDupe_Refresh:False,X2Effect_ViperBindSustained:KingBindSustainedEffect:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,ARFM_Effect_Bodyshield:ARFMBodyShield:eDupe_Ignore:False,"
+  ],
+  "ARFM_TaipanEyes_GMPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFM_TaipanEyes_GMPassive:eDupe_Allow:False,"
+  ],
+  "ARFM_TaipanSkin_GMPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFM_TaipanSkin_GMPassive:eDupe_Allow:False,"
+  ],
+  "MZIceThrower": [
+    "",
+    "+ARFMPYP_SpookyFlame,+ARFMPYP_CripplingFlame,+ARFMPYP_RuinousFlame,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_RemoveEffectsByDamageType:,X2Effect_DLC_Day60Freeze:Freeze:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_Incandescence:MZIncandescence:eDupe_Refresh:False,X2Effect_ViscousAccelerant:MZViscousAccelerant:eDupe_Refresh:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,X2Effect_Blind:Blinded:eDupe_Refresh:False,X2Effect_PersistentStatChange:Poisoned:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_Shattered:Shattered:eDupe_Ignore:False,ARFM_Effect_Decrepitude:ARFMPYPDecrepitude:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "MZ_FDAndromedonFrostBlob": [
+    "",
+    "+ARFMPYP_BlindingAcid,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_RemoveEffectsByDamageType:,X2Effect_DLC_Day60Freeze:Freeze:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_ApplyExplosiveFalloffWeaponDamage:,X2Effect_Blind:Blinded:eDupe_Refresh:False,"
+  ],
+  "MZ_FDAdderRushAndBind_Bind": [
+    "",
+    "+ARFMPYP_ViperShields,",
+    "X2Effect_PersistentStatChange:Bind:eDupe_Refresh:False,X2Effect_ViperBindSustained:BindSustainedEffect:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,ARFM_Effect_Bodyshield:ARFMBodyShield:eDupe_Ignore:False,"
+  ],
+  "MZ_FDBigDamnPunch": [
+    "",
+    "+ARFMPYP_StunningStrikes,",
+    "X2Effect_RemoveEffectsByDamageType:,X2Effect_DLC_Day60Freeze:Freeze:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondarySlash_DamagePreview:,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_RemoveEffectsByDamageType:,X2Effect_DLC_Day60Freeze:Freeze:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZBitterChill:eDupe_Refresh:False,X2Effect_PersistentStatChange:MZChill:eDupe_Refresh:False,X2Effect_Knockback:,"
+  ],
+  "ARFMDESW_TemplarCultist": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDESW_TemplarCultist:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ReaperCannibal": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDESW_ReaperCannibal:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SkirmisherRage": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDESW_SkirmisherRage:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_FlandersFields": [
+    "",
+    "",
+    "ARFM_Effect_FlandersFields:ARFMTPYFlandersFields:eDupe_Allow:False,X2Effect_DamageImmunity:ARFMDESW_FlandersFields:eDupe_Allow:False,"
+  ],
+  "ARFMDedicationPower": [
+    "",
+    "",
+    "X2Effect_CoarseDedicationPower:ARFMDedicationPower:eDupe_Allow:False,"
+  ],
+  "ARFMDedicationEnlightenment": [
+    "",
+    "",
+    "ARFM_Dedication_Enlightenment:ARFMDedicationEnlightenment:eDupe_Allow:False,"
+  ],
+  "ARFMDedicationChange": [
+    "",
+    "",
+    "X2Effect_CoarseDedicationChange:ARFMDedicationChange:eDupe_Allow:False,"
+  ],
+  "ARFMDedicationSensation": [
+    "",
+    "",
+    "ARFM_Dedication_Sensation:ARFMDedicationSensation:eDupe_Allow:False,"
+  ],
+  "ARFMDedicationRememberance": [
+    "",
+    "",
+    "X2Effect_CoarseRemembrance:ARFMDedicationRememberance:eDupe_Allow:False,"
+  ],
+  "ARFMAspectKnock": [
+    "",
+    "",
+    "ARFM_Effect_IncrementKnock:,X2Effect_Marked:ARFMKnockMark:eDupe_Refresh:False,"
+  ],
+  "ARFMAspectMoth": [
+    "",
+    "",
+    "ARFM_Effect_Moth:ARFMAspectMoth:eDupe_Allow:False,"
+  ],
+  "ARFMAspectSoul": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,ARFM_Aspect_Soul:,"
+  ],
+  "ARFMAspectWinter": [
+    "",
+    "",
+    "ARFM_Aspect_Winter:,"
+  ],
+  "ARFMAspectBlood": [
+    "",
+    "",
+    "X2Effect_Persistent:Bleeding:eDupe_Refresh:False,ARFM_Aspect_Blood:ARFMAspectBlood:eDupe_Allow:False,"
+  ],
+  "ARFMAspectDawn": [
+    "",
+    "",
+    "X2Effect_Blind:Blinded:eDupe_Refresh:False,ARFM_Aspect_Dawn:,"
+  ],
+  "ARFMAspectSky": [
+    "",
+    "",
+    "X2Effect_Stunned:Stunned:eDupe_Allow:False,"
+  ],
+  "ARFMAspectGrail": [
+    "",
+    "",
+    "ARFM_Aspect_Grail:,"
+  ],
+  "ARFMAspectEdge": [
+    "",
+    "",
+    "ARFM_Aspect_Edge:,"
+  ],
+  "ARFMCapstoneAlmandine": [
+    "",
+    "",
+    "ARFM_Capstone_Almandine:ARFMCapstoneAlmandine:eDupe_Allow:False,"
+  ],
+  "ARFMCapstoneKyanite": [
+    "",
+    "",
+    "ARFM_Capstone_Kyanite:,"
+  ],
+  "ARFMCapstoneTanzanite": [
+    "",
+    "",
+    "X2Effect_CoarseTanzanite:ARFMCapstoneTanzanite:eDupe_Allow:False,"
+  ],
+  "ARFMCapstoneRoselite": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMCapstoneFlint": [
+    "",
+    "",
+    "ARFM_Capstone_Flint:ARFMCapstoneFlint:eDupe_Allow:False,"
+  ],
+  "ARFMCapstoneAzurite": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMCapstoneAzurite:eDupe_Allow:False,X2Effect_CoveringFire:CapstoneAzurite:eDupe_Ignore:False,"
+  ],
+  "ARFMCapstoneBrookite": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMCapstoneAugelite": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMCapstoneAugelite:eDupe_Allow:False,X2Effect_DLC_3Overdrive:DLC_3Overdrive:eDupe_Refresh:False,"
+  ],
+  "ARFMCapstoneShigaite": [
+    "",
+    "",
+    "X2Effect_CoarseShigaite:ARFMCapstoneShigaite:eDupe_Allow:False,"
+  ],
+  "ARFMCapstoneZoisite": [
+    "",
+    "",
+    "X2Effect_CoarseZoisite:ARFMCapstoneZoisite:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneCreedite": [
+    "",
+    "",
+    "ARFM_Keystone_Creedite:ARFMCreediteKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneBaryte": [
+    "",
+    "",
+    "ARFM_Keystone_Baryte:ARFMBaryteKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneEuclase": [
+    "",
+    "",
+    "ARFM_Keystone_Euclase:ARFMEuclaseKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneCavansite": [
+    "",
+    "",
+    "ARFM_Keystone_Cavansite:ARFMCavansiteKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneGahnite": [
+    "",
+    "",
+    "ARFM_Keystone_Gahnite:ARFMGahniteKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneIolite": [
+    "",
+    "",
+    "ARFM_Keystone_Iolite:ARFMIoliteKeystone:eDupe_Allow:False,"
+  ],
+  "ARFMKeystoneRhodolite": [
+    "",
+    "",
+    "ARFM_Keystone_Rhodolite:ARFMRhodoliteKeystone:eDupe_Ignore:False,"
+  ],
+  "ARFMKeystoneTinzenite": [
+    "",
+    "",
+    "ARFM_Keystone_Tinzenite:ARFMKeystoneTinzenite:eDupe_Ignore:False,"
+  ],
+  "ARFMLodestoneDemantoid": [
+    "",
+    "",
+    "ARFM_Lodestone_Demantoid:ARFMLodestoneDemantoid:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneAdamite": [
+    "",
+    "",
+    "X2Effect_IncrementUnitValue:,ARFM_Lodestone_Adamite:ARFMLodestoneAdamite:eDupe_Ignore:False,"
+  ],
+  "ARFMLodestoneAegirine": [
+    "",
+    "",
+    "ARFM_Lodestone_Aegirine:ARFMLodestoneAegirine:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneAmethyst": [
+    "",
+    "",
+    "X2Effect_CoarseAmethyst:ARFMLodestoneAmethyst:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneCitrine": [
+    "",
+    "",
+    "X2Effect_CoarseCitrine:ARFMLodestoneCitrine:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneCovellite": [
+    "",
+    "",
+    "ARFM_Lodestone_Covellite:ARFMLodestoneCovellite:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneElbaite": [
+    "",
+    "",
+    "ARFM_Lodestone_Elbaite:ARFMLodestoneElbaite:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneErythrite": [
+    "",
+    "",
+    "ARFM_Lodestone_Erythrite:ARFMLodestoneErythrite:eDupe_Allow:False,"
+  ],
+  "ARFMLodestoneLazurite": [
+    "",
+    "",
+    "ARFM_Lodestone_Lazurite:ARFMLodestoneLazurite:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_StunnerTurrets": [
+    "",
+    "",
+    "X2Effect_Stunned:Stunned:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_FootballTeam": [
+    "",
+    "",
+    "ARFM_Effect_FootballTeam:TotalCombatRange:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_ShieldSplitters": [
+    "",
+    "",
+    "ARFM_Effect_ShieldSplitter:ARFMShieldSplitter:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_HellstormLauncher": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyFireToWorld:,X2Effect_ApplyAcidToWorld:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_ApplyExplosiveFalloffWeaponDamage:,"
+  ],
+  "ARFMDESW_IceCold": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDESW_IceColdPassive": [
+    "",
+    "",
+    "ARFM_Effect_IceColdPassive:ARFMPYPIceCold:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_Shadowhorde": [
+    "",
+    "",
+    "ARFM_Effect_SpawnSpectre:ARFMDESW_Shadowhorde:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_GraveTouched": [
+    "",
+    "",
+    "ARFM_Effect_GraveTouched:,"
+  ],
+  "ARFMDESW_CowardlyFaceless": [
+    "",
+    "",
+    "ARFM_Effect_RunAwayFaceless:ARFMDESW_CowardlyFaceless:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_Suspicious": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDESW_Suspicious:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_MechapedePassive": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDESW_MechapedePassive:eDupe_Allow:False,X2Effect_BonusArmor:ARFMDESW_MechapedePassive:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SectopodPassive": [
+    "",
+    "",
+    "ARFM_Effect_SectopodPassive:ARFMTPYSectopoddies:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_Notoriety": [
+    "",
+    "",
+    "ARFM_Effect_Notoriety:ARFMNotoriety:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SecretFaceless": [
+    "",
+    "",
+    "ARFM_Effect_SpawnPYPFaceless:ARFMDESW_SecretFaceless:eDupe_Ignore:False,X2Effect_BreakUnitConcealment:,"
+  ],
+  "ARFMDESW_BrutalityDoctrine": [
+    "",
+    "",
+    "X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_YearningBasharBooster": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:BasharImmunities:eDupe_Allow:False,ARFM_Effect_NoOrdinaryRabbit:ARFMNoOrdinaryRabbit:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_TerrorDoctrine": [
+    "",
+    "",
+    "ARFM_Effect_CHATerror:,"
+  ],
+  "ARFMDESW_AlienSealedArmor": [
+    "+ARFMDESW_CHAAlienSealedArmor,",
+    "",
+    "X2Effect_DamageImmunity:ARFMDESW_AlienSealedArmor:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_StunlancerCounterAttack": [
+    "+ARFMDESW_CHAStunlancerCounter,",
+    "",
+    "X2Effect_ImmediateAbilityActivation:ImmediateStunImpair:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMDESW_StunlancerCounterStats": [
+    "+ARFMDESW_CHAStunlancerCounter,",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDESW_StunlancerCounterStats:eDupe_Allow:False,X2Effect_AdditionalAnimSets:ARFMDESW_StunlancerCounterStats:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_StunlancerCounterPrep": [
+    "+ARFMDESW_CHAStunlancerCounter,",
+    "",
+    "X2Effect_SetUnitValue:,"
+  ],
+  "ARFMDESW_StunlancerCounter": [
+    "+ARFMDESW_CHAStunlancerCounter,",
+    "",
+    ""
+  ],
+  "ARFMDESW_RestorationProtocols": [
+    "+ARFMDESW_CHARestorationProtocols,",
+    "",
+    "X2Effect_Regeneration:ARFMDERestorationProtocols:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_MutonBrutal": [
+    "+ARFMDESW_CHAMutonBrutal,",
+    "",
+    "X2Effect_Brutal:,X2Effect_Brutal:,"
+  ],
+  "ARFMDESW_ArchonTurbo": [
+    "+ARFMDESW_CHAArchonTurbo,",
+    "",
+    ""
+  ],
+  "ARFMDESW_MutonCQC": [
+    "+ARFMDESW_CHAMutonCQC,",
+    "",
+    "ARFM_Effect_MutonCQC:ARFMMutonCQC:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_ICEProtocols": [
+    "+ARFMDESW_CHAICEProtocols,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_ICEProtocols:eDupe_Allow:False,X2Effect_CoveringFire:ARFMICEProtocols:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_EnhancedWarframes": [
+    "+ARFMDESW_CHAEnhancedWarframes,",
+    "",
+    "X2Effect_DamageImmunity:ARFMDESW_EnhancedWarframes:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SafetyProtocols": [
+    "+ARFMDESW_CHASafetyProtocols,",
+    "",
+    ""
+  ],
+  "ARFMDESW_PriorityTargeting": [
+    "+ARFMDESW_CHAPriorityTargeting,",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDESW_ChosenRevengenceM3": [
+    "",
+    "",
+    "ARFM_Effect_ChosenRevengence:ARFMChosenRevengenceBooster:eDupe_Allow:False,ARFM_Effect_NoOrdinaryRabbit:ARFMNoOrdinaryRabbit:eDupe_Allow:False,X2Effect_PersistentStatChange:ARFMDESW_ChosenRevengenceM3:eDupe_Allow:False,X2Effect_BonusArmor:ARFMDESW_ChosenRevengenceM3:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ChosenRevengenceM2": [
+    "",
+    "",
+    "ARFM_Effect_ChosenRevengence:ARFMChosenRevengenceBooster:eDupe_Allow:False,X2Effect_PersistentStatChange:ARFMDESW_ChosenRevengenceM2:eDupe_Allow:False,X2Effect_BonusArmor:ARFMDESW_ChosenRevengenceM2:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ChosenRevengence": [
+    "",
+    "",
+    "ARFM_Effect_ChosenRevengence:ARFMChosenRevengenceBooster:eDupe_Allow:False,X2Effect_PersistentStatChange:ARFMDESW_ChosenRevengence:eDupe_Allow:False,X2Effect_BonusArmor:ARFMDESW_ChosenRevengence:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ChosenResilience": [
+    "",
+    "",
+    "X2Effect_RemoveEffectsByDamageType:,"
+  ],
+  "ARFMDESW_WarlockPsyBooster": [
+    "",
+    "",
+    "X2Effect_CoarseWarlockPsionics:ARFMWarlockPsyBooster:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ChosenFreeGrenade": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_RunBehaviorTree:ARFMDESW_ChosenFreeGrenade:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_PsychicScreens": [
+    "+ARFMDESW_CHAPsychicScreens,",
+    "",
+    "ARFM_Effect_PsychicScreens:ARFMDESW_PsychicScreens:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_RoboArmor": [
+    "+ARFMDESW_CHARoboArmor,",
+    "",
+    "X2Effect_DamageImmunity:ARFMDESW_RoboArmor:eDupe_Allow:False,X2Effect_BlastPadding:ARFMDESW_RoboArmor:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SpectreTrouble": [
+    "+ARFMDESW_CHASpectreTrouble,",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_RunBehaviorTree:ARFMDESW_SpectreTrouble:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SpectreTroublePassive": [
+    "+ARFMDESW_CHASpectreTrouble,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_SpectreTroublePassive:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_Woodpecker": [
+    "+ARFMDESW_CHAWoodpecker,",
+    "",
+    "X2Effect_CoarseSmartMunitions:ARFMDESW_Woodpecker:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_PriestProtein": [
+    "+ARFMDESW_CHAPriestProtein,",
+    "",
+    "X2Effect_CoarsePriestPsionics:ARFMDESW_PriestProtein:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_AndromedonGigachad": [
+    "+ARFMDESW_CHAAndromedonGigachad,",
+    "",
+    "ARFM_Effect_AndromedonGigachad:ARFMAndromedonGigachad:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SuperArchons": [
+    "+ARFMDESW_CHASuperArchons,",
+    "",
+    "X2Effect_RunBehaviorTree:ARFMDESW_SuperArchons:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SpeedyGonzales": [
+    "+ARFMDESW_CHASpeedyGonzales,",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMDESW_SpeedyGonzales:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_MutonReposition": [
+    "+ARFMDESW_CHAMutonReposition,",
+    "",
+    "ARFM_Effect_RepositionBehavior:ARFMRepositionBehavior:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_NetworkRepairs": [
+    "+ARFMDESW_CHANetworkRepairs,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_NetworkRepairs:eDupe_Allow:False,X2Effect_CoveringFire:ARFMDESWNetworkRepairs:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_NetworkRepairShot": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDESW_SnekSnuggles": [
+    "+ARFMDESW_CHASnekSnuggles,",
+    "",
+    "ARFM_Effect_SnekSnuggles:ARFMSnekSnuggles:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_RoboMadness": [
+    "+ARFMDESW_CHARoboMadness,",
+    "",
+    "X2Effect_Persistent:ARFMRoboMadness:eDupe_Refresh:False,X2Effect_ZeroIn:ZeroIn:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_MutonSkin": [
+    "+ARFMDESW_CHAMutonSkin,",
+    "",
+    "ARFM_Effect_MutonSkin:ARFMMutonSkin:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_TroopyFace": [
+    "+ARFMDESW_CHATroopyFace,",
+    "",
+    "ARFM_Effect_TroopyMcTroopface:ARFMTroopyMcTroopface:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_IncinerationPods": [
+    "+ARFMDESW_CHAIncinerationPods,",
+    "",
+    "ARFM_Effect_IncinerationPods:ARFMIncinerationPods:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_GatekeeperGirlboss": [
+    "+ARFMDESW_CHAGatekeeperGirlboss,",
+    "",
+    "ARFM_Effect_GatekeeperGirlboss:ARFMGatekeeperGirlboss:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_ChosenArmorRegen": [
+    "",
+    "",
+    "ARFM_Effect_ChosenAdaptiveArmor:ARFMChosenAdaptiveArmor:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_SlipperyStalkers": [
+    "+ARFMDESW_CHASlipperyStalkers,",
+    "",
+    "X2Effect_CoarseSlipperyStalkers:ARFMSlipperyStalker:eDupe_Refresh:False,"
+  ],
+  "ARFMDESW_FacelessJelly": [
+    "+ARFMDESW_CHAFacelessJelly,",
+    "",
+    "X2Effect_CoarseFacelessCritical:ARFMFacelessJelly:eDupe_Refresh:False,"
+  ],
+  "ARFMDESW_AwakenMySectopods": [
+    "+ARFMDESW_CHAAwakenMyPoddies,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_AwakenMySectopods:eDupe_Allow:False,X2Effect_CoveringFire:ARFMDESWAwakenSectopods:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_ChryssalidSteroids": [
+    "+ARFMDESW_CHALiddyRoids,",
+    "",
+    "X2Effect_CoarseChryssalidHits:ARFMLiddyRoids:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_AdvancedTraining": [
+    "+ARFMDESW_CHAAdvancedTraining,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_AdvancedTraining:eDupe_Allow:False,X2Effect_CoveringFire:ARFMDESWAdvancedTraining:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_TacticalAnalysis": [
+    "+ARFMDESW_CHATacticalAnal,",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDESW_BigDevelopment": [
+    "",
+    "",
+    "ARFM_Effect_BigDevelopment:ARFMBigDevelopment:eDupe_Ignore:False,"
+  ],
+  "ARFMDESW_Terror": [
+    "",
+    "",
+    "ARFM_Effect_CHATerror:,"
+  ],
+  "ARFMDESW_IdentityTracking": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDESW_IdentityTracking:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_YearningTracker": [
+    "",
+    "",
+    "ARFM_Effect_YearningTracker:ARFMDESW_YearningTracker:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_GrenadeBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_GrenadeBreakthrough:ARFMGrenadeBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_StunlanceBreakthrough": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDESWB_StunlanceBreakthrough:eDupe_Allow:False,ARFM_Effect_StunlanceDamage:ARFMStunlanceBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_AlienEnhancementBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_AlienEnhancement:ARFMDESWB_AlienEnhancementBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_ArmorBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_ArmorBreakthrough:ARFMArmorBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDESWB_MagBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_MagBreakthrough:ARFMMagBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDESWB_PlasBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_PlasBreakthrough:ARFMPlasBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDESWB_MeleeBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_MeleeBreakthrough:ARFMMeleeBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDESWB_MindBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_MindBreakthrough:ARFMMindBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDESWB_RoboPowerBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_AlienEnhancement:ARFMDESWB_RoboPowerBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_RoboWeaponBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_RoboWeaponBreakthrough:ARFMDESWB_RoboWeaponBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_ServoBreakthrough": [
+    "",
+    "",
+    "X2Effect_Regeneration:ARFMDEServoBreakthrough:eDupe_Allow:False,"
+  ],
+  "ARFMDESWB_TurretBreakthrough": [
+    "",
+    "",
+    "ARFM_Effect_TurretBreakthrough:ARFMDETurretBreakthrough:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_DynamicAlienRNF": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTPY_JANFlagellantPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTPY_JANFlagellantPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANWholeHeartedPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTPY_JANWholeHeartedPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANHighlanderPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTPY_JANHighlanderPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANOppressorPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTPY_JANOppressorPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANSpeed": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTPY_JANSpeed:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANMegaNades": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTPY_JANMegaNades:eDupe_Allow:False,ARFM_Effect_MegaGrenades:MegaGrenadeRange:eDupe_Ignore:False,"
+  ],
+  "ARFMTPY_JANMegaTank": [
+    "",
+    "",
+    "X2Effect_KineticPlating:ChosenKineticPlating:eDupe_Ignore:False,X2Effect_PersistentStatChange:ARFMTPY_JANMegaTank:eDupe_Allow:False,X2Effect_CoarseBasharShield:CoarseBasharShieldDR:eDupe_Ignore:False,"
+  ],
+  "ARFMTPY_JANOppression": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTPY_JANOppression:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANDistortion": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTPY_JANDistortion:eDupe_Allow:False,X2Effect_Regeneration:Regeneration:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_HeavyFog": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDEAbility_HeavyFog:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_MunitionsCache": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMDEAbility_ThreeActionPoints": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMDEAbility_ThreeActionPoints:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_SneakyStealthy": [
+    "",
+    "",
+    "ARFM_Effect_SitrepConcealment:ARFMDEAbility_SneakyStealthy:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_Blitzkrieg": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_PersistentStatChange:ARFMDEBlitzkrieg:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_RunAndGun": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_PersistentStatChange:ARFMSitrepRunAndGun:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_HazmatCleanup": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:ARFMDEAbility_HazmatCleanup:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_XCOMGrenades": [
+    "",
+    "",
+    "ARFM_Effect_ScorchedEarth:ARFMFreeGrenade:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_XCOMShields": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMDEAbility_AlienArmor": [
+    "",
+    "",
+    "ARFM_Effect_ExperimentalArmor:ARFMDEAbility_AlienArmor:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_HighGround": [
+    "",
+    "",
+    "X2Effect_Groundling:ARFMDEAbility_HighGround:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_Brittleness": [
+    "",
+    "",
+    "X2Effect_TargetDamageDistanceBonus:ARFMDEBrittle:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_OverwatchWeakness": [
+    "",
+    "",
+    "X2Effect_Impatient:ARFMDEAbility_OverwatchWeakness:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_ThermalAdaptation": [
+    "",
+    "",
+    "X2Effect_RemoveEffectsByDamageType:,"
+  ],
+  "ARFMDEAbility_Desolation": [
+    "",
+    "",
+    "ARFM_Effect_Desolation:ARFMDesolation:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIIWarlock": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTranscendenceIIIWarlock:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIIHunter": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDEAbility_TranscendenceIIIHunter:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIWarlock": [
+    "",
+    "",
+    "ARFM_Effect_UnstoppableForce:ARFMUnstoppableForce:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIHunter": [
+    "",
+    "",
+    "X2Effect_BloodTrail:BloodTrail:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIAssassin": [
+    "",
+    "",
+    "ARFM_Effect_AssassinParry:ARFMAssassinParry:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_TranscendenceIIAssassinAttack": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:BladestormTarget:eDupe_Allow:False,X2Effect_Knockback:,X2Effect_Dazed:Dazed:eDupe_Allow:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMDEAbility_TranscendenceIIAssassinAttack_LW": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:BladestormTarget:eDupe_Allow:False,X2Effect_Knockback:,X2Effect_Dazed:Dazed:eDupe_Allow:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMDEAbility_Nanomachines": [
+    "",
+    "",
+    "ARFM_Effect_Nanomachines:RequiemEventNanomachinesSon:eDupe_Allow:False,ARFM_Effect_ExperimentalArmor:ARFMDEAbility_Nanomachines:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_MechaMenace": [
+    "",
+    "",
+    "ARFM_Effect_ExperimentalArmor:ARFMDEAbility_MechaMenace:eDupe_Allow:False,X2Effect_TurnStartActionPoints:ARFMDEAbility_MechaMenace:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TranscendenceShield": [
+    "",
+    "",
+    "ARFM_Effect_Transcendence:ARFMTranscendenceI:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_BloodTide": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_RunBehaviorTree:ARFMDEAbility_BloodTide:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_BloodTidePassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDEAbility_BloodTidePassive:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_BulwarkOfFaith": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:RequiemEventBulwarkOfFaithImmunities:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_DeepeningShadows": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMDEAbility_DeepeningShadows:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TheEyesInside": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDETheEyesInside:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TheEyesInside_LW": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDETheEyesInside:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_Regenerators": [
+    "",
+    "",
+    "X2Effect_Regeneration:Regeneration:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_Regenerators_LW": [
+    "",
+    "",
+    "X2Effect_Regeneration:Regeneration:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_ChryssalidReflexes": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMDEAbility_ChryssalidReflexes:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_ChryssalidSenses": [
+    "",
+    "",
+    "X2Effect_BreakUnitConcealment:,"
+  ],
+  "ARFMDEAbility_TurretUpgrades": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMDEAbility_TurretUpgrades:eDupe_Allow:False,X2Effect_PersistentStatChange:TurretUpgrades:eDupe_Allow:False,X2Effect_Guardian:ARFMDEAbility_TurretUpgrades:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_TurretUpgrades_LW": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMDEAbility_TurretUpgrades_LW:eDupe_Allow:False,X2Effect_PersistentStatChange:TurretUpgrades:eDupe_Allow:False,X2Effect_Guardian:ARFMDEAbility_TurretUpgrades_LW:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_Feedback": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMDEAbility_ExtraAmmoI": [
+    "",
+    "",
+    "ARFM_Effect_PrimaryAmmo:ARFMFreeReloads:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_ExtraAmmoII": [
+    "",
+    "",
+    "ARFM_Effect_HairTrigger:ARFMHairTrigger:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_MutonGrenadesI": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMDEAbility_MutonGrenadesII": [
+    "",
+    "",
+    "ARFM_Effect_ScorchedEarth:ARFMFreeGrenade:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_MutonGrenadesIII": [
+    "",
+    "",
+    "X2Effect_VolatileMix:ARFMDEAbility_MutonGrenadesIII:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_LingeringDread": [
+    "",
+    "",
+    "X2Effect_Guardian:ARFMDEAbility_LingeringDread:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_MedicalEmbargo": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMDEAbility_EnginesOfDoomI": [
+    "",
+    "",
+    "ARFM_Effect_EnginesOfDoomierDoom:ARFMEnginesOfDoomierDoom:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_EnginesOfDoomII": [
+    "",
+    "",
+    "ARFM_Effect_EnginesOfDoomiestDoom:ARFMDEAbility_EnginesOfDoomII:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_EnginesOfDoomIII": [
+    "",
+    "",
+    "ARFM_Effect_EnginesOfDoom:ARFMEnginesOfDoom:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_BuffWeaklings": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMDEAbility_SupremeArmor": [
+    "",
+    "",
+    "ARFM_Effect_EnginesOfDoomierDoom:ARFMEnginesOfDoomierDoom:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_PsyWar": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_RunBehaviorTree:ARFMDEAbility_PsyWar:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_PsyWarWeakDamage": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDEAbility_PsyWarModerateDamage": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDEAbility_PsyWarStrongDamage": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDEAbility_InexorableWillDamage": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDEAbility_BladeOfBiedde": [
+    "",
+    "",
+    "X2Effect_Persistent:Bleeding:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PsiAmpWill": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMPYP_PsiAmpWill:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_DemocracyUnifies": [
+    "+ARFMPYP_DemocracyUnifies,",
+    "",
+    "X2Effect_CoarseDemocracyUnifies:ARFMDemocracyUnifies:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_DemocracyLiberates": [
+    "+ARFMPYP_DemocracyLiberates,",
+    "",
+    "X2Effect_CoarseDemocracyLiberates:ARFMDemocracyLiberates:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_DemocracyProtects": [
+    "+ARFMPYP_DemocracyProtects,",
+    "",
+    "X2Effect_CoarseDemocracyProtects:ARFMDemocracyProtects:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_StubbornMule": [
+    "+ARFMPYP_StubbornMule,",
+    "",
+    "X2Effect_RemoveEffectsByDamageType:,"
+  ],
+  "ARFMPYP_SlickerThanOil": [
+    "+ARFMPYP_SlickerThanOil,",
+    "",
+    "ARFM_Effect_OilSlick:ARFMPYPOilSlick:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectoidFortress": [
+    "+ARFMPYP_SectoidFortress,",
+    "",
+    "X2Effect_Fortress:PsiFortress:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_Pinpoint": [
+    "+ARFMPYP_Pinpoint,",
+    "",
+    "X2Effect_CoarsePinpoint:ARFMPYPPinpoint:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_StationaryTyrants": [
+    "+ARFMPYP_StationaryTyrants,",
+    "",
+    "X2Effect_PersistentStatChange:ARFMPYPStationaryTyranny:eDupe_Ignore:False,ARFM_Effect_StationaryTyrants:ARFMPYPStationaryTyrants:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_ShieldbearerArmor": [
+    "+ARFMPYP_ShieldbearerArmor,",
+    "",
+    "X2Effect_BonusArmor:ARFMPYP_ShieldbearerArmor:eDupe_Allow:False,ARFM_Effect_PYPCritImmunity:ARFMPYPCritImmunity:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SectoidLauncher": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_ApplyExplosiveFalloffWeaponDamage:,"
+  ],
+  "ARFMPYP_MassiveDay": [
+    "+ARFMPYP_MassiveDay,",
+    "",
+    ""
+  ],
+  "ARFMPYP_PuddingEmpire": [
+    "+ARFMPYP_PuddingEmpire,",
+    "",
+    "ARFM_Effect_PuddingEmpire:ARFMPYPPuddingEmpire:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_MotivationalExecutions": [
+    "+ARFMPYP_MotivationalExecutions,",
+    "",
+    "X2Effect_PersistentStatChange:ARFMPYPMotivationalExecutions:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SectoidTeaParty": [
+    "+ARFMPYP_SectoidTeaParty,",
+    "",
+    "ARFM_Effect_SectoidTeaParty:ARFMSectoidTeaParty:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_LiddyBoxing": [
+    "+ARFMPYP_LiddyBoxing,",
+    "",
+    "X2Effect_CoarseBoxingBugs:ARFMPYP_LiddyBoxing:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SnakeOilers": [
+    "+ARFMPYP_SnakeOilers,",
+    "",
+    "ARFM_Effect_ScalePolish:ARFMScalePolish:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SillyLittleBleeder": [
+    "+ARFMPYP_SillyLittleBleeder,",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMPYP_SillyLittleBleeder:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SaltAndPepper": [
+    "+ARFMPYP_SaltAndPepper,",
+    "",
+    "ARFM_Effect_SaltAndPepper:ARFMSaltAndPepper:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PoliceBrutality": [
+    "+ARFMPYP_PoliceBrutality,",
+    "",
+    "X2Effect_CoarseStunLanceRefund:ARFMPYP_PoliceBrutality:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_NoOrdinaryRabbit": [
+    "+ARFMPYP_NoOrdinaryRabbit,",
+    "",
+    "ARFM_Effect_NoOrdinaryRabbit:ARFMNoOrdinaryRabbit:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_AvoidSnipes": [
+    "+ARFMPYP_AvoidSnipes,",
+    "",
+    "ARFM_Effect_AvoidSnipes:ARFMPYP_AvoidSnipes:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_TimeShift": [
+    "+ARFMPYP_TimeWar,",
+    "",
+    "X2Effect_CoarseTimeShiftDamage:,"
+  ],
+  "ARFMPYP_IndomitableForce": [
+    "+ARFMPYP_IndomitableForce,",
+    "",
+    "X2Effect_DamageImmunity:ARFMPYP_IndomitableForce:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_GhostSignal": [
+    "+ARFMPYP_GhostSignal,",
+    "",
+    "X2Effect_MindControl:MindControl:eDupe_Ignore:False,X2Effect_RemoveEffects:,X2Effect_PerkAttachForFX:HorrorWillLossEffect:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_Paynonets": [
+    "+ARFMPYP_Paynonets,",
+    "",
+    "X2Effect_PersistentStatChange:ARFMMutonPaynonets:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_NightmareFuel": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPYP_BedlamBlasting": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPYP_WeGotTheRockets": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPYP_WillToSurvive": [
+    "+ARFMPYP_WillToSurvive,",
+    "",
+    "ARFM_Effect_WillToSurvive:ARFMPYPWillToSurvive:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_HighCaliber": [
+    "+ARFMPYP_HighCaliber,",
+    "",
+    "X2Effect_CoarseHighCaliber:ARFMPYPHighCaliber:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_UnbelieverBane": [
+    "+ARFMPYP_UnbelieverBane,",
+    "",
+    "ARFM_Effect_UnbelieverBane:ARFMUnbelieverBane:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_BetrayerBane": [
+    "+ARFMPYP_BetrayerBane,",
+    "",
+    "ARFM_Effect_BetrayerBane:ARFMBetrayerBane:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_HereticBane": [
+    "+ARFMPYP_HereticBane,",
+    "",
+    "ARFM_Effect_HereticBane:ARFMHereticBane:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_AdventCrits": [
+    "+ARFMPYP_AdventCrits,",
+    "",
+    "ARFM_Effect_OmniCrit:ARFMOmniCrit:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_Dreadnaughts": [
+    "+ARFMPYP_Dreadnaughts,",
+    "",
+    "X2Effect_Persistent:ARFMPYPBattleborn:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_ArchonSteroid": [
+    "+ARFMPYP_ArchonSteroid,",
+    "",
+    "ARFM_Effect_ArchonSteroid:ARFMArchonSteroid:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_Battlehaunt": [
+    "+ARFMPYP_Battlehaunt,",
+    "",
+    "X2Effect_CoarseHolyWarrior:ARFMPYPBattlePriest:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_Battleborn": [
+    "+ARFMPYP_Battleborn,",
+    "",
+    "X2Effect_Persistent:ARFMPYPBattleborn:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_DroneOverlords": [
+    "",
+    "",
+    "ARFM_Effect_DroneOverlords:ARFMDroneOverlords:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_DeepPenetration": [
+    "+ARFMPYP_DeepPenetration,",
+    "",
+    "ARFM_Effect_IgnoreArmor:ARFMIgnoreArmor:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_MarkedForDeath": [
+    "",
+    "",
+    "ARFM_Effect_MarkedForDeath:ARFMMarkedForDeath:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SummaryExecution": [
+    "",
+    "",
+    "ARFM_Effect_SummaryExecution:ARFMSummaryExecution:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectopodHackResist": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPYP_SectopodGymrats": [
+    "+ARFMPYP_SectopodGymrats,",
+    "",
+    "ARFM_Effect_SectopodGymrats:ARFMSectopodGymrats:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectopodMania": [
+    "+ARFMPYP_SectopodMania,",
+    "",
+    "ARFM_Effect_SectopodMania:ARFMSectopodMania:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectopodShoes": [
+    "+ARFMPYP_SectopodShoes,",
+    "",
+    "ARFM_Effect_SectopodShoes:ARFMSectopodShoes:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_AndromedonWarpBeacon": [
+    "+ARFMPYP_AndromedonWarpBeacon,",
+    "",
+    ""
+  ],
+  "ARFMPYP_SuperSectoids": [
+    "+ARFMPYP_SuperSectoids,",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMPYP_MutonSuppressionShot": [
+    "+ARFMPYP_MutonSuppressionShot,",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMPYP_SpectreTeleport": [
+    "+ARFMPYP_SpectreTeleport,",
+    "",
+    ""
+  ],
+  "ARFMPYP_AndromedonPlating": [
+    "+ARFMPYP_AndromedonPlating,",
+    "",
+    "ARFM_Effect_AndromedonPlating:ARFMAndromedonCritImmune:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_GatekeeperSupershell": [
+    "+ARFMPYP_GatekeeperSupershell,",
+    "",
+    "ARFM_Effect_Supershell:ARFMSupershell:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SolidSectopod": [
+    "+ARFMPYP_SolidSectopod,",
+    "",
+    "ARFM_Effect_SolidSectopod:ARFMSolidSectopod:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_Stunmancy": [
+    "+ARFMPYP_Stunmancy,",
+    "",
+    "ARFM_Effect_Stunmancy:ARFMStunmancy:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_MutonTapdancer": [
+    "+ARFMPYP_MutonTapdancer,",
+    "",
+    "ARFM_Effect_MutonTapdancer:ARFMMutonTapdancer:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_PurifierUnicorn": [
+    "+ARFMPYP_PurifierUnicorn,",
+    "",
+    "ARFM_Effect_PurifierUnicorn:ARFMPurifierUnicorn:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_Zerkernaut": [
+    "+ARFMPYP_Zerkernaut,",
+    "",
+    "ARFM_Effect_Zerkernaut:ARFMZerkernaut:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ZombieRoids": [
+    "+ARFMPYP_ZombieRoids,",
+    "",
+    "X2Effect_PersistentStatChange:ARFMPYP_ZombieRoids:eDupe_Allow:False,ARFM_Effect_ZombieRoids:ARFMZombieRoids:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_AndromedonDoubleTap": [
+    "+ARFMPYP_AndromedonDoubleTap,",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMPYP_MacroMissiles": [
+    "+ARFMPYP_MacroMissiles,",
+    "",
+    "ARFM_Effect_MacroMissiles:ARFMMacroMissiles:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_TerrainMapping": [
+    "+ARFMPYP_TerrainMapping,",
+    "",
+    "ARFM_Effect_TerrainMapping:ARFMPYPTerrainMapping:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_MECArmor": [
+    "+ARFMPYP_MECArmor,",
+    "",
+    "X2Effect_BonusArmor:ARFMPYP_MECArmor:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_HitterMuton": [
+    "+ARFMPYP_HitterMuton,",
+    "",
+    "ARFM_Effect_OmniCrit:ARFMOmniCrit:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_BrutalistMuton": [
+    "+ARFMPYP_BrutalistMuton,",
+    "",
+    "ARFM_Effect_NeverGraze:ARFMNeverGraze:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ReactiveMuton": [
+    "+ARFMPYP_ReactiveMuton,",
+    "",
+    "ARFM_Effect_SuperReactionShots:ARFMSuperReactionShots:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_UmbraPriest": [
+    "+ARFMPYP_UmbraPriest,",
+    "",
+    "X2Effect_Brutal:,X2Effect_Brutal:,"
+  ],
+  "ARFMPYP_BattlePriest": [
+    "+ARFMPYP_BattlePriest,",
+    "",
+    ""
+  ],
+  "ARFMPYP_VoidPriest": [
+    "+ARFMPYP_VoidPriest,",
+    "",
+    ""
+  ],
+  "ARFMPYP_OfficerTacticLink": [
+    "+ARFMPYP_OfficerTacticLink,",
+    "",
+    "ARFM_Effect_TacticLink:ARFMTacticLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_TrooperTacticLink": [
+    "+ARFMPYP_TrooperTacticLink,",
+    "",
+    "ARFM_Effect_TacticLink:ARFMTacticLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_LancerTacticLink": [
+    "+ARFMPYP_LancerTacticLink,",
+    "",
+    "ARFM_Effect_TacticLink:ARFMTacticLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_PriestTacticLink": [
+    "+ARFMPYP_PriestTacticLink,",
+    "",
+    "ARFM_Effect_TacticLink:ARFMTacticLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ShieldbearerTacticLink": [
+    "+ARFMPYP_ShieldbearerTacticLink,",
+    "",
+    "ARFM_Effect_TacticLink:ARFMTacticLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_OfficerPrecisionLink": [
+    "+ARFMPYP_OfficerPrecisionLink,",
+    "",
+    "ARFM_Effect_PrecisionLink:ARFMPrecisionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_TrooperPrecisionLink": [
+    "+ARFMPYP_TrooperPrecisionLink,",
+    "",
+    "ARFM_Effect_PrecisionLink:ARFMPrecisionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_LancerPrecisionLink": [
+    "+ARFMPYP_LancerPrecisionLink,",
+    "",
+    "ARFM_Effect_PrecisionLink:ARFMPrecisionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_PriestPrecisionLink": [
+    "+ARFMPYP_PriestPrecisionLink,",
+    "",
+    "ARFM_Effect_PrecisionLink:ARFMPrecisionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ShieldbearerPrecisionLink": [
+    "+ARFMPYP_ShieldbearerPrecisionLink,",
+    "",
+    "ARFM_Effect_PrecisionLink:ARFMPrecisionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_OfficerPerceptionLink": [
+    "+ARFMPYP_OfficerPerceptionLink,",
+    "",
+    "ARFM_Effect_PerceptionLink:ARFMPerceptionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_TrooperPerceptionLink": [
+    "+ARFMPYP_TrooperPerceptionLink,",
+    "",
+    "ARFM_Effect_PerceptionLink:ARFMPerceptionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_LancerPerceptionLink": [
+    "+ARFMPYP_LancerPerceptionLink,",
+    "",
+    "ARFM_Effect_PerceptionLink:ARFMPerceptionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_PriestPerceptionLink": [
+    "+ARFMPYP_PriestPerceptionLink,",
+    "",
+    "ARFM_Effect_PerceptionLink:ARFMPerceptionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ShieldbearerPerceptionLink": [
+    "+ARFMPYP_ShieldbearerPerceptionLink,",
+    "",
+    "ARFM_Effect_PerceptionLink:ARFMPerceptionLink:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SectoidDamage": [
+    "+ARFMPYP_SectoidDamage,",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_OfficerDamage": [
+    "+ARFMPYP_OfficerDamage,",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_ViperDamage": [
+    "",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_MutonDamage": [
+    "",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SpectreDamage": [
+    "",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_TrooperDamage": [
+    "+ARFMPYP_TrooperDamage,",
+    "",
+    "ARFM_Effect_DamageAugment:ARFMDamageAugment:eDupe_Ignore:False,"
+  ],
+  "ARFMPYP_SectoidPsi": [
+    "+ARFMPYP_SectoidPsi,",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_LancerStun": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_BerserkerRoll": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_MutonRoll": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectopodAim": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_StunlancerAim": [
+    "+ARFMPYP_StunlancerAim,",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectoidAim": [
+    "+ARFMPYP_SectoidAim,",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_OfficerAim": [
+    "+ARFMPYP_OfficerAim,",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PriestAim": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_TrooperAim": [
+    "+ARFMPYP_TrooperAim,",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_ShieldbearerAim": [
+    "",
+    "",
+    "ARFM_Effect_AimAugment:ARFMPYPAimAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_StunlancerDefense": [
+    "+ARFMPYP_StunlancerDefense,",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectoidDefense": [
+    "",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PriestDefense": [
+    "",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_TrooperDefense": [
+    "+ARFMPYP_TrooperDefense,",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_ShieldbearerDefense": [
+    "",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_OfficerDefense": [
+    "+ARFMPYP_OfficerDefense,",
+    "",
+    "ARFM_Effect_DefenseAugment:ARFMPYPDefenseAugment:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_StunlancerMove": [
+    "+ARFMPYP_StunlancerMove,",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMPYP_StunlancerMove:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PurifierArmor": [
+    "+ARFMPYP_PurifierArmor,",
+    "",
+    "X2Effect_BonusArmor:ARFMPYP_PurifierArmor:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PurifierRegeneration": [
+    "+ARFMPYP_PurifierRegeneration,",
+    "",
+    "X2Effect_Regeneration:Regeneration:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_PurifierCranialReinforcement": [
+    "+ARFMPYP_PurifierCranialReinforcement,",
+    "",
+    "X2Effect_DamageImmunity:ARFMPYP_PurifierCranialReinforcement:eDupe_Allow:False,"
+  ],
+  "ARFMTA_PsiWeakPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_PsiWeakPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_HeartPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_HeartPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_SoulPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_SoulPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_MothPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_MothPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_SkyPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_SkyPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_DecrepitudePassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_DecrepitudePassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_WitherPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_WitherPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_SplinteredPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_SplinteredPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_KnockPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_KnockPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_DawnPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_DawnPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_WinterPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_WinterPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_BloodPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTA_BloodPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTA_ScarBloodVampire": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTA_ScarBloodThirsting": [
+    "",
+    "",
+    "ARFM_Effect_Thirsting:ARFMTABloodThirst:eDupe_Allow:False,"
+  ],
+  "ARFMTA_ScarBlood": [
+    "",
+    "",
+    "ARFM_Effect_Blood:ARFMTA_ScarBlood:eDupe_Allow:False,"
+  ],
+  "ARFMTA_ScarPsiWeak": [
+    "",
+    "",
+    "ARFM_Effect_PsiResonance:ARFMTraitResonance:eDupe_Ignore:False,ARFM_Effect_ResonanceStatMod:ARFMTraitResonanceStatMod:eDupe_Ignore:False,"
+  ],
+  "ARFMTA_ScarHeart": [
+    "",
+    "",
+    "X2Effect_Persistent:Bleeding:eDupe_Refresh:False,"
+  ],
+  "ARFMTA_PathsOfTheHeart": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_DLC_3Overdrive:DLC_3Overdrive:eDupe_Refresh:False,ARFM_Effect_PathsOfTheHeart:,"
+  ],
+  "ARFMTA_ScarSoul": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTA_SoulHack": [
+    "",
+    "",
+    "X2Effect_MindControl:MindControl:eDupe_Ignore:False,X2Effect_RemoveEffects:,"
+  ],
+  "ARFMTA_ScarMoth": [
+    "",
+    "",
+    "ARFM_Effect_Moth:ARFMTA_ScarMoth:eDupe_Allow:False,"
+  ],
+  "ARFMTA_MothLight": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,ARFM_Effect_MothMadness:,"
+  ],
+  "ARFMTA_ScarSky": [
+    "",
+    "",
+    "ARFM_Effect_PurgeEffects:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Dazed:Dazed:eDupe_Allow:False,"
+  ],
+  "ARFMTA_SkyEyes": [
+    "",
+    "",
+    "X2Effect_ScanningProtocol:ScanningProtocol:eDupe_Ignore:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_ScanningProtocol:ScanningProtocol:eDupe_Ignore:False,"
+  ],
+  "ARFMTA_ScarDecrepitude": [
+    "",
+    "",
+    "ARFM_Effect_Decrepitude:AHWScarDecrepitude:eDupe_Refresh:False,"
+  ],
+  "ARFMTA_DecrepitudeHunker": [
+    "",
+    "",
+    "ARFM_Effect_DecrepitudeHunker:ARFMDecrepitHunker:eDupe_Refresh:False,X2Effect_SharpshooterAim:SHARPSHOOTERAIMBONUS:eDupe_Refresh:False,X2Effect_RemoveEffects:,"
+  ],
+  "ARFMTA_ScarWither": [
+    "",
+    "",
+    "ARFM_Effect_WitherScars:ARFMWitherScars:eDupe_Ignore:False,ARFM_Effect_WitherDamageBonus:ARFMTA_ScarWither:eDupe_Ignore:False,ARFM_Effect_PurgeEffects:,"
+  ],
+  "ARFMTA_ScarSplintered": [
+    "",
+    "",
+    "ARFM_Effect_Unlucky:ARFMUnlucky:eDupe_Ignore:False,"
+  ],
+  "ARFMTA_ScarKnock": [
+    "",
+    "",
+    "X2Effect_AdditionalAnimSets:ARFMTA_ScarKnock:eDupe_Allow:False,X2Effect_IncrementUnitValue:,"
+  ],
+  "ARFMTA_ScarKnock2": [
+    "",
+    "",
+    "X2Effect_SetUnitValue:,X2Effect_BleedingOut:BleedingOut:eDupe_Ignore:False,X2Effect_ApplyWeaponDamage:,X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMTA_KnockSoulfire": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMTA_KnockInspire": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_Persistent:Inspiration:eDupe_Allow:False,"
+  ],
+  "ARFMTA_KnockInsanity": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,X2Effect_MindControl:MindControl:eDupe_Ignore:False,X2Effect_RemoveEffects:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMTA_KnockNullLance": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMTA_ScarDawn": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTA_ScarDawnReckoning": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTA_ScarWinter": [
+    "",
+    "",
+    "X2Effect_DLC_Day60Freeze:Freeze:eDupe_Refresh:False,X2Effect_RemoveEffectsByDamageType:,X2Effect_Stasis:Stasis:eDupe_Refresh:False,"
+  ],
+  "ARFMTA_WinterExtender": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTA_WinterCooldowns": [
+    "",
+    "",
+    ""
+  ],
+  "AHWDoomMist": [
+    "",
+    "+ARFMPYP_BlindingAcid,",
+    "X2Effect_SetUnitValue:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,AHW_Effect_ApplyCorrosionToWorld:,X2Effect_Blind:Blinded:eDupe_Refresh:False,"
+  ],
+  "AHWDoomMist2": [
+    "",
+    "+ARFMPYP_BlindingAcid,",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_Blind:Blinded:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Blind:Blinded:eDupe_Refresh:False,"
+  ],
+  "AHWMagnaDevastatingPunch": [
+    "",
+    "+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,+ARFMPYP_Spinebreakers,",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateBrainDamage:eDupe_Allow:False,X2Effect_Knockback:,X2Effect_SecondarySlash_DamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ImmediateAbilityActivation:ImmediateBrainDamage:eDupe_Allow:False,"
+  ],
+  "ARFMImpaler": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMImpaler:eDupe_Allow:False,"
+  ],
+  "ARFMTaipanEyes": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTaipanEyesBoost:eDupe_Allow:False,"
+  ],
+  "ARFMTaipanSkin": [
+    "",
+    "",
+    "ARFM_Effect_TaipanSkin:ARFMTaipanSkin:eDupe_Ignore:False,"
+  ],
+  "ARFMHinterNeurons": [
+    "",
+    "",
+    "X2Effect_TargetDamageTypeBonus:ARFMMirrorNeurons:eDupe_Ignore:False,X2Effect_AdditionalAnimSets:ARFMHinterNeurons:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpAOMagazine": [
+    "",
+    "",
+    "ARFM_Effect_AOMagazine:ARFM_Effect_SuperOverwatch:eDupe_Ignore:False,"
+  ],
+  "ARFMReqUpOWMagazine": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMReqUpMagazineSpeedUp": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMMagazineSpeed:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpMagazineSpeedDwn": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMMagazineSpeed:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpEOCapacitor": [
+    "",
+    "",
+    "X2Effect_Shredder:,X2Effect_HoloTarget:HolotargetingWepAttachment:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMReqUpOWCapacitor": [
+    "",
+    "",
+    "ARFM_Effect_OWCapacitor:ARFMOWCapacitor:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpPDCapacitorPassive": [
+    "",
+    "",
+    "ARFM_Effect_HalfDamageBurst:ARFMPDCapacitor:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpPDCapacitor": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMReqUpBDCapacitor": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_Shredder:,X2Effect_ApplyDirectionalWorldDamage:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMReqUpRDCapacitor": [
+    "",
+    "",
+    "ARFM_Effect_RDCapacitor:ARFMRDCapacitor:eDupe_Ignore:False,"
+  ],
+  "ARFMReqUpZeroscope": [
+    "",
+    "",
+    "ARFM_Effect_Zeroscope:ARFMZeroscope:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpPsychoscope": [
+    "",
+    "",
+    "ARFM_Effect_Psychoscope:ARFMPsychoscope:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpAutoscope": [
+    "",
+    "",
+    "ARFM_Effect_Autoscope:ARFMAutoscope:eDupe_Ignore:False,"
+  ],
+  "ARFMReqUpResonatingLens": [
+    "",
+    "",
+    "ARFM_Effect_ResonatingLens:ARFMResonatingLens:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpAmplifyingLens": [
+    "",
+    "",
+    "ARFM_Effect_AmplifyingLens:ARFMAmpLens:eDupe_Allow:False,"
+  ],
+  "ARFMReqUpFocusingLens": [
+    "",
+    "",
+    "ARFM_Effect_FocusingLens:ARFMFocusLens:eDupe_Allow:False,"
+  ],
+  "ARFMHighCycle": [
+    "",
+    "",
+    "ARFM_Effect_HighCycle:ARFMHighCycleMode:eDupe_Refresh:False,ARFM_Effect_HighCycle:ARFMHighCycleMode:eDupe_Refresh:False,"
+  ],
+  "ARFMLowCycle": [
+    "",
+    "",
+    "ARFM_Effect_LowCycle:ARFMLowCycleMode:eDupe_Refresh:False,ARFM_Effect_LowCycle:ARFMLowCycleMode:eDupe_Refresh:False,"
+  ],
+  "ARFMSparkCrits": [
+    "",
+    "",
+    "ARFM_Effect_FancyCrits:ARFMFancyCrits:eDupe_Allow:False,"
+  ],
+  "ARFMFloaterArmor": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMAtterChop": [
+    "",
+    "",
+    "ARFM_Effect_Atterchop:ARFMAtterChop:eDupe_Allow:False,"
+  ],
+  "ARFMGunAxeChop": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMMechapedePCS": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMMechapedePCS:eDupe_Ignore:False,"
+  ],
+  "ARFMResonantCores": [
+    "",
+    "",
+    "ARFM_Effect_ResonantCores:ARFMResonantCores:eDupe_Ignore:False,"
+  ],
+  "ARFMAutomatedAscent": [
+    "",
+    "",
+    "ARFM_Effect_AutomatedAscension:ARFMAutomatedAscension:eDupe_Ignore:False,"
+  ],
+  "ARFMDawnbreakerMelee": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMEndBind": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMXCOMAndromelidBladestorm": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMXCOMDesolate": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,"
+  ],
+  "ARFMRespiratorImplant": [
+    "",
+    "",
+    "ARFM_Effect_RespiratorImplant:ARFMRespiratorImplant:eDupe_Allow:False,X2Effect_DamageImmunity:AHWStrangleImmune:eDupe_Allow:False,"
+  ],
+  "ARFMSyuBlaster": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMNivenCapacitor": [
+    "",
+    "",
+    "ARFM_Effect_NivenCapacitor:ARFMNivenCapacitor:eDupe_Allow:False,X2Effect_PersistentStatChange:ARFMNivCapaPsi:eDupe_Allow:False,"
+  ],
+  "ARFMStainlessVest_LW": [
+    "",
+    "",
+    "ARFM_Effect_StainlessDreams:ARFMStainlessDreams:eDupe_Allow:False,X2Effect_DamageImmunity:ARFMStainlessVest_LW:eDupe_Allow:False,"
+  ],
+  "ARFMStainlessVest": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMStainlessVest:eDupe_Allow:False,ARFM_Effect_StainlessDreams:ARFMStainlessDreams:eDupe_Allow:False,X2Effect_DamageImmunity:ARFMStainlessVest:eDupe_Allow:False,"
+  ],
+  "ARFMStainlessChassis": [
+    "",
+    "",
+    "ARFM_Effect_StainlessDreams:ARFMStainlessDreams:eDupe_Allow:False,AHW_Effect_Fortitude:AHWFortitude:eDupe_Allow:False,X2Effect_DamageImmunity:ARFMStainlessChassis:eDupe_Allow:False,"
+  ],
+  "ARFMCaeraThal": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMValkyrie": [
+    "",
+    "",
+    "X2Effect_PersistentTraversalChange:ValkyrieFlight:eDupe_Refresh:False,ARFM_Effect_Aerial:ARFM_Effect_Aerial:eDupe_Ignore:False,"
+  ],
+  "ARFMReloadXaequez": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMTractorBeam": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_GetOverHere:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMArmorBonus": [
+    "",
+    "",
+    "X2Effect_BonusArmor:IncubatorAutopsy:eDupe_Allow:False,"
+  ],
+  "ARFMRipjackBonus": [
+    "",
+    "",
+    "X2Effect_BonusWeaponDamage:ARFMRipjackBonus:eDupe_Allow:False,"
+  ],
+  "ARFMShardGauntletsBonus": [
+    "",
+    "",
+    "X2Effect_BonusWeaponDamage:ARFMShardGauntletsBonus:eDupe_Allow:False,"
+  ],
+  "ARFMBalaKalReload": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMBalaDumExecute": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,ARFM_Effect_NeverMore:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,ARFM_Effect_NeverMore:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMKorKhazanCripple": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMKorKhazanImpaler": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMKorKhazanBoost:eDupe_Allow:False,"
+  ],
+  "ARFMTazKorOverwatch": [
+    "",
+    "",
+    "X2Effect_ReserveOverwatchPoints:,X2Effect_SetUnitValue:,"
+  ],
+  "ARFMSuperOverwatch": [
+    "",
+    "",
+    "ARFM_Effect_SuperOverwatch:ARFM_Effect_SuperOverwatch:eDupe_Ignore:False,"
+  ],
+  "ARFMTazNalAssault": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMTazNalAssault2": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMTalKhazanAntiCrit": [
+    "",
+    "",
+    "X2Effect_ToHitModifier:ARFMTalKhazanAntiCrit:eDupe_Ignore:False,"
+  ],
+  "ARFMTalKhazanCharge": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:TalKhazanChargedState:eDupe_Allow:False,"
+  ],
+  "ARFMTalKhazanShot": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,ARFM_Effect_TalKhazanDamage:,ARFM_Effect_TalKhazanDamage:,"
+  ],
+  "ARFMTalKhazanShotTargeted": [
+    "",
+    "",
+    "ARFM_Effect_TalKhazanDamage:,ARFM_Effect_TalKhazanDamage:,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Imposition:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Botnet_Debuff:eDupe_Allow:False,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,X2Effect_PersistentStatChange:M31_Botnet_HackEffect:eDupe_Allow:False,X2Effect_PersistentStatChange:M31_TroubleShooter_HackEffect:eDupe_Refresh:False,ARFM_Effect_TalKhazanDamage:,ARFM_Effect_TalKhazanDamage:,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_Persistent:RequiemCorrosion:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Imposition:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Botnet_Debuff:eDupe_Allow:False,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,"
+  ],
+  "ARFMMorKhazanStealth": [
+    "",
+    "",
+    "X2Effect_RangerStealth:RangerStealth:eDupe_Allow:False,X2Effect_Spotted:,"
+  ],
+  "ARFMMorKhazanMobility": [
+    "",
+    "",
+    "ARFM_Effect_KhazanHunt:ARFMKhazanHunt:eDupe_Ignore:False,"
+  ],
+  "ARFMMorKhazanMobility2": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,"
+  ],
+  "ARFMHaDumBanish": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMHaDumBanishContinue": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMKosmaGrenada": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMKosmaLaunch": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:KosmaCore:eDupe_Allow:False,"
+  ],
+  "ARFMSuperSuppression": [
+    "",
+    "",
+    "X2Effect_ApplyDirectionalWorldDamage:,X2Effect_Suppression:Suppression:eDupe_Allow:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,"
+  ],
+  "ARFMSuperSuppressionContinue": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMScavMarkBooster": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMScavMarkBooster:eDupe_Allow:False,"
+  ],
+  "ARFMScavSeizeTheMeans": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Suppression:Suppression:eDupe_Allow:False,X2Effect_DisableWeapon:,X2Effect_ClearUnitValue:,X2Effect_ClearUnitValue:,X2Effect_RemoveEffects:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMScavProteinPowder": [
+    "",
+    "",
+    "ARFM_Effect_ScavProteinPowder:ScavProteinPowder:eDupe_Allow:False,"
+  ],
+  "ARFMScavScrapper": [
+    "",
+    "",
+    "ARFM_Effect_ScavScrapper:ScavScrapper:eDupe_Ignore:False,"
+  ],
+  "ARFMScavSamurai": [
+    "",
+    "",
+    "ARFM_Effect_ScavSamurai:ScavSamurai:eDupe_Allow:False,"
+  ],
+  "ARFMScavBladestorm": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMScavBladestorm:eDupe_Allow:False,"
+  ],
+  "ARFMScavBladestormAttack": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:BladestormTarget:eDupe_Allow:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMScavProwler": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_Persistent:Bleeding:eDupe_Allow:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMScavSmellingSalts": [
+    "",
+    "",
+    "X2Effect_RemoveEffects:,X2Effect_GrantActionPoints:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,"
+  ],
+  "ARFMScavInstinct": [
+    "",
+    "",
+    "X2Effect_HuntersInstinctDamage:ARFMScavInstinct:eDupe_Ignore:False,"
+  ],
+  "ARFMScavLifesaver": [
+    "",
+    "",
+    "ARFM_Effect_ScavLifesaver:ScavLifesaver:eDupe_Allow:False,"
+  ],
+  "ARFMScavLootHunter": [
+    "",
+    "",
+    "ARFM_Effect_LootHunter:ScavLootHunter:eDupe_Ignore:False,"
+  ],
+  "ARFMScavGreed": [
+    "",
+    "",
+    "ARFM_Effect_ScavGreed:ARFMScavGreed:eDupe_Ignore:False,"
+  ],
+  "ARFMScavScrapyardWarlord": [
+    "",
+    "",
+    "X2Effect_ManualOverride:,"
+  ],
+  "ARFMScavScrapyardWarlord2": [
+    "",
+    "",
+    "X2Effect_ManualOverride:,"
+  ],
+  "ARFMScavSprint": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,"
+  ],
+  "ARFMLootEquipment": [
+    "",
+    "",
+    "ARFM_Effect_SpawnCorpseEquipLoot:ARFMLootedCorpse:eDupe_Ignore:False,X2Effect_Marked:MarkedTarget:eDupe_Ignore:False,"
+  ],
+  "ARFMLootCorpse": [
+    "",
+    "",
+    "ARFM_Effect_SpawnCorpseLoot:ARFMLootedCorpse:eDupe_Ignore:False,X2Effect_Marked:MarkedTarget:eDupe_Ignore:False,"
+  ],
+  "ARFMScavPackrat": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMScavPackrat:eDupe_Allow:False,"
+  ],
+  "ARFMScavChiliOil": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Panicked:Panicked:eDupe_Ignore:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMScavSlash": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMWitchVolt": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMWitchOverwatchActivate": [
+    "",
+    "",
+    "X2Effect_ReserveOverwatchPoints:,X2Effect_SetUnitValue:,"
+  ],
+  "ARFMWitchOverwatch": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMWitchNetherworldBridge": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMWitchNetherworldBridge:eDupe_Allow:False,"
+  ],
+  "ARFMWitchVoidPact": [
+    "",
+    "",
+    "X2Effect_Battlelord:Battlelord:eDupe_Ignore:False,"
+  ],
+  "ARFMWitchParry": [
+    "",
+    "",
+    "X2Effect_Parry:Parry:eDupe_Ignore:False,"
+  ],
+  "ARFMWitchParryActivate": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMWitchRend": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SetUnitValue:,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_Knockback:,X2Effect_SetUnitValue:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_SetUnitValue:,X2Effect_SetUnitValue:,X2Effect_SecondarySlash_DamagePreview:,X2Effect_Shredder:,ARFM_Effect_WitchHexDamage:,"
+  ],
+  "ARFMWitchScapegoat": [
+    "",
+    "",
+    "ARFM_Effect_FortifyBug:ARFMFortifyBug:eDupe_Allow:False,X2Effect_GrantActionPoints:,X2Effect_RunBehaviorTree:ARFMWitchScapegoat:eDupe_Allow:False,"
+  ],
+  "ARFMBugScapegoat": [
+    "",
+    "",
+    "X2Effect_BonusArmor:ScapegoatArmor:eDupe_Allow:False,ARFM_Effect_ScapeGoat:ARFMScapegoat:eDupe_Ignore:False,"
+  ],
+  "ARFMWitchOvercharge": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMWitchOverchargePassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMWitchOverchargePassive:eDupe_Allow:False,"
+  ],
+  "ARFMWitchDeflect": [
+    "",
+    "",
+    "X2Effect_Deflect:Deflect:eDupe_Ignore:False,"
+  ],
+  "ARFMWitchFortress": [
+    "",
+    "",
+    "X2Effect_Fortress:PsiFortress:eDupe_Ignore:False,"
+  ],
+  "ARFMWitchFervor": [
+    "",
+    "",
+    "X2Effect_BonusWeaponDamage:ARFMWitchFervor:eDupe_Allow:False,"
+  ],
+  "ARFMWitchConsume": [
+    "",
+    "",
+    "X2Effect_KillUnit:ARFMWitchConsume:eDupe_Allow:False,"
+  ],
+  "ARFMWitchMeditate": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMSpectralExchange": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMGhostOrder": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_ApplyMedikitHeal:,"
+  ],
+  "ARFMSpectralSlash": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMUnitAnims": [
+    "",
+    "",
+    "X2Effect_AdditionalAnimSets:ARFMUnitAnims:eDupe_Allow:False,X2Effect_AdditionalAnimSets:ARFMUnitAnims:eDupe_Allow:False,X2Effect_AdditionalAnimSets:ARFMUnitAnims:eDupe_Allow:False,"
+  ],
+  "ARFMBasicBug": [
+    "",
+    "",
+    "ARFM_Effect_SpawnBug:ARFMBasicBug:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantInevitablility": [
+    "",
+    "",
+    "ARFM_Effect_AspirantInevitability:AspirantInevitability:eDupe_Ignore:False,X2Effect_ModifyReactionFire:ARFMAspirantInevitablility:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantMirage": [
+    "",
+    "",
+    "X2Effect_RangerStealth:RangerStealth:eDupe_Allow:False,X2Effect_Spotted:,"
+  ],
+  "ARFMAspirantOverwhelm": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,X2Effect_MindControl:MindControl:eDupe_Ignore:False,X2Effect_RemoveEffects:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMAspirantImplacable": [
+    "",
+    "",
+    "ARFM_Effect_AspirantImplacable:ARFMAspirantImplacable:eDupe_Ignore:False,X2Effect_Persistent:AspirantImplacable:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantEndow": [
+    "",
+    "",
+    "X2Effect_GrantActionPoints:,X2Effect_PersistentStatChange:ARFMAspirantEndow:eDupe_Allow:False,X2Effect_IncrementUnitValue:,"
+  ],
+  "ARFMAspirantCataclysm": [
+    "",
+    "",
+    "X2Effect_ApplyDirectionalWorldDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,"
+  ],
+  "ARFMAspirantKillzone": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMAspirantUtility": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMAspirantUtility:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantAim": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMAspirantAim:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantHealth": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMAspirantHealth:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantShowdown": [
+    "",
+    "",
+    "X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMAspirantClarity": [
+    "",
+    "",
+    "ARFM_Effect_AspirantClarity:ARFMAspirantClarity:eDupe_Ignore:False,"
+  ],
+  "ARFMAspirantFinisher": [
+    "",
+    "",
+    "ARFM_Effect_AspirantFinisher:BloodTrail:eDupe_Ignore:False,"
+  ],
+  "ARFMAspirantTrencher": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMAspirantBreach": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMAspirantFocus": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMAspirantHeal": [
+    "",
+    "",
+    "X2Effect_ApplyMedikitHeal:,"
+  ],
+  "ARFMAspirantAnims": [
+    "",
+    "",
+    "X2Effect_AdditionalAnimSets:ARFMAspirantAnims:eDupe_Allow:False,"
+  ],
+  "ARFMAspirantContinuityBlessing": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMAspirantContinuityBlessing:eDupe_Allow:False,"
+  ],
+  "ARFMSoldierMines": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMSoldierMines:eDupe_Allow:False,"
+  ],
+  "ARFMCrazyBomber": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMCrazyBomber:eDupe_Allow:False,"
+  ],
+  "ARFMSerialBomber": [
+    "",
+    "",
+    "ARFM_Effect_Insurgent:ARFMSerialBomber:eDupe_Allow:False,"
+  ],
+  "ARFMBombManicI": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMBombManicI:eDupe_Allow:False,"
+  ],
+  "ARFMBombManicII": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMBombManicII:eDupe_Allow:False,"
+  ],
+  "ARFMMinerStealth": [
+    "",
+    "",
+    "X2Effect_RangerStealth:RangerStealth:eDupe_Allow:False,X2Effect_Spotted:,"
+  ],
+  "ARFMMinerSting": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMBombManicIII": [
+    "",
+    "",
+    "X2Effect_SetUnitValue:,"
+  ],
+  "ARFMDetonateLandminesGas": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:Poisoned:eDupe_Refresh:False,X2Effect_ApplyPoisonToWorld:,X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMDetonateLandminesAcid": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyAcidToWorld:,X2Effect_Burning:Acid:eDupe_Refresh:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMDetonateLandminesShock": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_RemoveEffects:,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Stunned:Stunned:eDupe_Allow:False,X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMDetonateLandmines": [
+    "",
+    "",
+    "X2Effect_SecondaryShotDamagePreview:,X2Effect_Burning:Burning:eDupe_Refresh:False,X2Effect_ApplyFireToWorld:,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_Panicked:Panicked:eDupe_Ignore:False,"
+  ],
+  "ARFMLandmines": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMLandminesAcid": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMLandminesGas": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMLandminesShock": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPrimebombs": [
+    "",
+    "",
+    "ARFM_Effect_VolatileMines:ARFM_Effect_VolatileMines:eDupe_Ignore:False,"
+  ],
+  "ARFMPsychoGunner": [
+    "",
+    "",
+    "ARFM_Effect_PsychoGunner:ARFMPsychoGunner:eDupe_Ignore:False,"
+  ],
+  "ARFMHomicidalLoon": [
+    "",
+    "",
+    "ARFM_Effect_ShootyMcShootface:ARFMHomicidalLoon:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaRiflePassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaRiflePassive:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaTrooperHeavyWeapon": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaTrooperHeavyWeapon:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaAntiLost": [
+    "",
+    "",
+    "ARFM_Effect_LostSlaughter:ARFMTeslaAntiLost:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaBoosterI": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaBoosterI:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaBoosterII": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaBoosterII:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaBoosterIII": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaBoosterIII:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaHacking": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTeslaHacking:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaSneak": [
+    "",
+    "",
+    "ARFM_Effect_TeslaStealth:ARFMTeslaStealth:eDupe_Allow:False,X2Effect_Spotted:,"
+  ],
+  "ARFMTeslaTrooperSupercharge": [
+    "",
+    "",
+    "ARFM_Effect_GremlinSupercharge:ARFMGremlinSupercharge:eDupe_Ignore:False,"
+  ],
+  "ARFMTeslaTrooperHunker": [
+    "",
+    "",
+    "X2Effect_LowProfile:ARFMTeslaTrooperHunker:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaTrooperScrambler": [
+    "",
+    "",
+    "ARFM_Effect_ScramblerBolts:ARFMScramblerBolts:eDupe_Ignore:False,"
+  ],
+  "ARFMTeslaTrooperBluescreen": [
+    "",
+    "",
+    "ARFM_Effect_TeslaBluescreen:ARFMTeslaBluescreen:eDupe_Ignore:False,"
+  ],
+  "ARFMTeslaTrooperShot": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:F_Imposition:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Botnet_Debuff:eDupe_Allow:False,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,X2Effect_SecondaryShotDamagePreview:,X2Effect_PersistentStatChange:M31_Botnet_HackEffect:eDupe_Allow:False,X2Effect_PersistentStatChange:M31_TroubleShooter_HackEffect:eDupe_Refresh:False,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyExplosiveFalloffWeaponDamage:,X2Effect_PersistentStatChange:F_Imposition:eDupe_Refresh:False,X2Effect_PersistentStatChange:F_Botnet_Debuff:eDupe_Allow:False,X2Effect_Persistent:Bleeding:eDupe_Refresh:False,"
+  ],
+  "ARFMTeslaDeadeye": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyExplosiveFalloffWeaponDamage:,"
+  ],
+  "ARFMTeslaDeadeyeDamage": [
+    "",
+    "",
+    "ARFM_Effect_TeslaDeadeye:ARFMTeslaDeadeyeDamage:eDupe_Allow:False,"
+  ],
+  "ARFMTeslaTrooperOverwatch": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMTeslaTrooperSuppression": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMDetonateProtocol": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMJammerProtocol": [
+    "",
+    "",
+    "X2Effect_DisableWeapon:,X2Effect_ClearUnitValue:,X2Effect_ClearUnitValue:,X2Effect_RemoveEffects:,"
+  ],
+  "ARFMMagneticProtocol": [
+    "",
+    "",
+    "X2Effect_GetOverHere:,"
+  ],
+  "ARFMTeslaKillZone": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMFusilierSniperNest": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMFusilierEaglesNest": [
+    "",
+    "",
+    "ARFM_Effect_EaglesNest:ARFMEffectEaglesNest:eDupe_Ignore:False,"
+  ],
+  "ARFMFusilierHawkeye": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMFusilierHawkeye:eDupe_Allow:False,"
+  ],
+  "ARFMFusilierFocus": [
+    "",
+    "",
+    "X2Effect_SetUnitValue:,X2Effect_SetUnitValue:,ARFM_Effect_TrackingFocus:ARFMEffectTrackingShotFocusListener:eDupe_Ignore:False,"
+  ],
+  "ARFMFusilierRapidFire": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMFusilierRapidFire2": [
+    "",
+    "",
+    "X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMFusilierChainShot": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMFusilierChainShot2": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMFusilierHailOfBullets": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMSuperTrackingShotMark": [
+    "",
+    "",
+    "X2Effect_TrackingShotMarkTarget:TrackingShotMarkTargetEffect:eDupe_Ignore:False,"
+  ],
+  "ARFMTrackingShotMark": [
+    "",
+    "",
+    "X2Effect_TrackingShotMarkTarget:TrackingShotMarkTargetEffect:eDupe_Ignore:False,"
+  ],
+  "ARFMTrackingShot": [
+    "",
+    "",
+    "X2Effect_HoloTarget:ChosenHoloTarget:eDupe_Refresh:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_Knockback:,ARFM_Effect_FusilierNeverMore:,X2Effect_RemoveEffects:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMFusilierLockedIn": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMFusilierLockedDown": [
+    "",
+    "",
+    "X2Effect_Suppression:Suppression:eDupe_Allow:False,X2Effect_HoloTarget:HoloTarget:eDupe_Refresh:False,X2Effect_Shredder:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMFusilierPrecsionDetonation": [
+    "",
+    "",
+    "X2Effect_RemoteStart:,"
+  ],
+  "ARFMKnightMelee": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMKnightParry": [
+    "",
+    "",
+    "X2Effect_Parry:Parry:eDupe_Ignore:False,"
+  ],
+  "ARFMKnightParryActivate": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMKnightBladestorm": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMKnightBladestorm:eDupe_Allow:False,"
+  ],
+  "ARFMKnightBladestormAttack": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_Persistent:BladestormTarget:eDupe_Allow:False,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFMKnightPsiBow": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,"
+  ],
+  "ARFMPulsescanner": [
+    "",
+    "",
+    "X2Effect_ScanningProtocol:ScanningProtocol:eDupe_Ignore:False,X2Effect_BreakUnitConcealment:,"
+  ],
+  "ARFMTorcherInit": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:AdvTorcherImmunities:eDupe_Allow:False,"
+  ],
+  "ARFMKriegsmarineInit": [
+    "",
+    "",
+    "X2Effect_DamageImmunity:AdvKriegsmarineImmunities:eDupe_Allow:False,"
+  ],
+  "ARFMMagnetronGrenades": [
+    "",
+    "",
+    "ARFM_Effect_MagnetronGrenades:ARFMMagnetronGrenades:eDupe_Allow:False,"
+  ],
+  "ARFMTorcherOverwatch": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,X2Effect_ApplyFireToWorld:,X2Effect_ApplyWeaponDamage:,X2Effect_ApplyExplosiveFalloffWeaponDamage:,"
+  ],
+  "ARFMTorcherGrapple": [
+    "",
+    "",
+    "X2Effect_GetOverThere:,"
+  ],
+  "ARFM_RunnerCounterStats": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFM_RunnerCounterStats:eDupe_Allow:False,"
+  ],
+  "ARFM_RunnerCounterAttack": [
+    "",
+    "",
+    "X2Effect_ImmediateAbilityActivation:ImmediateStunImpair:eDupe_Allow:False,X2Effect_ApplyWeaponDamage:,X2Effect_SecondarySlash_DamagePreview:,"
+  ],
+  "ARFM_RunnerCounter": [
+    "",
+    "",
+    ""
+  ],
+  "ARFM_RunnerCounterPrep": [
+    "",
+    "",
+    "X2Effect_SetUnitValue:,"
+  ],
+  "ARFMWretchPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMWretchPassive:eDupe_Allow:False,"
+  ],
+  "ARFMShamblerPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMShamblerPassive:eDupe_Allow:False,"
+  ],
+  "ARFMGhoulPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMGhoulPassive:eDupe_Allow:False,"
+  ],
+  "ARFMDraugrSatFire": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMWightDemolition": [
+    "",
+    "",
+    "X2Effect_ApplyDirectionalWorldDamage:,X2Effect_ApplyWeaponDamage:,X2Effect_SecondaryShotDamagePreview:,"
+  ],
+  "ARFMTPY_JANSniper": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMTPY_JANSniper:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_TacticalAnalysisPassive": [
+    "+ARFMDESW_CHATacticalAnal,",
+    "",
+    "X2Effect_Persistent:ARFMDESW_TacticalAnalysisPassive:eDupe_Allow:False,"
+  ],
+  "ARFMDEAbility_ArmoredInGold": [
+    "",
+    "",
+    "X2Effect_PersistentStatChange:ARFMDE_ArmoredInGoldPsi:eDupe_Ignore:False,"
+  ],
+  "ARFMDEAbility_MedicalSurplus": [
+    "",
+    "",
+    ""
+  ],
+  "ARFMPYP_MurderDrool": [
+    "+ARFMPYP_MurderDrool,",
+    "",
+    "X2Effect_CoarseViperPoison:ARFMMurderDrool:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANHighlander": [
+    "",
+    "",
+    "X2Effect_TurnStartActionPoints:ARFMTPY_JANHighlander:eDupe_Allow:False,X2Effect_DLC_3Overdrive:DLC_3Overdrive:eDupe_Refresh:False,X2Effect_PersistentStatChange:ARFMTPY_JANHighlander:eDupe_Allow:False,"
+  ],
+  "ARFMPYP_SectoidLauncherFuse": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_PersistentStatChange:Disoriented:eDupe_Refresh:False,X2Effect_Stunned:Stunned:eDupe_Allow:False,"
+  ],
+  "ARFMDESW_AvatarPower": [
+    "",
+    "",
+    "ARFM_Effect_AvatarPower:ARFMAvatarPower:eDupe_Ignore:False,ARFM_Effect_PriestProtein:ARFMDESW_AvatarPower:eDupe_Allow:False,X2Effect_DamageImmunity:ARFMDESW_AvatarPower:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANWallPassive": [
+    "",
+    "",
+    "X2Effect_Persistent:ARFMTPY_JANWallPassive:eDupe_Allow:False,"
+  ],
+  "ARFMTPY_JANMassFire": [
+    "",
+    "",
+    "X2Effect_ApplyWeaponDamage:,X2Effect_ApplyDirectionalWorldDamage:,X2Effect_ApplyWeaponDamage:,"
+  ]
+}
